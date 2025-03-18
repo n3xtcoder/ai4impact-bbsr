@@ -14,7 +14,7 @@ BBSR (Federal Institute for Research on Building, Urban Affairs and Spatial Deve
 
 This challenge is provided in collaboration with N3XTCODER.
 
-![BBSR Logo](img/bbsr-logo.svg)
+![BBSR Logo](img/bbsr-logo.svg)![N3XTCODER Logo](img/n3xtcoder-logo.png)
 
 The challenge splits into three primary goals:
 
