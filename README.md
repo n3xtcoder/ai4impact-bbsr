@@ -154,3 +154,10 @@ Your solution will be evaluated based on:
 - Basic Python libraries for data processing and analysis
 - Supplementary PDF documents with domain knowledge
 - Data exploration notebook with example analyses
+
+## Additional Reference Resources
+The following external resources provide valuable context for understanding sustainable building practices and can supplement the challenge goals:
+
+- [**Level(s)**](https://environment.ec.europa.eu/topics/circular-economy/levels_en) - The European Commission's common framework for assessing and reporting on the sustainability performance of buildings. Level(s) provides indicators covering energy, materials, water, health, comfort, climate change, and life cycle costs.
+- [**EU Taxonomy Navigator**](https://ec.europa.eu/sustainable-finance-taxonomy/) - A classification system establishing a list of environmentally sustainable economic activities, providing criteria for buildings and construction activities that contribute substantially to climate change mitigation and adaptation.
+- [**Leitfaden Nachhaltiges Bauen**](https://www.bmwsb.bund.de/SharedDocs/downloads/Webs/BMWSB/DE/publikationen/bauen/leitfaden-nachhaltiges-bauen.html) - The German "Guideline for Sustainable Building" from the Federal Ministry, is often referred to as "the Bible of sustainable building". It offers comprehensive guidance on integrating sustainability aspects throughout the building lifecycle, from planning and construction to use and recycling.
