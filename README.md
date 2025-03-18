@@ -121,6 +121,92 @@ When working with these datasets, consider these key circularity concepts:
 4. **Design your approach**: Plan your solution addressing one or more of the challenge goals
 5. **Implement and test**: Build your solution and validate against the provided datasets
 
+## Setting Up Your Python Environment
+
+To work with this project locally, follow these steps to set up your Python environment:
+
+### Prerequisites
+- Python 3.8 or higher
+- pip (Python package installer)
+- git
+
+### Environment Setup
+
+#### Option 1: Using venv (Python's built-in virtual environment)
+
+**On macOS/Linux:**
+```bash
+# Clone the repository (if you haven't already)
+git clone <repository-url>
+cd challenge
+
+# Create a virtual environment
+python3 -m venv env
+
+# Activate the virtual environment
+source env/bin/activate
+
+# Install the required packages
+pip install -r requirements.txt
+```
+
+**On Windows:**
+```bash
+# Clone the repository (if you haven't already)
+git clone <repository-url>
+cd challenge
+
+# Create a virtual environment
+python -m venv env
+
+# Activate the virtual environment
+env\Scripts\activate
+
+# Install the required packages
+pip install -r requirements.txt
+```
+
+#### Option 2: Using Conda (Anaconda/Miniconda)
+
+```bash
+# Clone the repository (if you haven't already)
+git clone <repository-url>
+cd challenge
+
+# Create a conda environment
+conda create -n bbsr-challenge python=3.8
+
+# Activate the conda environment
+conda activate bbsr-challenge
+
+# Install the required packages
+pip install -r requirements.txt
+```
+
+### Running Jupyter Notebooks
+
+Once your environment is set up and activated, you can launch Jupyter to explore the notebooks:
+
+```bash
+jupyter notebook
+```
+
+This will open a browser window where you can navigate to and open the data_exploration.ipynb file.
+
+### Deactivating the Environment
+
+When you're done working on the project, you can deactivate the virtual environment:
+
+**For venv (macOS/Linux/Windows):**
+```bash
+deactivate
+```
+
+**For conda:**
+```bash
+conda deactivate
+```
+
 ## Evaluation Criteria
 
 Your solution will be evaluated based on:
