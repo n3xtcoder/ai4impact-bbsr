@@ -1,0 +1,166 @@
+# Enhancing Circular Construction in Germany (with BBSR)
+
+## Challenge Overview
+
+This challenge focuses on improving circular construction practices by leveraging AI to analyze building material data from Germany's standardized database for ecological evaluations.
+
+BBSR (Federal Institute for Research on Building, Urban Affairs and Spatial Development) is dedicated to promoting sustainable construction practices through standardized ecological evaluations. Their ÖKOBAUDAT database serves as Germany's official resource for life cycle assessment data in the building sector.
+
+✅ Standardized ecological evaluation – A comprehensive database of building materials and their environmental impacts throughout their lifecycle.
+
+✅ Government-backed research – Supported by the Federal Ministry for Housing, Urban Development and Building (BMWSB) to ensure reliable, high-quality data.
+
+✅ Sustainability-focused – Enabling better decision-making for more environmentally friendly and resource-efficient construction.
+
+This challenge is provided in collaboration with N3XTCODER.
+
+![BBSR Logo](img/bbsr-logo.svg)
+
+The challenge splits into three primary goals:
+
+1. **Material Connection & Disturbance Classification**
+![Goal 1: Material Connection & Disturbance Classification](img/goal_1.jpg)
+   - Analyzing material combinations in building components
+   - Identifying connection types that support circular construction
+   - Suggesting intuitive default connections between materials
+   - Classifying connection types according to pollution potential
+
+
+2. **Semantic Material Linking**
+![Goal 2: Semantic Material Linking](img/goal_2.jpg)
+   - Enabling matching of equivalent materials beyond current mappings
+   - Building semantic relationships between similar materials
+   - Creating connections based on material properties and specifications
+
+
+3. **Circularity Index Enhancement**
+![Goal 3: Circularity Index Enhancement](img/goal_3.jpg)
+   - Making circularity metrics more user-friendly and contextual
+   - Providing meaningful context around circularity scores
+   - Leveraging ÖKOBAUDAT and tBaustoff lifecycle data for better insights
+
+## Dataset Contents
+
+This package contains the following resources:
+
+- **[data_exploration.ipynb](data_exploration.ipynb)**: Jupyter notebook with sample analysis to help understand the datasets
+- **[data/OBD/](data/OBD/)**: Directory containing ÖKOBAUDAT datasets from different years (2020, 2023, 2024)
+- **[data/tBaustoff/](data/tBaustoff/)**: Directory containing tBaustoff dataset for material mappings
+- **[supplements/](supplements/)**: Additional PDF documents with relevant information
+
+## Data Schema
+
+### ÖKOBAUDAT Dataset
+
+The [ÖKOBAUDAT](https://www.oekobaudat.de/en.html) contains life cycle assessment (LCA) data on building materials, construction, transport, energy, and disposal processes. Three versions are provided:
+
+| Dataset | UUID | Description |
+|---------|------|-------------|
+| [OBD_2020_II.csv](data/OBD/OBD_2020_II.csv) | 448d1096-2017-4901-a560-f652a83c737e | 2020 version II |
+| [OBD_2023_I.csv](data/OBD/OBD_2023_I.csv) | 22885a6e-1765-4ade-a35e-ae668bd07256 | 2023 version I |
+| [OBD_2024_I.csv](data/OBD/OBD_2024_I.csv) | ca70a7e6-0ea4-4e90-a947-d44585783626 | 2024 version I |
+
+For detailed column descriptions, see [OBD_column_description.md](data/OBD/OBD_column_description.md).
+
+### tBaustoff Dataset
+
+The tBaustoff dataset provides material mapping information with 10 columns. It connects to the ÖKOBAUDAT dataset through process UUIDs and contains end-of-life scenario information for various materials.
+
+For detailed column descriptions, see [tBaustoff_column_description.md](data/tBaustoff/tBaustoff_column_description.md).
+
+**Notes on ÖKOBAUDAT Data**:
+- Each dataset contains environmental impact indicators organized by lifecycle phases
+- Material entries include detailed technical specifications and reference quantities
+- Data follows standardized categories based on international norms (EN 15804)
+- UUID identifiers ensure consistent referencing across different datasets
+
+### Dataset Structure
+
+The data follows this hierarchical organization:
+
+```
+data/
+├── OBD/
+│   ├── OBD_2020_II.csv
+│   ├── OBD_2023_I.csv
+│   ├── OBD_2024_I.csv
+│   └── OBD_column_description.md
+├── tBaustoff/
+│   ├── tBaustoff.csv
+│   └── tBaustoff_column_description.md
+└── supplements/
+    └── [Additional PDF documents]
+```
+
+## Understanding Building Circularity
+
+When working with these datasets, consider these key circularity concepts:
+
+1. **Material Connections**: How materials are joined affects their potential for disassembly
+   - Mechanical connections (screws, bolts) typically allow easier separation
+   - Chemical connections (adhesives, mortars) may hinder material recovery
+   - Connection design directly impacts end-of-life reusability
+
+2. **End-of-Life Scenarios**: Different materials have different potential pathways
+   - Reuse: Direct application in new construction (highest value retention)
+   - Recycling: Processing into new material (partial value retention)
+   - Downcycling: Processing into lower-value applications
+   - Disposal: Landfilling or incineration (lowest circularity value)
+
+3. **Environmental Indicators**: Key metrics to consider include
+   - Global Warming Potential (GWP)
+   - Primary Energy Demand (PED)
+   - Acidification Potential (AP)
+   - Resource depletion indicators
+
+## Getting Started
+
+1. **Explore the data**: Begin with the data_exploration.ipynb notebook to understand the datasets
+2. **Understand the schema**: Review the column description files to familiarize yourself with the data structure
+3. **Analyze material relationships**: Examine how materials are classified and mapped between datasets
+4. **Design your approach**: Plan your solution addressing one or more of the challenge goals
+5. **Implement and test**: Build your solution and validate against the provided datasets
+
+## Evaluation Criteria
+
+Your solution will be evaluated based on:
+
+1. **(Goal 1) Material Connection Analysis**
+   - Accuracy of connection type classification
+   - Intuitiveness of suggested default connections
+   - Effectiveness of pollution potential assessment
+   - Usability of the connection recommendation system
+
+2. **(Goal 2) Semantic Material Linking**
+   - Coverage of material equivalence detection
+   - Quality of semantic relationship modeling
+   - Scalability to new materials
+   - Robustness of property-based matching
+
+3. **(Goal 3) Circularity Metrics**
+   - User-friendliness of circularity scoring
+   - Contextual relevance of provided metrics
+   - Effective integration of lifecycle data
+   - Actionable insights for improving circularity
+
+4. **Technical Implementation**
+   - Code quality and documentation
+   - Performance with large datasets
+   - Innovative approaches to challenges
+   - Potential for practical application
+
+## Resources
+
+- Basic Python libraries for data processing and analysis
+- Supplementary PDF documents with domain knowledge
+- Data exploration notebook with example analyses
+
+Good luck and happy coding!
+
+## License
+
+This project is licensed under the terms specified in the LICENSE file.
+
+## Acknowledgments
+
+This challenge is provided by BBSR (Federal Institute for Research on Building, Urban Affairs and Spatial Development) in collaboration with N3XTCODER.
