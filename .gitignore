@@ -86,7 +86,7 @@ Temporary Items
 *.parquet
 
 # Except the data directly needed for the challenge
-!challenge/data/**/*.csv
+!data/**/*.csv
 
 # Logs
 logs

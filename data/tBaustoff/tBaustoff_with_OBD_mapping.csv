@@ -1,0 +1,816 @@
+oekobaudatProcessUuid,oekobaudatDatastockUuid,oekobaudatDatastockName,productId,tBaustoffVersion,productName,eolCategoryId,eolCategoryName,eolScenarioUnbuiltReal,eolScenarioUnbuiltPotential,technologyFactor
+3b1f0c75-07a4-4182-b310-5529fc5b54a6,22885a6e-1765-4ade-a35e-ae668bd07256,OBD_2023_I,1,2024-Q4,Acetyliertes Holz ,1,Holz - acetyliert,EV+,EV+,0.0
+0dec19c7-53db-4cb9-bbba-4d44d3da62a9,ca70a7e6-0ea4-4e90-a947-d44585783626,OBD_2024_I,1,2024-Q4,Acetyliertes Holz ,1,Holz - acetyliert,EV+,EV+,0.0
+bd6d6d89-b76d-4002-a217-afffbb8aa308,448d1096-2017-4901-a560-f652a83c737e,OBD_2020_II,2,2024-Q4,Aluminium Profil,2,Alu unbeschichtet od. eloxiert (Sz. Knetleg zu Guss),RC+,CL+,0.75
+fdc99ab8-d843-44ec-a66c-92367d244321,22885a6e-1765-4ade-a35e-ae668bd07256,OBD_2023_I,2,2024-Q4,Aluminium Profil,2,Alu unbeschichtet od. eloxiert (Sz. Knetleg zu Guss),RC+,CL+,0.75
+3feca796-791b-46d3-8160-95ef243ffb9d,ca70a7e6-0ea4-4e90-a947-d44585783626,OBD_2024_I,2,2024-Q4,Aluminium Profil,2,Alu unbeschichtet od. eloxiert (Sz. Knetleg zu Guss),RC+,CL+,0.75
+a4c1c27c-53a0-4027-83f6-88c52c758bb1,448d1096-2017-4901-a560-f652a83c737e,OBD_2020_II,3,2024-Q4,Aluminiumblech,2,Alu unbeschichtet od. eloxiert (Sz. Knetleg zu Guss),RC+,CL+,0.75
+f0f13788-bc1b-44d4-9f37-082a6d22b432,22885a6e-1765-4ade-a35e-ae668bd07256,OBD_2023_I,3,2024-Q4,Aluminiumblech,2,Alu unbeschichtet od. eloxiert (Sz. Knetleg zu Guss),RC+,CL+,0.75
+143a4df2-563e-4ef9-b75b-90e1cf9f7ef9,ca70a7e6-0ea4-4e90-a947-d44585783626,OBD_2024_I,3,2024-Q4,Aluminiumblech,2,Alu unbeschichtet od. eloxiert (Sz. Knetleg zu Guss),RC+,CL+,0.75
+55a89d7b-b585-404f-be34-bb7285730a89,448d1096-2017-4901-a560-f652a83c737e,OBD_2020_II,4,2024-Q4,Armierung (für Kunstharzspachtel),3,"Bitumenkaltkleber, Glasvlies, Glasfaserarmierung",EB,EB,0.0
+5c847387-b2b3-4ad5-8a11-e55488f957f6,22885a6e-1765-4ade-a35e-ae668bd07256,OBD_2023_I,4,2024-Q4,Armierung (für Kunstharzspachtel),3,"Bitumenkaltkleber, Glasvlies, Glasfaserarmierung",EB,EB,0.0
+d4a53a6a-2a78-4f43-90e1-aca206cb5668,ca70a7e6-0ea4-4e90-a947-d44585783626,OBD_2024_I,4,2024-Q4,Armierung (für Kunstharzspachtel),3,"Bitumenkaltkleber, Glasvlies, Glasfaserarmierung",EB,EB,0.0
+b8a9dd13-100b-40bf-b982-06937c4c5f65,22885a6e-1765-4ade-a35e-ae668bd07256,OBD_2023_I,101,2024-Q4,Glasfaser-Armierung,3,"Bitumenkaltkleber, Glasvlies, Glasfaserarmierung",EB,EB,0.0
+b3bb06b1-fefb-4e57-99ee-aa113000343b,ca70a7e6-0ea4-4e90-a947-d44585783626,OBD_2024_I,101,2024-Q4,Glasfaser-Armierung,3,"Bitumenkaltkleber, Glasvlies, Glasfaserarmierung",EB,EB,0.0
+fa976ebb-09ce-4e5b-9976-621d9ac1f12e,448d1096-2017-4901-a560-f652a83c737e,OBD_2020_II,103,2024-Q4,Glasvlies,3,"Bitumenkaltkleber, Glasvlies, Glasfaserarmierung",EB,EB,0.0
+49ff9df1-d12d-48f6-a391-0d72d695ffcf,22885a6e-1765-4ade-a35e-ae668bd07256,OBD_2023_I,103,2024-Q4,Glasvlies,3,"Bitumenkaltkleber, Glasvlies, Glasfaserarmierung",EB,EB,0.0
+71be07b3-39ff-47ce-b1c9-9c536daeb56e,ca70a7e6-0ea4-4e90-a947-d44585783626,OBD_2024_I,103,2024-Q4,Glasvlies,3,"Bitumenkaltkleber, Glasvlies, Glasfaserarmierung",EB,EB,0.0
+,,,5,2024-Q4,Asphalttragschicht - Hochbau,4,Asphalt (Hochbau),Dep+,CL+,0.75
+ad94ce55-af1d-4da0-963c-bf263aaa37ee,448d1096-2017-4901-a560-f652a83c737e,OBD_2020_II,107,2024-Q4,Gussasphalt,4,Asphalt (Hochbau),Dep+,CL+,0.75
+2d7f6993-c585-4674-b030-348434efeaca,22885a6e-1765-4ade-a35e-ae668bd07256,OBD_2023_I,107,2024-Q4,Gussasphalt,4,Asphalt (Hochbau),Dep+,CL+,0.75
+b29d88ed-8621-4ece-9e2f-78af05cb3f0f,ca70a7e6-0ea4-4e90-a947-d44585783626,OBD_2024_I,107,2024-Q4,Gussasphalt,4,Asphalt (Hochbau),Dep+,CL+,0.75
+19f46be3-d65a-441f-8d74-dfc412160cf1,448d1096-2017-4901-a560-f652a83c737e,OBD_2020_II,287,2024-Q4,Splittmastixasphalt SMA,4,Asphalt (Hochbau),Dep+,CL+,0.75
+78fb80c2-6d74-49fe-97fa-4d436af75106,22885a6e-1765-4ade-a35e-ae668bd07256,OBD_2023_I,287,2024-Q4,Splittmastixasphalt SMA,4,Asphalt (Hochbau),Dep+,CL+,0.75
+d24a85e3-f395-4124-9874-c01f977a893f,ca70a7e6-0ea4-4e90-a947-d44585783626,OBD_2024_I,287,2024-Q4,Splittmastixasphalt SMA,4,Asphalt (Hochbau),Dep+,CL+,0.75
+85de02e5-2782-4050-9c01-c5de3849fbce,448d1096-2017-4901-a560-f652a83c737e,OBD_2020_II,6,2024-Q4,Asphalttragschicht - Infrastruktur,5,Asphalt (Infrastrukturbau),RC+,CL+,0.75
+f34786e7-0953-4085-9f3d-955481cdd4ea,22885a6e-1765-4ade-a35e-ae668bd07256,OBD_2023_I,6,2024-Q4,Asphalttragschicht - Infrastruktur,5,Asphalt (Infrastrukturbau),RC+,CL+,0.75
+9795c91c-0918-46fa-8a51-47deb180c271,ca70a7e6-0ea4-4e90-a947-d44585783626,OBD_2024_I,6,2024-Q4,Asphalttragschicht - Infrastruktur,5,Asphalt (Infrastrukturbau),RC+,CL+,0.75
+,,,7,2024-Q4,"Balkenschichtholz Nadelholz - unbeschichtet, naturbelassen",6,"Holz - massiv, naturbelassen",RC+,CL+,0.75
+8041ec07-5885-40dc-bfc9-190013f6749b,448d1096-2017-4901-a560-f652a83c737e,OBD_2020_II,38,2024-Q4,Brettschichtholz Nadelholz,6,"Holz - massiv, naturbelassen",RC+,CL+,0.75
+c816b036-6bdf-48e5-8ef8-a76d7872f589,22885a6e-1765-4ade-a35e-ae668bd07256,OBD_2023_I,38,2024-Q4,Brettschichtholz Nadelholz,6,"Holz - massiv, naturbelassen",RC+,CL+,0.75
+86138863-3c1c-4345-9ae9-03ba28a5f9a7,ca70a7e6-0ea4-4e90-a947-d44585783626,OBD_2024_I,38,2024-Q4,Brettschichtholz Nadelholz,6,"Holz - massiv, naturbelassen",RC+,CL+,0.75
+,,,39,2024-Q4,Brettsperrholz,6,"Holz - massiv, naturbelassen",RC+,CL+,0.75
+,,,157,2024-Q4,Konstruktionsvollholz - naturbelassen,6,"Holz - massiv, naturbelassen",RC+,CL+,0.75
+08bbc2e2-1513-4ce3-816e-99e95fdafc4e,448d1096-2017-4901-a560-f652a83c737e,OBD_2020_II,267,2024-Q4,Schnittholz Buche ,6,"Holz - massiv, naturbelassen",RC+,CL+,0.75
+47522e31-78c8-43ea-aac4-c7c9d6ca30ab,22885a6e-1765-4ade-a35e-ae668bd07256,OBD_2023_I,267,2024-Q4,Schnittholz Buche ,6,"Holz - massiv, naturbelassen",RC+,CL+,0.75
+67b6c807-3924-4bc5-b983-6aeff6537e45,ca70a7e6-0ea4-4e90-a947-d44585783626,OBD_2024_I,267,2024-Q4,Schnittholz Buche ,6,"Holz - massiv, naturbelassen",RC+,CL+,0.75
+7ec1d463-fd99-4b1d-9a57-9a72cac408d2,448d1096-2017-4901-a560-f652a83c737e,OBD_2020_II,268,2024-Q4,Schnittholz Eiche,6,"Holz - massiv, naturbelassen",RC+,CL+,0.75
+54343f3c-d101-4dd4-883f-0515c44e38de,22885a6e-1765-4ade-a35e-ae668bd07256,OBD_2023_I,268,2024-Q4,Schnittholz Eiche,6,"Holz - massiv, naturbelassen",RC+,CL+,0.75
+17bcb2ce-39fd-400b-baf9-370c63589efd,ca70a7e6-0ea4-4e90-a947-d44585783626,OBD_2024_I,268,2024-Q4,Schnittholz Eiche,6,"Holz - massiv, naturbelassen",RC+,CL+,0.75
+3057d7c0-7bee-4ba2-9edf-517d4cd97a14,448d1096-2017-4901-a560-f652a83c737e,OBD_2020_II,269,2024-Q4,Schnittholz Fichte,6,"Holz - massiv, naturbelassen",RC+,CL+,0.75
+5f5a9cef-8b0a-4a8a-9828-9a681e5ee399,22885a6e-1765-4ade-a35e-ae668bd07256,OBD_2023_I,269,2024-Q4,Schnittholz Fichte,6,"Holz - massiv, naturbelassen",RC+,CL+,0.75
+f00557bd-5b73-4624-8c7b-834db8e8b106,ca70a7e6-0ea4-4e90-a947-d44585783626,OBD_2024_I,269,2024-Q4,Schnittholz Fichte,6,"Holz - massiv, naturbelassen",RC+,CL+,0.75
+aea021e8-7e2f-4f6b-ae3f-a76cba4c5d6e,448d1096-2017-4901-a560-f652a83c737e,OBD_2020_II,270,2024-Q4,Schnittholz Kiefer ,6,"Holz - massiv, naturbelassen",RC+,CL+,0.75
+d171cb17-81c4-41c9-9e14-0da45be14221,22885a6e-1765-4ade-a35e-ae668bd07256,OBD_2023_I,270,2024-Q4,Schnittholz Kiefer ,6,"Holz - massiv, naturbelassen",RC+,CL+,0.75
+0b87961e-ea66-4757-b483-229ece59cb97,ca70a7e6-0ea4-4e90-a947-d44585783626,OBD_2024_I,270,2024-Q4,Schnittholz Kiefer ,6,"Holz - massiv, naturbelassen",RC+,CL+,0.75
+8c47fba4-0e61-48d1-a03f-bf17911f0dae,448d1096-2017-4901-a560-f652a83c737e,OBD_2020_II,271,2024-Q4,Schnittholz Lärche,6,"Holz - massiv, naturbelassen",RC+,CL+,0.75
+9d1d96af-3f9b-41fb-bd33-43ec9e2fd1fd,22885a6e-1765-4ade-a35e-ae668bd07256,OBD_2023_I,271,2024-Q4,Schnittholz Lärche,6,"Holz - massiv, naturbelassen",RC+,CL+,0.75
+9f6cf0e4-7455-4c31-a99f-552926c4040e,ca70a7e6-0ea4-4e90-a947-d44585783626,OBD_2024_I,271,2024-Q4,Schnittholz Lärche,6,"Holz - massiv, naturbelassen",RC+,CL+,0.75
+d7073560-4c4b-4cb0-b6bf-a902950c5109,448d1096-2017-4901-a560-f652a83c737e,OBD_2020_II,272,2024-Q4,Schnittholz Zeder ,6,"Holz - massiv, naturbelassen",RC+,CL+,0.75
+de1d54e8-8211-416b-9ff6-cebeb5123c71,22885a6e-1765-4ade-a35e-ae668bd07256,OBD_2023_I,272,2024-Q4,Schnittholz Zeder ,6,"Holz - massiv, naturbelassen",RC+,CL+,0.75
+8bed6eec-b795-4585-b036-77f4344c1cf9,ca70a7e6-0ea4-4e90-a947-d44585783626,OBD_2024_I,272,2024-Q4,Schnittholz Zeder ,6,"Holz - massiv, naturbelassen",RC+,CL+,0.75
+ac361408-4ede-4ed2-a638-598ee3c53285,448d1096-2017-4901-a560-f652a83c737e,OBD_2020_II,8,2024-Q4,Balkenschichtholz Nadelholz - beschichtet,7,"Holz - massiv, beschichtet",RC+,CL-,1.0
+21500862-0dac-4cd2-b5bd-f6cb8d5b121b,22885a6e-1765-4ade-a35e-ae668bd07256,OBD_2023_I,8,2024-Q4,Balkenschichtholz Nadelholz - beschichtet,7,"Holz - massiv, beschichtet",RC+,CL-,1.0
+aeab0f39-5eab-422f-8c4b-822bb98aa63c,ca70a7e6-0ea4-4e90-a947-d44585783626,OBD_2024_I,8,2024-Q4,Balkenschichtholz Nadelholz - beschichtet,7,"Holz - massiv, beschichtet",RC+,CL-,1.0
+703eec32-59af-47e1-9c91-4a32afe3187f,448d1096-2017-4901-a560-f652a83c737e,OBD_2020_II,158,2024-Q4,Konstruktionsvollholz - beschichtet,7,"Holz - massiv, beschichtet",RC+,CL-,1.0
+f7f147bb-a27f-491a-9f5a-b21d6f24c61c,22885a6e-1765-4ade-a35e-ae668bd07256,OBD_2023_I,158,2024-Q4,Konstruktionsvollholz - beschichtet,7,"Holz - massiv, beschichtet",RC+,CL-,1.0
+6b363ddc-f127-4d44-9f4b-54daada07465,ca70a7e6-0ea4-4e90-a947-d44585783626,OBD_2024_I,158,2024-Q4,Konstruktionsvollholz - beschichtet,7,"Holz - massiv, beschichtet",RC+,CL-,1.0
+,,,9,2024-Q4,Beton - Carbonfasern / Textilbeton ,8,Beton - Carbonfasern ,Dep-,Dep-,0.0
+9357b7fc-cf0a-45fc-8299-e794e3889a40,448d1096-2017-4901-a560-f652a83c737e,OBD_2020_II,10,2024-Q4,"Betonfertigteil Decke 20cm - exkl. Bewehrung, Standard EoL",9,Beton Standard (ohne Bewehr.),RC+,RC+,1.0
+6575f9dd-8a50-440c-90df-30608167c739,22885a6e-1765-4ade-a35e-ae668bd07256,OBD_2023_I,10,2024-Q4,"Betonfertigteil Decke 20cm - exkl. Bewehrung, Standard EoL",9,Beton Standard (ohne Bewehr.),RC+,RC+,1.0
+45e6dcac-70b9-4982-bf04-4ff566facba1,ca70a7e6-0ea4-4e90-a947-d44585783626,OBD_2024_I,10,2024-Q4,"Betonfertigteil Decke 20cm - exkl. Bewehrung, Standard EoL",9,Beton Standard (ohne Bewehr.),RC+,RC+,1.0
+ab0a0f3c-41f6-4b0a-a12c-f8bd0c8a4a23,448d1096-2017-4901-a560-f652a83c737e,OBD_2020_II,11,2024-Q4,"Betonfertigteil Treppe (1,1 m Breite, 9 Stufen a 16 cm)  - exkl. Bewehrung, Standard EoL",9,Beton Standard (ohne Bewehr.),RC+,RC+,1.0
+2632f4e8-7671-4d87-a8bc-9defdb54d117,22885a6e-1765-4ade-a35e-ae668bd07256,OBD_2023_I,11,2024-Q4,"Betonfertigteil Treppe (1,1 m Breite, 9 Stufen a 16 cm)  - exkl. Bewehrung, Standard EoL",9,Beton Standard (ohne Bewehr.),RC+,RC+,1.0
+20b0761f-99e0-48db-b1e4-0fdb1b7739ef,ca70a7e6-0ea4-4e90-a947-d44585783626,OBD_2024_I,11,2024-Q4,"Betonfertigteil Treppe (1,1 m Breite, 9 Stufen a 16 cm)  - exkl. Bewehrung, Standard EoL",9,Beton Standard (ohne Bewehr.),RC+,RC+,1.0
+b342696e-2ebb-4fe1-a71d-f3520db0cee9,448d1096-2017-4901-a560-f652a83c737e,OBD_2020_II,12,2024-Q4,"Betonfertigteil Wand 12cm  - exkl. Bewehrung, Standard EoL",9,Beton Standard (ohne Bewehr.),RC+,RC+,1.0
+4ee14334-d724-44ec-a819-92b35500453b,22885a6e-1765-4ade-a35e-ae668bd07256,OBD_2023_I,12,2024-Q4,"Betonfertigteil Wand 12cm  - exkl. Bewehrung, Standard EoL",9,Beton Standard (ohne Bewehr.),RC+,RC+,1.0
+97b971c7-8d43-4650-bfd6-75fdcf9a2101,ca70a7e6-0ea4-4e90-a947-d44585783626,OBD_2024_I,12,2024-Q4,"Betonfertigteil Wand 12cm  - exkl. Bewehrung, Standard EoL",9,Beton Standard (ohne Bewehr.),RC+,RC+,1.0
+bdda4364-451f-4df2-a68b-5912469ee4c9,448d1096-2017-4901-a560-f652a83c737e,OBD_2020_II,13,2024-Q4,Beton-Mauersteine - Standard EoL,9,Beton Standard (ohne Bewehr.),RC+,RC+,1.0
+47583aa9-56d9-4b39-8cc3-e3513210dd17,22885a6e-1765-4ade-a35e-ae668bd07256,OBD_2023_I,13,2024-Q4,Beton-Mauersteine - Standard EoL,9,Beton Standard (ohne Bewehr.),RC+,RC+,1.0
+2cdcffc6-84e9-4238-b8af-beebabea9a2d,ca70a7e6-0ea4-4e90-a947-d44585783626,OBD_2024_I,13,2024-Q4,Beton-Mauersteine - Standard EoL,9,Beton Standard (ohne Bewehr.),RC+,RC+,1.0
+6739667a-49d1-4a9c-a4b2-eb542167710c,22885a6e-1765-4ade-a35e-ae668bd07256,OBD_2023_I,253,2024-Q4,Recycling Transportbeton C20/25 - exkl. Bewehrung,9,Beton Standard (ohne Bewehr.),RC+,RC+,1.0
+8f11c179-e367-4833-93f3-10597923c79c,ca70a7e6-0ea4-4e90-a947-d44585783626,OBD_2024_I,253,2024-Q4,Recycling Transportbeton C20/25 - exkl. Bewehrung,9,Beton Standard (ohne Bewehr.),RC+,RC+,1.0
+899ad6d2-c598-4831-bc0a-8638aa034a69,22885a6e-1765-4ade-a35e-ae668bd07256,OBD_2023_I,254,2024-Q4,Recycling Transportbeton C25/30 - exkl. Bewehrung,9,Beton Standard (ohne Bewehr.),RC+,RC+,1.0
+61c0c795-7116-407d-8635-68fe422f76a9,ca70a7e6-0ea4-4e90-a947-d44585783626,OBD_2024_I,254,2024-Q4,Recycling Transportbeton C25/30 - exkl. Bewehrung,9,Beton Standard (ohne Bewehr.),RC+,RC+,1.0
+b38f2dac-fa08-4a9c-ae8d-017f6e2f169f,22885a6e-1765-4ade-a35e-ae668bd07256,OBD_2023_I,255,2024-Q4,Recycling Transportbeton C30/37 - exkl. Bewehrung,9,Beton Standard (ohne Bewehr.),RC+,RC+,1.0
+3e15eb88-e824-4a81-972a-45e06930aa19,ca70a7e6-0ea4-4e90-a947-d44585783626,OBD_2024_I,255,2024-Q4,Recycling Transportbeton C30/37 - exkl. Bewehrung,9,Beton Standard (ohne Bewehr.),RC+,RC+,1.0
+5c89cce2-688c-4fed-aa02-eda80ffba5f7,22885a6e-1765-4ade-a35e-ae668bd07256,OBD_2023_I,256,2024-Q4,Recycling Transportbeton C50/60  - exkl. Bewehrung,9,Beton Standard (ohne Bewehr.),RC+,RC+,1.0
+732a4fb1-1017-4682-ac12-49a256354964,ca70a7e6-0ea4-4e90-a947-d44585783626,OBD_2024_I,256,2024-Q4,Recycling Transportbeton C50/60  - exkl. Bewehrung,9,Beton Standard (ohne Bewehr.),RC+,RC+,1.0
+d84cbf6a-0a50-426f-aa3d-c45918b43575,448d1096-2017-4901-a560-f652a83c737e,OBD_2020_II,310,2024-Q4,Tragdeckschicht  Beton,9,Beton Standard (ohne Bewehr.),RC+,RC+,1.0
+24d554b6-a720-45a3-b80d-17a46e612f26,22885a6e-1765-4ade-a35e-ae668bd07256,OBD_2023_I,310,2024-Q4,Tragdeckschicht  Beton,9,Beton Standard (ohne Bewehr.),RC+,RC+,1.0
+c6f77799-ed43-4ec4-bfc3-0759e41b60ca,ca70a7e6-0ea4-4e90-a947-d44585783626,OBD_2024_I,310,2024-Q4,Tragdeckschicht  Beton,9,Beton Standard (ohne Bewehr.),RC+,RC+,1.0
+9702d9ab-2af2-4fdc-9d99-225583a9ffb7,448d1096-2017-4901-a560-f652a83c737e,OBD_2020_II,315,2024-Q4,"Transportbeton C20/25 - exkl. Bewehrung, Standard EoL",9,Beton Standard (ohne Bewehr.),RC+,RC+,1.0
+923e1c71-f172-4902-a5f5-c4a1e8a773bc,22885a6e-1765-4ade-a35e-ae668bd07256,OBD_2023_I,315,2024-Q4,"Transportbeton C20/25 - exkl. Bewehrung, Standard EoL",9,Beton Standard (ohne Bewehr.),RC+,RC+,1.0
+e3d7a045-ee91-43ac-8fb4-a5216c65ba0b,ca70a7e6-0ea4-4e90-a947-d44585783626,OBD_2024_I,315,2024-Q4,"Transportbeton C20/25 - exkl. Bewehrung, Standard EoL",9,Beton Standard (ohne Bewehr.),RC+,RC+,1.0
+d2ae1721-bb2a-4386-9d9f-abb1c774b0a8,22885a6e-1765-4ade-a35e-ae668bd07256,OBD_2023_I,316,2024-Q4,"Transportbeton C25/30 - exkl. Bewehrung, Standard EoL",9,Beton Standard (ohne Bewehr.),RC+,RC+,1.0
+a71e60a5-b64b-4715-ae8a-c8c8819149d2,ca70a7e6-0ea4-4e90-a947-d44585783626,OBD_2024_I,316,2024-Q4,"Transportbeton C25/30 - exkl. Bewehrung, Standard EoL",9,Beton Standard (ohne Bewehr.),RC+,RC+,1.0
+a758fb6a-7fb1-4cdc-b652-c42cf2f7632c,448d1096-2017-4901-a560-f652a83c737e,OBD_2020_II,317,2024-Q4,"Transportbeton C30/37 - exkl. Bewehrung, Standard EoL",9,Beton Standard (ohne Bewehr.),RC+,RC+,1.0
+258b377e-ec3b-4e8c-b3fd-dda1eb370f7d,22885a6e-1765-4ade-a35e-ae668bd07256,OBD_2023_I,317,2024-Q4,"Transportbeton C30/37 - exkl. Bewehrung, Standard EoL",9,Beton Standard (ohne Bewehr.),RC+,RC+,1.0
+d6f982e3-beda-49f0-a298-694fcbf3ba38,ca70a7e6-0ea4-4e90-a947-d44585783626,OBD_2024_I,317,2024-Q4,"Transportbeton C30/37 - exkl. Bewehrung, Standard EoL",9,Beton Standard (ohne Bewehr.),RC+,RC+,1.0
+079ed601-8b92-49cd-9c09-ab8e067366cf,22885a6e-1765-4ade-a35e-ae668bd07256,OBD_2023_I,318,2024-Q4,"Transportbeton C50/60 - exkl. Bewehrung, Standard EoL",9,Beton Standard (ohne Bewehr.),RC+,RC+,1.0
+0a1fa7f9-ad49-4942-a173-cb8c4ad99c9b,ca70a7e6-0ea4-4e90-a947-d44585783626,OBD_2024_I,318,2024-Q4,"Transportbeton C50/60 - exkl. Bewehrung, Standard EoL",9,Beton Standard (ohne Bewehr.),RC+,RC+,1.0
+e9ae96ee-ba8d-420d-9725-7c8abd06e082,448d1096-2017-4901-a560-f652a83c737e,OBD_2020_II,14,2024-Q4,Bewehrungsstahl,10,Stahl - Bewehrung,CL+,CL+,1.0
+8565038f-5c21-48d7-94cb-958498ba9dd3,22885a6e-1765-4ade-a35e-ae668bd07256,OBD_2023_I,14,2024-Q4,Bewehrungsstahl,10,Stahl - Bewehrung,CL+,CL+,1.0
+f6861618-5a92-4c3a-94ba-9f7329b29662,ca70a7e6-0ea4-4e90-a947-d44585783626,OBD_2024_I,14,2024-Q4,Bewehrungsstahl,10,Stahl - Bewehrung,CL+,CL+,1.0
+8de12467-96a0-459e-9f97-90e95fb7b23f,448d1096-2017-4901-a560-f652a83c737e,OBD_2020_II,15,2024-Q4,Naturbims Körnung,11,Bims / Blähschüttung,Dep+,RC+,0.75
+6d3a545c-07b1-4d65-8fa9-2574dca3f8d9,22885a6e-1765-4ade-a35e-ae668bd07256,OBD_2023_I,15,2024-Q4,Naturbims Körnung,11,Bims / Blähschüttung,Dep+,RC+,0.75
+18563fde-e042-4c4f-9a28-01de646ea9ef,ca70a7e6-0ea4-4e90-a947-d44585783626,OBD_2024_I,15,2024-Q4,Naturbims Körnung,11,Bims / Blähschüttung,Dep+,RC+,0.75
+81a76ff5-8928-4f71-8e1f-c7c78b7e5a95,448d1096-2017-4901-a560-f652a83c737e,OBD_2020_II,17,2024-Q4,Bimssand,11,Bims / Blähschüttung,Dep+,RC+,0.75
+050c82cc-9f07-48c2-a365-c41b1fa4fb1e,22885a6e-1765-4ade-a35e-ae668bd07256,OBD_2023_I,17,2024-Q4,Bimssand,11,Bims / Blähschüttung,Dep+,RC+,0.75
+5b1356cc-f9f5-46d8-b8ae-21d0a426baf4,ca70a7e6-0ea4-4e90-a947-d44585783626,OBD_2024_I,17,2024-Q4,Bimssand,11,Bims / Blähschüttung,Dep+,RC+,0.75
+e2306538-776d-4bc5-ae3b-1c920fb40285,448d1096-2017-4901-a560-f652a83c737e,OBD_2020_II,25,2024-Q4,Blähglas Körnung,11,Bims / Blähschüttung,Dep+,RC+,0.75
+03df95b7-c807-461d-a163-56a98528d8e8,22885a6e-1765-4ade-a35e-ae668bd07256,OBD_2023_I,25,2024-Q4,Blähglas Körnung,11,Bims / Blähschüttung,Dep+,RC+,0.75
+dad163a2-a15b-48e0-a763-6142445b5d42,ca70a7e6-0ea4-4e90-a947-d44585783626,OBD_2024_I,25,2024-Q4,Blähglas Körnung,11,Bims / Blähschüttung,Dep+,RC+,0.75
+b76ded67-067b-47f6-b131-a73db86039b0,448d1096-2017-4901-a560-f652a83c737e,OBD_2020_II,28,2024-Q4,Blähschiefer,11,Bims / Blähschüttung,Dep+,RC+,0.75
+d908dcf0-4db3-4f92-be60-79c6f5183aca,22885a6e-1765-4ade-a35e-ae668bd07256,OBD_2023_I,28,2024-Q4,Blähschiefer,11,Bims / Blähschüttung,Dep+,RC+,0.75
+e3dce4ce-b205-41b0-a033-ca8c6b1eaed0,ca70a7e6-0ea4-4e90-a947-d44585783626,OBD_2024_I,28,2024-Q4,Blähschiefer,11,Bims / Blähschüttung,Dep+,RC+,0.75
+f70e7397-ab7b-47c8-a172-6992a615ee2e,448d1096-2017-4901-a560-f652a83c737e,OBD_2020_II,29,2024-Q4,Blähton Körnung,11,Bims / Blähschüttung,Dep+,RC+,0.75
+d5df3d3b-abfa-4ba9-9ec0-60e7fe21b72a,22885a6e-1765-4ade-a35e-ae668bd07256,OBD_2023_I,29,2024-Q4,Blähton Körnung,11,Bims / Blähschüttung,Dep+,RC+,0.75
+67c9d57a-872a-4614-8be8-37ecaf9952e4,ca70a7e6-0ea4-4e90-a947-d44585783626,OBD_2024_I,29,2024-Q4,Blähton Körnung,11,Bims / Blähschüttung,Dep+,RC+,0.75
+3749834e-307f-4cb2-b903-4ef4bd463446,448d1096-2017-4901-a560-f652a83c737e,OBD_2020_II,33,2024-Q4,Blähton Sand,11,Bims / Blähschüttung,Dep+,RC+,0.75
+008280d2-302f-4735-b845-1b3af6f14151,22885a6e-1765-4ade-a35e-ae668bd07256,OBD_2023_I,33,2024-Q4,Blähton Sand,11,Bims / Blähschüttung,Dep+,RC+,0.75
+8ac5659c-5918-41bb-966d-91efdd6c4e50,ca70a7e6-0ea4-4e90-a947-d44585783626,OBD_2024_I,33,2024-Q4,Blähton Sand,11,Bims / Blähschüttung,Dep+,RC+,0.75
+f8d6bd85-55e0-42d3-982b-b814387b7f58,448d1096-2017-4901-a560-f652a83c737e,OBD_2020_II,181,2024-Q4,Lava Körnung,11,Bims / Blähschüttung,Dep+,RC+,0.75
+e2799f93-b221-48c5-b7ee-9dd39850e379,22885a6e-1765-4ade-a35e-ae668bd07256,OBD_2023_I,181,2024-Q4,Lava Körnung,11,Bims / Blähschüttung,Dep+,RC+,0.75
+2812667f-8ca5-4ee1-a9ac-7ed13045b7ff,ca70a7e6-0ea4-4e90-a947-d44585783626,OBD_2024_I,181,2024-Q4,Lava Körnung,11,Bims / Blähschüttung,Dep+,RC+,0.75
+82c7e263-3026-45f8-aec7-ebdf818464e4,448d1096-2017-4901-a560-f652a83c737e,OBD_2020_II,228,2024-Q4,Perlite 0-1,11,Bims / Blähschüttung,Dep+,RC+,0.75
+07d95427-572c-413c-ab1a-ef5e991c69ef,22885a6e-1765-4ade-a35e-ae668bd07256,OBD_2023_I,228,2024-Q4,Perlite 0-1,11,Bims / Blähschüttung,Dep+,RC+,0.75
+ad49148a-69c3-41b5-9cbb-d93a31f1fd17,ca70a7e6-0ea4-4e90-a947-d44585783626,OBD_2024_I,228,2024-Q4,Perlite 0-1,11,Bims / Blähschüttung,Dep+,RC+,0.75
+44c57da1-24ce-488d-b4f9-283fa603cc9d,448d1096-2017-4901-a560-f652a83c737e,OBD_2020_II,229,2024-Q4,Perlite 0-3,11,Bims / Blähschüttung,Dep+,RC+,0.75
+e9cee0e5-e898-45dc-8431-a3ce91acb787,22885a6e-1765-4ade-a35e-ae668bd07256,OBD_2023_I,229,2024-Q4,Perlite 0-3,11,Bims / Blähschüttung,Dep+,RC+,0.75
+d69a69ca-9323-4a28-81f7-ed8b457080c6,ca70a7e6-0ea4-4e90-a947-d44585783626,OBD_2024_I,229,2024-Q4,Perlite 0-3,11,Bims / Blähschüttung,Dep+,RC+,0.75
+2603f11f-509b-4bf2-910e-2fd358c16ff3,448d1096-2017-4901-a560-f652a83c737e,OBD_2020_II,329,2024-Q4,Waschbims,11,Bims / Blähschüttung,Dep+,RC+,0.75
+d1c2e94a-6ff8-49c2-ae89-ccb6a0f28938,22885a6e-1765-4ade-a35e-ae668bd07256,OBD_2023_I,329,2024-Q4,Waschbims,11,Bims / Blähschüttung,Dep+,RC+,0.75
+efd7fbad-374b-459f-bd23-07e064da533a,ca70a7e6-0ea4-4e90-a947-d44585783626,OBD_2024_I,329,2024-Q4,Waschbims,11,Bims / Blähschüttung,Dep+,RC+,0.75
+8f44840b-28ae-418b-bf12-fcac5b7c68b3,448d1096-2017-4901-a560-f652a83c737e,OBD_2020_II,16,2024-Q4,Bims-Planstein (SFK-4),12,Leichtbeton - RC-Potenzial,SV,RC-,0.25
+8aa75389-7865-41ad-9763-6252c5ab1fe5,22885a6e-1765-4ade-a35e-ae668bd07256,OBD_2023_I,16,2024-Q4,Bims-Planstein (SFK-4),12,Leichtbeton - RC-Potenzial,SV,RC-,0.25
+2e31cc41-fa94-442a-b19b-48d82c3555d8,ca70a7e6-0ea4-4e90-a947-d44585783626,OBD_2024_I,16,2024-Q4,Bims-Planstein (SFK-4),12,Leichtbeton - RC-Potenzial,SV,RC-,0.25
+c7e171fb-d5eb-4867-9fb2-961dec81d6aa,448d1096-2017-4901-a560-f652a83c737e,OBD_2020_II,30,2024-Q4,Blähton LB Hohlblockstein Trennwand,12,Leichtbeton - RC-Potenzial,SV,RC-,0.25
+b5559dc3-d47d-4b11-b3bd-e8b7531ffe61,22885a6e-1765-4ade-a35e-ae668bd07256,OBD_2023_I,30,2024-Q4,Blähton LB Hohlblockstein Trennwand,12,Leichtbeton - RC-Potenzial,SV,RC-,0.25
+1c681356-2541-43e7-b1d4-9c4d0a936a08,ca70a7e6-0ea4-4e90-a947-d44585783626,OBD_2024_I,30,2024-Q4,Blähton LB Hohlblockstein Trennwand,12,Leichtbeton - RC-Potenzial,SV,RC-,0.25
+a6b26cf9-3f9a-4abc-9412-87fdc0cdf3f6,448d1096-2017-4901-a560-f652a83c737e,OBD_2020_II,18,2024-Q4,"Bitumen Emulsion (40% Bitumen, 60% Wasser)",13,"Bitumenkaltkleber, Glasvlies, Glasfaserarmierung,..",EB,EB,0.0
+49a70830-f0ff-4e1b-a0b7-4f4da313fa28,22885a6e-1765-4ade-a35e-ae668bd07256,OBD_2023_I,18,2024-Q4,"Bitumen Emulsion (40% Bitumen, 60% Wasser)",13,"Bitumenkaltkleber, Glasvlies, Glasfaserarmierung,..",EB,EB,0.0
+88c0f648-2316-4bbc-99b3-dbc636580088,ca70a7e6-0ea4-4e90-a947-d44585783626,OBD_2024_I,18,2024-Q4,"Bitumen Emulsion (40% Bitumen, 60% Wasser)",13,"Bitumenkaltkleber, Glasvlies, Glasfaserarmierung,..",EB,EB,0.0
+5ae00c4e-1b1c-4374-9864-2aee735a0563,448d1096-2017-4901-a560-f652a83c737e,OBD_2020_II,19,2024-Q4,"Bitumen Kaltkleber (60% Bitumen, 23%LM, 17% Wasser)",13,"Bitumenkaltkleber, Glasvlies, Glasfaserarmierung,..",EB,EB,0.0
+57a01f9b-798f-4a5d-b476-bd20c7bd25bd,22885a6e-1765-4ade-a35e-ae668bd07256,OBD_2023_I,19,2024-Q4,"Bitumen Kaltkleber (60% Bitumen, 23%LM, 17% Wasser)",13,"Bitumenkaltkleber, Glasvlies, Glasfaserarmierung,..",EB,EB,0.0
+6ade4721-3262-4024-ab99-0265972b38bf,ca70a7e6-0ea4-4e90-a947-d44585783626,OBD_2024_I,19,2024-Q4,"Bitumen Kaltkleber (60% Bitumen, 23%LM, 17% Wasser)",13,"Bitumenkaltkleber, Glasvlies, Glasfaserarmierung,..",EB,EB,0.0
+7a4d3393-a33a-47c8-b42f-42d8ec6a90f6,448d1096-2017-4901-a560-f652a83c737e,OBD_2020_II,153,2024-Q4,Kautschuk-Dichtmasse,13,"Bitumenkaltkleber, Glasvlies, Glasfaserarmierung,..",EB,EB,0.0
+eee26d67-c05d-4c1c-8502-0e42c91f37fc,22885a6e-1765-4ade-a35e-ae668bd07256,OBD_2023_I,153,2024-Q4,Kautschuk-Dichtmasse,13,"Bitumenkaltkleber, Glasvlies, Glasfaserarmierung,..",EB,EB,0.0
+a2f0ddd4-a64e-4be8-a844-922013a2ac37,ca70a7e6-0ea4-4e90-a947-d44585783626,OBD_2024_I,153,2024-Q4,Kautschuk-Dichtmasse,13,"Bitumenkaltkleber, Glasvlies, Glasfaserarmierung,..",EB,EB,0.0
+0e39587e-8c05-4a8e-80b5-bb9a57bbe164,448d1096-2017-4901-a560-f652a83c737e,OBD_2020_II,247,2024-Q4,PVC Plastisol,13,"Bitumenkaltkleber, Glasvlies, Glasfaserarmierung,..",EB,EB,0.0
+658b2d08-fd24-4d43-a469-203d594b2278,22885a6e-1765-4ade-a35e-ae668bd07256,OBD_2023_I,247,2024-Q4,PVC Plastisol,13,"Bitumenkaltkleber, Glasvlies, Glasfaserarmierung,..",EB,EB,0.0
+fabf4cb9-5298-442c-8a8b-f6312e39d5af,ca70a7e6-0ea4-4e90-a947-d44585783626,OBD_2024_I,247,2024-Q4,PVC Plastisol,13,"Bitumenkaltkleber, Glasvlies, Glasfaserarmierung,..",EB,EB,0.0
+bc8d8fd4-6c25-4bd6-bcbf-6f994e8e5753,448d1096-2017-4901-a560-f652a83c737e,OBD_2020_II,280,2024-Q4,Silikon-Dichtmasse,13,"Bitumenkaltkleber, Glasvlies, Glasfaserarmierung,..",EB,EB,0.0
+f31a93c2-0132-4508-916d-14579f636fb8,22885a6e-1765-4ade-a35e-ae668bd07256,OBD_2023_I,280,2024-Q4,Silikon-Dichtmasse,13,"Bitumenkaltkleber, Glasvlies, Glasfaserarmierung,..",EB,EB,0.0
+c5a154b1-c5af-4c43-a1a8-51113f608131,ca70a7e6-0ea4-4e90-a947-d44585783626,OBD_2024_I,280,2024-Q4,Silikon-Dichtmasse,13,"Bitumenkaltkleber, Glasvlies, Glasfaserarmierung,..",EB,EB,0.0
+,,,20,2024-Q4,Bitumenbahnen mit Alu oder Kupfer,14,"Bitubahn mit Metallverbund (Alu-, Cu-,..)",EB,EB,0.0
+ff9336ea-fb7f-4299-8a40-5e9a28538c85,448d1096-2017-4901-a560-f652a83c737e,OBD_2020_II,21,2024-Q4,Bitumenbahnen PYE PV 200 S5 (ungeschiefert) (Polyestervlies),15,Bitubahn (ggf. mit Glasvlies),EV-,RC-,0.25
+654c37c4-8967-4eae-b10c-9574b39a3308,22885a6e-1765-4ade-a35e-ae668bd07256,OBD_2023_I,21,2024-Q4,Bitumenbahnen PYE PV 200 S5 (ungeschiefert) (Polyestervlies),15,Bitubahn (ggf. mit Glasvlies),EV-,RC-,0.25
+c984526a-18b5-45c1-a2eb-7b95466e8426,ca70a7e6-0ea4-4e90-a947-d44585783626,OBD_2024_I,21,2024-Q4,Bitumenbahnen PYE PV 200 S5 (ungeschiefert) (Polyestervlies),15,Bitubahn (ggf. mit Glasvlies),EV-,RC-,0.25
+d56bd904-09a0-4d30-bdbe-5d4f892cc12b,448d1096-2017-4901-a560-f652a83c737e,OBD_2020_II,22,2024-Q4,Bitumenbahnen PYE-PV 200 S5 ns (geschiefert) (Polyestervlies),15,Bitubahn (ggf. mit Glasvlies),EV-,RC-,0.25
+547d0037-2ebd-40ef-b2a5-1d742afc2851,22885a6e-1765-4ade-a35e-ae668bd07256,OBD_2023_I,22,2024-Q4,Bitumenbahnen PYE-PV 200 S5 ns (geschiefert) (Polyestervlies),15,Bitubahn (ggf. mit Glasvlies),EV-,RC-,0.25
+25db4367-38c5-4483-b392-4fc071170e5e,ca70a7e6-0ea4-4e90-a947-d44585783626,OBD_2024_I,22,2024-Q4,Bitumenbahnen PYE-PV 200 S5 ns (geschiefert) (Polyestervlies),15,Bitubahn (ggf. mit Glasvlies),EV-,RC-,0.25
+73d1c1b7-d509-44c8-8518-848babdd7c01,448d1096-2017-4901-a560-f652a83c737e,OBD_2020_II,23,2024-Q4,"Bitumenbahnen V 60 (Glasvlies, bestreut)",15,Bitubahn (ggf. mit Glasvlies),EV-,RC-,0.25
+da3f32e3-7b0d-44f2-ba03-8dd93aa94f75,22885a6e-1765-4ade-a35e-ae668bd07256,OBD_2023_I,23,2024-Q4,"Bitumenbahnen V 60 (Glasvlies, bestreut)",15,Bitubahn (ggf. mit Glasvlies),EV-,RC-,0.25
+23b67663-f4b0-445e-bbba-b741a59d57e6,ca70a7e6-0ea4-4e90-a947-d44585783626,OBD_2024_I,23,2024-Q4,"Bitumenbahnen V 60 (Glasvlies, bestreut)",15,Bitubahn (ggf. mit Glasvlies),EV-,RC-,0.25
+,,,237,2024-Q4,Polymer-Bitumenabdichtungsbahn,15,Bitubahn (ggf. mit Glasvlies),EV-,RC-,0.25
+b6e523cc-d329-49fb-b138-af531552862f,22885a6e-1765-4ade-a35e-ae668bd07256,OBD_2023_I,24,2024-Q4,Polyisobutylen (PIB) Kunststoffdachbahn,16,KSTBahn,EV-,EV-,0.0
+91412f3f-6077-44d4-9c9d-95c543bcb419,ca70a7e6-0ea4-4e90-a947-d44585783626,OBD_2024_I,24,2024-Q4,Polyisobutylen (PIB) Kunststoffdachbahn,16,KSTBahn,EV-,EV-,0.0
+341e2e42-dab2-427b-86f6-a80c701b6071,448d1096-2017-4901-a560-f652a83c737e,OBD_2020_II,43,2024-Q4,Dachbahnen EPDM,16,KSTBahn,EV-,EV-,0.0
+48a0f50e-6dd0-4495-b0a4-210315b06680,22885a6e-1765-4ade-a35e-ae668bd07256,OBD_2023_I,43,2024-Q4,Dachbahnen EPDM,16,KSTBahn,EV-,EV-,0.0
+498cd894-8ae6-458c-b874-9022cb148409,ca70a7e6-0ea4-4e90-a947-d44585783626,OBD_2024_I,43,2024-Q4,Dachbahnen EPDM,16,KSTBahn,EV-,EV-,0.0
+4bb6f0f6-178c-41e0-8700-bd597f23ccb8,448d1096-2017-4901-a560-f652a83c737e,OBD_2020_II,46,2024-Q4,Dampfbremse PA,16,KSTBahn,EV-,EV-,0.0
+d6eec5bf-7727-46ab-b1de-62ac94b90016,22885a6e-1765-4ade-a35e-ae668bd07256,OBD_2023_I,46,2024-Q4,Dampfbremse PA,16,KSTBahn,EV-,EV-,0.0
+c4293a12-5023-4e57-bdcd-9b52fbfa6a58,ca70a7e6-0ea4-4e90-a947-d44585783626,OBD_2024_I,46,2024-Q4,Dampfbremse PA,16,KSTBahn,EV-,EV-,0.0
+99792cbc-c5f4-4d2d-bc9e-3790509891a0,448d1096-2017-4901-a560-f652a83c737e,OBD_2020_II,47,2024-Q4,Dampfbremse PE,16,KSTBahn,EV-,EV-,0.0
+7b949ae4-3793-4670-86d8-241578803aa2,22885a6e-1765-4ade-a35e-ae668bd07256,OBD_2023_I,47,2024-Q4,Dampfbremse PE,16,KSTBahn,EV-,EV-,0.0
+6869f7c1-1b2b-4f30-afc9-823a0104f1d9,ca70a7e6-0ea4-4e90-a947-d44585783626,OBD_2024_I,47,2024-Q4,Dampfbremse PE,16,KSTBahn,EV-,EV-,0.0
+bc50a404-ddf0-4f37-b62f-95130786b004,448d1096-2017-4901-a560-f652a83c737e,OBD_2020_II,48,2024-Q4,Dampfbremse PET gitterverstärkt,16,KSTBahn,EV-,EV-,0.0
+b86a5061-4138-4a1a-889d-0c53f4868f49,22885a6e-1765-4ade-a35e-ae668bd07256,OBD_2023_I,48,2024-Q4,Dampfbremse PET gitterverstärkt,16,KSTBahn,EV-,EV-,0.0
+28a26228-4acd-4bba-b62c-54a54c35526f,ca70a7e6-0ea4-4e90-a947-d44585783626,OBD_2024_I,48,2024-Q4,Dampfbremse PET gitterverstärkt,16,KSTBahn,EV-,EV-,0.0
+aaf4baca-7530-435b-8736-0bd3bb51e36d,448d1096-2017-4901-a560-f652a83c737e,OBD_2020_II,58,2024-Q4,ECB Kunststoff-Dachbahn nach DIN 16729 (mit PES Vlies),16,KSTBahn,EV-,EV-,0.0
+ec2ec7ad-8fe1-45c0-b767-8e6b6467ea3d,22885a6e-1765-4ade-a35e-ae668bd07256,OBD_2023_I,58,2024-Q4,ECB Kunststoff-Dachbahn nach DIN 16729 (mit PES Vlies),16,KSTBahn,EV-,EV-,0.0
+dcde634c-51b1-4d94-9206-cba9f9fd6822,ca70a7e6-0ea4-4e90-a947-d44585783626,OBD_2024_I,58,2024-Q4,ECB Kunststoff-Dachbahn nach DIN 16729 (mit PES Vlies),16,KSTBahn,EV-,EV-,0.0
+,,,61,2024-Q4,Elastomer-Dachbahnen,16,KSTBahn,EV-,EV-,0.0
+60203e0a-cd90-4ff9-8ec7-da3a1b0b1588,22885a6e-1765-4ade-a35e-ae668bd07256,OBD_2023_I,66,2024-Q4,EVA-Dachbahnen,16,KSTBahn,EV-,EV-,0.0
+d1ab548a-3626-4667-9690-baff659e10d5,ca70a7e6-0ea4-4e90-a947-d44585783626,OBD_2024_I,66,2024-Q4,EVA-Dachbahnen,16,KSTBahn,EV-,EV-,0.0
+95a4f4b3-b354-4e2c-9046-0a36175cd768,448d1096-2017-4901-a560-f652a83c737e,OBD_2020_II,224,2024-Q4,PE/PP Vlies,16,KSTBahn,EV-,EV-,0.0
+e80981a3-c7c4-4267-b669-0f31cfa61f06,22885a6e-1765-4ade-a35e-ae668bd07256,OBD_2023_I,224,2024-Q4,PE/PP Vlies,16,KSTBahn,EV-,EV-,0.0
+42d6f768-fb28-4105-ad21-078cc7af27a6,ca70a7e6-0ea4-4e90-a947-d44585783626,OBD_2024_I,224,2024-Q4,PE/PP Vlies,16,KSTBahn,EV-,EV-,0.0
+900336a3-b5f9-4c40-91a9-f9551f84ac64,448d1096-2017-4901-a560-f652a83c737e,OBD_2020_II,226,2024-Q4,PE-HD mit PP-Vlies zur Abdichtung,16,KSTBahn,EV-,EV-,0.0
+2173d540-fc7c-4b77-af4f-9a53cdbfb834,22885a6e-1765-4ade-a35e-ae668bd07256,OBD_2023_I,226,2024-Q4,PE-HD mit PP-Vlies zur Abdichtung,16,KSTBahn,EV-,EV-,0.0
+ed734c48-a58f-4f92-a9f7-57631b500fdc,ca70a7e6-0ea4-4e90-a947-d44585783626,OBD_2024_I,226,2024-Q4,PE-HD mit PP-Vlies zur Abdichtung,16,KSTBahn,EV-,EV-,0.0
+49b4cbe9-ac63-4811-a1c7-dd7278db8ac0,448d1096-2017-4901-a560-f652a83c737e,OBD_2020_II,227,2024-Q4,PE-Noppenfolie zur Abdichtung,16,KSTBahn,EV-,EV-,0.0
+0dbca1ff-d043-408f-9511-6aeddf8e5f70,22885a6e-1765-4ade-a35e-ae668bd07256,OBD_2023_I,227,2024-Q4,PE-Noppenfolie zur Abdichtung,16,KSTBahn,EV-,EV-,0.0
+5f0bc680-a252-46d6-a47a-a4b5a05318bc,ca70a7e6-0ea4-4e90-a947-d44585783626,OBD_2024_I,227,2024-Q4,PE-Noppenfolie zur Abdichtung,16,KSTBahn,EV-,EV-,0.0
+,,,233,2024-Q4,PIB-Dachbahnen (Polyisobutylen),16,KSTBahn,EV-,EV-,0.0
+,,,243,2024-Q4,PP-/PE Folie,16,KSTBahn,EV-,EV-,0.0
+66a90b47-27b8-46ce-830e-8ed22f4165d8,448d1096-2017-4901-a560-f652a83c737e,OBD_2020_II,321,2024-Q4,Unterspannbahn PE gewebeverstärkt,16,KSTBahn,EV-,EV-,0.0
+e1a3feae-f090-41d7-8697-dfd5b28e0607,22885a6e-1765-4ade-a35e-ae668bd07256,OBD_2023_I,321,2024-Q4,Unterspannbahn PE gewebeverstärkt,16,KSTBahn,EV-,EV-,0.0
+8d0ee729-dbb3-4a45-ab4a-3e9acf2ba858,ca70a7e6-0ea4-4e90-a947-d44585783626,OBD_2024_I,321,2024-Q4,Unterspannbahn PE gewebeverstärkt,16,KSTBahn,EV-,EV-,0.0
+deb7fe73-3eb8-4f80-937b-7ce3a0a977ed,448d1096-2017-4901-a560-f652a83c737e,OBD_2020_II,322,2024-Q4,Unterspannbahn PP,16,KSTBahn,EV-,EV-,0.0
+9c355da1-8e97-448e-b66b-10e04316bf20,22885a6e-1765-4ade-a35e-ae668bd07256,OBD_2023_I,322,2024-Q4,Unterspannbahn PP,16,KSTBahn,EV-,EV-,0.0
+b4634111-dc95-4873-8614-9ab38bd11d42,ca70a7e6-0ea4-4e90-a947-d44585783626,OBD_2024_I,322,2024-Q4,Unterspannbahn PP,16,KSTBahn,EV-,EV-,0.0
+a92bd5a5-7cef-4050-8659-20a8d5a7a72b,448d1096-2017-4901-a560-f652a83c737e,OBD_2020_II,323,2024-Q4,Unterspannbahn PUR auf PET-Vlies,16,KSTBahn,EV-,EV-,0.0
+d4dc2df9-deda-4b02-bb0d-952ce44d2fe6,22885a6e-1765-4ade-a35e-ae668bd07256,OBD_2023_I,323,2024-Q4,Unterspannbahn PUR auf PET-Vlies,16,KSTBahn,EV-,EV-,0.0
+1d6be2f4-3c85-4318-a712-1ee0198168eb,ca70a7e6-0ea4-4e90-a947-d44585783626,OBD_2024_I,323,2024-Q4,Unterspannbahn PUR auf PET-Vlies,16,KSTBahn,EV-,EV-,0.0
+,,,26,2024-Q4,Blähglasgranulatplatte,17,Leichtbeton - best case,SV,RC-,0.25
+21a40e8f-3897-4465-975b-81b6370936fb,448d1096-2017-4901-a560-f652a83c737e,OBD_2020_II,31,2024-Q4,Blähton LB Planstein Außenwand,17,Leichtbeton - best case,SV,RC-,0.25
+733f56d5-e70e-4140-9741-63389e3685c2,22885a6e-1765-4ade-a35e-ae668bd07256,OBD_2023_I,31,2024-Q4,Blähton LB Planstein Außenwand,17,Leichtbeton - best case,SV,RC-,0.25
+23fc083c-960d-4d31-a509-f383e01c3179,ca70a7e6-0ea4-4e90-a947-d44585783626,OBD_2024_I,31,2024-Q4,Blähton LB Planstein Außenwand,17,Leichtbeton - best case,SV,RC-,0.25
+63ddb7e1-4e0b-43cb-8a8d-82c5c137a2a2,448d1096-2017-4901-a560-f652a83c737e,OBD_2020_II,194,2024-Q4,Leichtbetonstein aus 100% Naturbims,17,Leichtbeton - best case,SV,RC-,0.25
+da067a10-d690-4308-831d-ada8ad78b8ad,22885a6e-1765-4ade-a35e-ae668bd07256,OBD_2023_I,194,2024-Q4,Leichtbetonstein aus 100% Naturbims,17,Leichtbeton - best case,SV,RC-,0.25
+a1deced7-6fa9-4266-bc86-da75b3653b06,ca70a7e6-0ea4-4e90-a947-d44585783626,OBD_2024_I,194,2024-Q4,Leichtbetonstein aus 100% Naturbims,17,Leichtbeton - best case,SV,RC-,0.25
+,,,27,2024-Q4,Blähperlit-Platten,18,Mineralplatte,Dep+,SV,0.75
+6405878c-ed34-4bee-b100-5208a3212ec6,448d1096-2017-4901-a560-f652a83c737e,OBD_2020_II,40,2024-Q4,Calciumsilikatplatte,18,Mineralplatte,Dep+,SV,0.75
+e76bbf03-1aa3-4ebd-90b9-8abfeabb9766,22885a6e-1765-4ade-a35e-ae668bd07256,OBD_2023_I,40,2024-Q4,Calciumsilikatplatte,18,Mineralplatte,Dep+,SV,0.75
+af3510f4-3c5d-45a4-8162-16df43aaca34,ca70a7e6-0ea4-4e90-a947-d44585783626,OBD_2024_I,40,2024-Q4,Calciumsilikatplatte,18,Mineralplatte,Dep+,SV,0.75
+7b26b760-0cc0-48b1-8c61-9357cd2b7ba3,22885a6e-1765-4ade-a35e-ae668bd07256,OBD_2023_I,67,2024-Q4,Expandierte Perlit-Dämmplatten für den Innenbereich,18,Mineralplatte,Dep+,SV,0.75
+5d087386-ed6b-4786-b37b-87164384927b,ca70a7e6-0ea4-4e90-a947-d44585783626,OBD_2024_I,67,2024-Q4,Expandierte Perlit-Dämmplatten für den Innenbereich,18,Mineralplatte,Dep+,SV,0.75
+a5114c35-1779-4eb2-9694-46bcc8fe5e45,22885a6e-1765-4ade-a35e-ae668bd07256,OBD_2023_I,239,2024-Q4,Porenbeton Mineraldämmplatte,18,Mineralplatte,Dep+,SV,0.75
+414d0e5b-7628-466c-89d3-56e107b60aa6,ca70a7e6-0ea4-4e90-a947-d44585783626,OBD_2024_I,239,2024-Q4,Porenbeton Mineraldämmplatte,18,Mineralplatte,Dep+,SV,0.75
+37532578-b1c0-4ed6-b209-5b4cb1b15729,22885a6e-1765-4ade-a35e-ae668bd07256,OBD_2023_I,261,2024-Q4,Schaumbeton Dämmplatten,18,Mineralplatte,Dep+,SV,0.75
+9b619143-9ea3-4573-9839-b6ebd75c71a1,ca70a7e6-0ea4-4e90-a947-d44585783626,OBD_2024_I,261,2024-Q4,Schaumbeton Dämmplatten,18,Mineralplatte,Dep+,SV,0.75
+1b978129-dd5e-45ea-9c82-1c3510e9c965,448d1096-2017-4901-a560-f652a83c737e,OBD_2020_II,32,2024-Q4,Blähton LB Planstein Innenwand,19,Leichtbeton - worst case,Dep+,SV,0.75
+854bc861-2582-426b-a138-b483a7493a21,22885a6e-1765-4ade-a35e-ae668bd07256,OBD_2023_I,32,2024-Q4,Blähton LB Planstein Innenwand,19,Leichtbeton - worst case,Dep+,SV,0.75
+5c400482-2153-45e8-a4d2-e10a9338909b,ca70a7e6-0ea4-4e90-a947-d44585783626,OBD_2024_I,32,2024-Q4,Blähton LB Planstein Innenwand,19,Leichtbeton - worst case,Dep+,SV,0.75
+de4d3046-fd0c-479f-a1a6-ae13a9092fc7,22885a6e-1765-4ade-a35e-ae668bd07256,OBD_2023_I,34,2024-Q4,Blendrahmen PVC-U,20,PVC hart,SV,SV,0.0
+d8aa07b1-b3aa-41b0-a17b-f8f5e15f37f3,ca70a7e6-0ea4-4e90-a947-d44585783626,OBD_2024_I,34,2024-Q4,Blendrahmen PVC-U,20,PVC hart,SV,SV,0.0
+,,,51,2024-Q4,DFF: Alu-Kunststoff-Komposit [kg/m² Rahmen],20,PVC hart,SV,SV,0.0
+,,,54,2024-Q4,DFF: Kunststoffrahmen PVC  [kg/m² Rahmen],20,PVC hart,SV,SV,0.0
+,,,83,2024-Q4,Kunststoffrahmen PVC mit Aludeckschale [kg/m² Rahmen],20,PVC hart,SV,SV,0.0
+4ca023d1-2eda-43ab-9c55-481a6d250d9b,22885a6e-1765-4ade-a35e-ae668bd07256,OBD_2023_I,84,2024-Q4,Kunststofftrahmen PVC [kg/m² Rahmen],20,PVC hart,SV,SV,0.0
+73de9e80-8ed2-47d8-b5b6-854c84166f24,ca70a7e6-0ea4-4e90-a947-d44585783626,OBD_2024_I,84,2024-Q4,Kunststofftrahmen PVC [kg/m² Rahmen],20,PVC hart,SV,SV,0.0
+5a88b96e-23d0-4656-9ee2-fc271c89c95b,448d1096-2017-4901-a560-f652a83c737e,OBD_2020_II,314,2024-Q4,Transparente Platten PVC,20,PVC hart,SV,SV,0.0
+4a2a46c8-b646-4cf5-b2d7-72c2c1a27fae,22885a6e-1765-4ade-a35e-ae668bd07256,OBD_2023_I,314,2024-Q4,Transparente Platten PVC,20,PVC hart,SV,SV,0.0
+2e60360a-61f1-4d86-a537-a50a3d4165ba,ca70a7e6-0ea4-4e90-a947-d44585783626,OBD_2024_I,314,2024-Q4,Transparente Platten PVC,20,PVC hart,SV,SV,0.0
+1da7a0ab-1204-4ee6-b8fe-77a28f642f0d,22885a6e-1765-4ade-a35e-ae668bd07256,OBD_2023_I,35,2024-Q4,Brandschutzglas F30,21,Brandschutzverglasung,RC-,RC+,0.5
+7f39809a-407d-41cc-b0e7-c7e67faff54b,ca70a7e6-0ea4-4e90-a947-d44585783626,OBD_2024_I,35,2024-Q4,Brandschutzglas F30,21,Brandschutzverglasung,RC-,RC+,0.5
+a4d16918-287f-43af-831d-baf80093fe4a,448d1096-2017-4901-a560-f652a83c737e,OBD_2020_II,36,2024-Q4,Brechsand 0/2,22,Sand,CL+,CL+,1.0
+becd932f-899e-4b1b-962c-64ea26c51be0,22885a6e-1765-4ade-a35e-ae668bd07256,OBD_2023_I,36,2024-Q4,Brechsand 0/2,22,Sand,CL+,CL+,1.0
+0d61ff01-935e-4934-befe-cb0b2ea18187,ca70a7e6-0ea4-4e90-a947-d44585783626,OBD_2024_I,36,2024-Q4,Brechsand 0/2,22,Sand,CL+,CL+,1.0
+230cd2c6-0b79-461b-b51a-d092e66843ca,448d1096-2017-4901-a560-f652a83c737e,OBD_2020_II,37,2024-Q4,Brechsand 0/2 (getrocknet),22,Sand,CL+,CL+,1.0
+6d5a2172-9fb7-4dc6-914a-5cd09d6afdbd,22885a6e-1765-4ade-a35e-ae668bd07256,OBD_2023_I,37,2024-Q4,Brechsand 0/2 (getrocknet),22,Sand,CL+,CL+,1.0
+b461219e-87df-4a40-b12a-5c6a10a99bf1,ca70a7e6-0ea4-4e90-a947-d44585783626,OBD_2024_I,37,2024-Q4,Brechsand 0/2 (getrocknet),22,Sand,CL+,CL+,1.0
+61655387-edd4-4800-ba3e-67bc15f2f096,448d1096-2017-4901-a560-f652a83c737e,OBD_2020_II,257,2024-Q4,Sand 0/2,22,Sand,CL+,CL+,1.0
+8125026b-602d-47d5-9087-7470c457d10a,22885a6e-1765-4ade-a35e-ae668bd07256,OBD_2023_I,257,2024-Q4,Sand 0/2,22,Sand,CL+,CL+,1.0
+286b0072-1001-4e5f-baa2-282230755243,ca70a7e6-0ea4-4e90-a947-d44585783626,OBD_2024_I,257,2024-Q4,Sand 0/2,22,Sand,CL+,CL+,1.0
+c1b237e1-2206-4318-8d99-f023b8aeb5d6,448d1096-2017-4901-a560-f652a83c737e,OBD_2020_II,258,2024-Q4,Sand 0/2 getrocknet,22,Sand,CL+,CL+,1.0
+2aff655f-5c9b-4d40-8c14-11b366aba6c9,22885a6e-1765-4ade-a35e-ae668bd07256,OBD_2023_I,258,2024-Q4,Sand 0/2 getrocknet,22,Sand,CL+,CL+,1.0
+0d027c8c-89dc-486e-8390-b4649f5e6ed8,ca70a7e6-0ea4-4e90-a947-d44585783626,OBD_2024_I,258,2024-Q4,Sand 0/2 getrocknet,22,Sand,CL+,CL+,1.0
+34d3bb5e-f241-45b4-b257-123281364d97,448d1096-2017-4901-a560-f652a83c737e,OBD_2020_II,41,2024-Q4,Calciumsulfatestrich,23,Estrich CA - Anhydritestrich,Dep+,RC-,0.25
+8e1613f4-ef3e-4f4e-b337-c755c08cad6b,22885a6e-1765-4ade-a35e-ae668bd07256,OBD_2023_I,41,2024-Q4,Calciumsulfatestrich,23,Estrich CA - Anhydritestrich,Dep+,RC-,0.25
+3abc810c-ef3a-4ab4-b6d8-0217716e213e,ca70a7e6-0ea4-4e90-a947-d44585783626,OBD_2024_I,41,2024-Q4,Calciumsulfatestrich,23,Estrich CA - Anhydritestrich,Dep+,RC-,0.25
+2dc5d1cf-ffce-42c2-a127-f412f3ef5fe2,22885a6e-1765-4ade-a35e-ae668bd07256,OBD_2023_I,42,2024-Q4,CR Profil (Chloropren-Kautschuk),24,KSTProfil (Halog),EB,EB,0.0
+5f091578-7d83-46de-bfba-754087398afe,ca70a7e6-0ea4-4e90-a947-d44585783626,OBD_2024_I,42,2024-Q4,CR Profil (Chloropren-Kautschuk),24,KSTProfil (Halog),EB,EB,0.0
+884efbb3-7be6-4e4d-9726-c39c1b781436,448d1096-2017-4901-a560-f652a83c737e,OBD_2020_II,168,2024-Q4,Kunststoffprofil CR (Chloropren-Kautschuk),24,KSTProfil (Halog),EB,EB,0.0
+2d81c58c-1cd9-40be-b7d2-96d7de6b9296,22885a6e-1765-4ade-a35e-ae668bd07256,OBD_2023_I,168,2024-Q4,Kunststoffprofil CR (Chloropren-Kautschuk),24,KSTProfil (Halog),EB,EB,0.0
+2630158e-fc89-4b2d-bb7d-4a193fb58324,ca70a7e6-0ea4-4e90-a947-d44585783626,OBD_2024_I,168,2024-Q4,Kunststoffprofil CR (Chloropren-Kautschuk),24,KSTProfil (Halog),EB,EB,0.0
+ddc288f0-8ce4-4249-b386-74b15fb1b63a,22885a6e-1765-4ade-a35e-ae668bd07256,OBD_2023_I,44,2024-Q4,Dachsteine / Beton-,25,Betondachstein,RC+,RC+,1.0
+ee6d9736-2ddd-4d2d-acc1-3ea1031c1f9e,ca70a7e6-0ea4-4e90-a947-d44585783626,OBD_2024_I,44,2024-Q4,Dachsteine / Beton-,25,Betondachstein,RC+,RC+,1.0
+826fa2c2-c691-4844-83d3-aea0e8a54bcd,448d1096-2017-4901-a560-f652a83c737e,OBD_2020_II,45,2024-Q4,Dachziegel / Ton-,26,Tondachziegel,RC+,RC+,1.0
+700f0fa1-6870-40b3-af87-692b103a61a2,22885a6e-1765-4ade-a35e-ae668bd07256,OBD_2023_I,45,2024-Q4,Dachziegel / Ton-,26,Tondachziegel,RC+,RC+,1.0
+592ffe6e-4c21-4a24-ba67-273acbfca373,ca70a7e6-0ea4-4e90-a947-d44585783626,OBD_2024_I,45,2024-Q4,Dachziegel / Ton-,26,Tondachziegel,RC+,RC+,1.0
+,,,49,2024-Q4,DFF: Alu-Holz-Komposit-Rahmen [kg/m² Rahmen],27,"Holz-Alu-Rahmen, Regelvermutung HSM",EV+,EV+,0.0
+,,,122,2024-Q4,"Holzrahmen Fichte mit Aludeckschale [kg/m² Rahmen] t=0,088 ",27,"Holz-Alu-Rahmen, Regelvermutung HSM",EV+,EV+,0.0
+,,,124,2024-Q4,"Holzrahmen Lärche mit Aludeckschale [kg/m² Rahmen] t=0,088 ",27,"Holz-Alu-Rahmen, Regelvermutung HSM",EV+,EV+,0.0
+,,,127,2024-Q4,"Holzrahmen PH mit Aludeckschale [kg/m² Rahmen] t=0,155 ",27,"Holz-Alu-Rahmen, Regelvermutung HSM",EV+,EV+,0.0
+,,,50,2024-Q4,DFF: Alu-Holz-Komposit-Rahmen [kg/m² Rahmen] ohne HSM,28,"Holz-Alu-Rahmen, Nachweis kein HSM",RC-,RC+,0.75
+,,,123,2024-Q4,"Holzrahmen Fichte mit Aludeckschale [kg/m² Rahmen] t=0,088 ohne HSM",28,"Holz-Alu-Rahmen, Nachweis kein HSM",RC-,RC+,0.75
+,,,125,2024-Q4,"Holzrahmen Lärche mit Aludeckschale [kg/m² Rahmen] t=0,088 ohne HSM",28,"Holz-Alu-Rahmen, Nachweis kein HSM",RC-,RC+,0.75
+,,,128,2024-Q4,"Holzrahmen PH mit Aludeckschale [kg/m² Rahmen] t=0,155 ohne HSM",28,"Holz-Alu-Rahmen, Nachweis kein HSM",RC-,RC+,0.75
+,,,52,2024-Q4,"DFF: Holzrahmen Fichte, beschichtet [kg/m² Rahmen]",29,Holzrahmen,EV+,EV+,0.0
+,,,53,2024-Q4,"DFF: Holzrahmen Lärche, beschichtet [kg/m² Rahmen]",29,Holzrahmen,EV+,EV+,0.0
+4127e60a-3c42-4076-83f5-5232b4ed642e,448d1096-2017-4901-a560-f652a83c737e,OBD_2020_II,119,2024-Q4,Holz-Blendrahmen,29,Holzrahmen,EV+,EV+,0.0
+ffd4bc0e-1d99-4e84-8710-6dcbf34a98a6,22885a6e-1765-4ade-a35e-ae668bd07256,OBD_2023_I,119,2024-Q4,Holz-Blendrahmen,29,Holzrahmen,EV+,EV+,0.0
+530ff9e2-0189-4783-9546-3bb8f64fbbeb,ca70a7e6-0ea4-4e90-a947-d44585783626,OBD_2024_I,119,2024-Q4,Holz-Blendrahmen,29,Holzrahmen,EV+,EV+,0.0
+318f08e0-1b04-49eb-ab16-531482cd75da,448d1096-2017-4901-a560-f652a83c737e,OBD_2020_II,126,2024-Q4,Holz-Flügelrahmen,29,Holzrahmen,EV+,EV+,0.0
+7907e693-d970-4958-adfd-223b541fc731,22885a6e-1765-4ade-a35e-ae668bd07256,OBD_2023_I,126,2024-Q4,Holz-Flügelrahmen,29,Holzrahmen,EV+,EV+,0.0
+b0c75d7b-4cce-41cf-b785-1db434ee9c3f,ca70a7e6-0ea4-4e90-a947-d44585783626,OBD_2024_I,126,2024-Q4,Holz-Flügelrahmen,29,Holzrahmen,EV+,EV+,0.0
+be24a0a5-c3ca-4995-b363-653f3e3f5df2,22885a6e-1765-4ade-a35e-ae668bd07256,OBD_2023_I,55,2024-Q4,Dispersionsputz,30,WDVS - Putz etc.,Dep-,Dep-,0.0
+44eada3f-2004-48b9-8152-22cd045bc3cf,ca70a7e6-0ea4-4e90-a947-d44585783626,OBD_2024_I,55,2024-Q4,Dispersionsputz,30,WDVS - Putz etc.,Dep-,Dep-,0.0
+49fe2b06-ea9c-4cef-b0a1-a75fd1ed6bf8,448d1096-2017-4901-a560-f652a83c737e,OBD_2020_II,332,2024-Q4,WDVS Verklebung und Beschichtung Dekorputz mineralisch,30,WDVS - Putz etc.,Dep-,Dep-,0.0
+f873f2a7-560a-410c-97e7-dfe121134b26,22885a6e-1765-4ade-a35e-ae668bd07256,OBD_2023_I,332,2024-Q4,WDVS Verklebung und Beschichtung Dekorputz mineralisch,30,WDVS - Putz etc.,Dep-,Dep-,0.0
+2c031186-a7a9-43c2-abe6-1bb0dad15933,ca70a7e6-0ea4-4e90-a947-d44585783626,OBD_2024_I,332,2024-Q4,WDVS Verklebung und Beschichtung Dekorputz mineralisch,30,WDVS - Putz etc.,Dep-,Dep-,0.0
+e5cd5727-a516-4081-8fdf-4fc0ce142d90,448d1096-2017-4901-a560-f652a83c737e,OBD_2020_II,333,2024-Q4,WDVS Verklebung und Beschichtung Kratzputz mineralisch,30,WDVS - Putz etc.,Dep-,Dep-,0.0
+8dec64ad-430f-4c96-bae1-e46814af2b70,22885a6e-1765-4ade-a35e-ae668bd07256,OBD_2023_I,333,2024-Q4,WDVS Verklebung und Beschichtung Kratzputz mineralisch,30,WDVS - Putz etc.,Dep-,Dep-,0.0
+278ba020-5da0-4bfe-aa3c-477e02646244,ca70a7e6-0ea4-4e90-a947-d44585783626,OBD_2024_I,333,2024-Q4,WDVS Verklebung und Beschichtung Kratzputz mineralisch,30,WDVS - Putz etc.,Dep-,Dep-,0.0
+88cc57f7-384d-47a3-826a-e4fce57a32bd,448d1096-2017-4901-a560-f652a83c737e,OBD_2020_II,334,2024-Q4,WDVS Verklebung und Beschichtung Kunstharzputz,30,WDVS - Putz etc.,Dep-,Dep-,0.0
+46a05844-3fbf-47ef-889a-e7f1a4b4f825,22885a6e-1765-4ade-a35e-ae668bd07256,OBD_2023_I,334,2024-Q4,WDVS Verklebung und Beschichtung Kunstharzputz,30,WDVS - Putz etc.,Dep-,Dep-,0.0
+18dd486c-bf09-44a7-bdb4-3996e3bb854c,ca70a7e6-0ea4-4e90-a947-d44585783626,OBD_2024_I,334,2024-Q4,WDVS Verklebung und Beschichtung Kunstharzputz,30,WDVS - Putz etc.,Dep-,Dep-,0.0
+6108c144-5112-4f18-bcb1-d1ff8eb831a6,448d1096-2017-4901-a560-f652a83c737e,OBD_2020_II,335,2024-Q4,WDVS Verklebung und Beschichtung Leichtputz mineralisch,30,WDVS - Putz etc.,Dep-,Dep-,0.0
+aeb54e7e-6950-41c5-a10e-0ba3b38ea774,22885a6e-1765-4ade-a35e-ae668bd07256,OBD_2023_I,335,2024-Q4,WDVS Verklebung und Beschichtung Leichtputz mineralisch,30,WDVS - Putz etc.,Dep-,Dep-,0.0
+7e8801e0-c0e4-4995-bf8a-883181f6aa20,ca70a7e6-0ea4-4e90-a947-d44585783626,OBD_2024_I,335,2024-Q4,WDVS Verklebung und Beschichtung Leichtputz mineralisch,30,WDVS - Putz etc.,Dep-,Dep-,0.0
+94ef6ac0-956a-4d60-9062-990df91e7917,448d1096-2017-4901-a560-f652a83c737e,OBD_2020_II,336,2024-Q4,WDVS Verklebung und Beschichtung Silikat-Dispersionsputz,30,WDVS - Putz etc.,Dep-,Dep-,0.0
+2d42602d-9913-43ed-8703-d953f7854bca,22885a6e-1765-4ade-a35e-ae668bd07256,OBD_2023_I,336,2024-Q4,WDVS Verklebung und Beschichtung Silikat-Dispersionsputz,30,WDVS - Putz etc.,Dep-,Dep-,0.0
+ba9c150e-4334-4bdf-ba93-337ea848c7ea,ca70a7e6-0ea4-4e90-a947-d44585783626,OBD_2024_I,336,2024-Q4,WDVS Verklebung und Beschichtung Silikat-Dispersionsputz,30,WDVS - Putz etc.,Dep-,Dep-,0.0
+6eaddefb-7a0f-43e4-a0cb-8459c26e0947,22885a6e-1765-4ade-a35e-ae668bd07256,OBD_2023_I,56,2024-Q4,Dreifachverglasung,31,Wärmeschutzverglasung,RC-,RC+,0.5
+ba58d8b9-945b-4428-b4e0-aecda8b3df18,ca70a7e6-0ea4-4e90-a947-d44585783626,OBD_2024_I,56,2024-Q4,Dreifachverglasung,31,Wärmeschutzverglasung,RC-,RC+,0.5
+d941f45e-1244-419c-a083-e4a49fb5498e,448d1096-2017-4901-a560-f652a83c737e,OBD_2020_II,144,2024-Q4,Isolierglas 2-Scheiben,31,Wärmeschutzverglasung,RC-,RC+,0.5
+c58cb849-f05f-4edf-af22-8f87c1f84975,22885a6e-1765-4ade-a35e-ae668bd07256,OBD_2023_I,144,2024-Q4,Isolierglas 2-Scheiben,31,Wärmeschutzverglasung,RC-,RC+,0.5
+d7bf4202-d1a8-4f3e-8861-c3d78cd2bf70,ca70a7e6-0ea4-4e90-a947-d44585783626,OBD_2024_I,144,2024-Q4,Isolierglas 2-Scheiben,31,Wärmeschutzverglasung,RC-,RC+,0.5
+41a60838-5c4e-4dbb-8a36-16cfc8fba26f,448d1096-2017-4901-a560-f652a83c737e,OBD_2020_II,57,2024-Q4,Drei-Schichtholzplatte,32,Holzwerkstoff - nicht beschichtet,RC+,RC+,1.0
+f48f168d-149c-4683-8a34-20dba05efe58,22885a6e-1765-4ade-a35e-ae668bd07256,OBD_2023_I,57,2024-Q4,Drei-Schichtholzplatte,32,Holzwerkstoff - nicht beschichtet,RC+,RC+,1.0
+e298e69e-ec22-4c73-b643-7444520133a4,ca70a7e6-0ea4-4e90-a947-d44585783626,OBD_2024_I,57,2024-Q4,Drei-Schichtholzplatte,32,Holzwerkstoff - nicht beschichtet,RC+,RC+,1.0
+74a7b85a-c028-4cf1-987e-7dfddcb9033b,448d1096-2017-4901-a560-f652a83c737e,OBD_2020_II,88,2024-Q4,Fünf-Schichtholzplatte,32,Holzwerkstoff - nicht beschichtet,RC+,RC+,1.0
+832aabab-e539-4356-b06a-2d2b70b7b109,22885a6e-1765-4ade-a35e-ae668bd07256,OBD_2023_I,88,2024-Q4,Fünf-Schichtholzplatte,32,Holzwerkstoff - nicht beschichtet,RC+,RC+,1.0
+3489c0eb-415f-4dc8-8c2d-b276f6efebc6,ca70a7e6-0ea4-4e90-a947-d44585783626,OBD_2024_I,88,2024-Q4,Fünf-Schichtholzplatte,32,Holzwerkstoff - nicht beschichtet,RC+,RC+,1.0
+b50f7b36-d9aa-40c5-b839-4925a1500952,448d1096-2017-4901-a560-f652a83c737e,OBD_2020_II,89,2024-Q4,Furnierschichtholz (Laminated Veneer Lumber),32,Holzwerkstoff - nicht beschichtet,RC+,RC+,1.0
+6931f21e-27bd-4eb4-b80a-f1eab2817ee0,22885a6e-1765-4ade-a35e-ae668bd07256,OBD_2023_I,89,2024-Q4,Furnierschichtholz (Laminated Veneer Lumber),32,Holzwerkstoff - nicht beschichtet,RC+,RC+,1.0
+27f4902c-8a26-4a87-b723-f4a650350781,ca70a7e6-0ea4-4e90-a947-d44585783626,OBD_2024_I,89,2024-Q4,Furnierschichtholz (Laminated Veneer Lumber),32,Holzwerkstoff - nicht beschichtet,RC+,RC+,1.0
+,,,220,2024-Q4,OSB Platte,32,Holzwerkstoff - nicht beschichtet,RC+,RC+,1.0
+60e8b384-adf2-4c3b-b3da-e407df106cf5,448d1096-2017-4901-a560-f652a83c737e,OBD_2020_II,282,2024-Q4,Spanplatte,32,Holzwerkstoff - nicht beschichtet,RC+,RC+,1.0
+07a8b3de-9406-4184-bb6e-c9208983c868,22885a6e-1765-4ade-a35e-ae668bd07256,OBD_2023_I,282,2024-Q4,Spanplatte,32,Holzwerkstoff - nicht beschichtet,RC+,RC+,1.0
+0f2f2410-d9e2-4e0f-837a-987cb3186d81,ca70a7e6-0ea4-4e90-a947-d44585783626,OBD_2024_I,282,2024-Q4,Spanplatte,32,Holzwerkstoff - nicht beschichtet,RC+,RC+,1.0
+cc180aec-8a5c-4e07-b1a0-1ab81dd746ac,448d1096-2017-4901-a560-f652a83c737e,OBD_2020_II,283,2024-Q4,Sperrholzplatte,32,Holzwerkstoff - nicht beschichtet,RC+,RC+,1.0
+f9f742db-d695-456a-9793-0636eab7df05,22885a6e-1765-4ade-a35e-ae668bd07256,OBD_2023_I,283,2024-Q4,Sperrholzplatte,32,Holzwerkstoff - nicht beschichtet,RC+,RC+,1.0
+24b673e5-b737-4fe9-ab51-ca68391ccdd3,ca70a7e6-0ea4-4e90-a947-d44585783626,OBD_2024_I,283,2024-Q4,Sperrholzplatte,32,Holzwerkstoff - nicht beschichtet,RC+,RC+,1.0
+88559403-7658-48f2-bac9-7986b4d0f4c2,448d1096-2017-4901-a560-f652a83c737e,OBD_2020_II,59,2024-Q4,Edelstahlblech,33,Edelstahl,CL+,CL+,1.0
+649fd5c6-2c2d-47d9-9a1a-a567673c9fd0,22885a6e-1765-4ade-a35e-ae668bd07256,OBD_2023_I,59,2024-Q4,Edelstahlblech,33,Edelstahl,CL+,CL+,1.0
+deae7522-47b9-47a8-b9a3-176db7c250ae,ca70a7e6-0ea4-4e90-a947-d44585783626,OBD_2024_I,59,2024-Q4,Edelstahlblech,33,Edelstahl,CL+,CL+,1.0
+601af947-1f14-474d-8233-780715a12268,448d1096-2017-4901-a560-f652a83c737e,OBD_2020_II,60,2024-Q4,Einblasdämmung Mineralwolle Rho 50 kg/m³,34,Mineralwolle Glaswolle,Dep-,SV,0.75
+b3abdd33-34fc-473a-a235-218cfd601c8e,22885a6e-1765-4ade-a35e-ae668bd07256,OBD_2023_I,60,2024-Q4,Einblasdämmung Mineralwolle Rho 50 kg/m³,34,Mineralwolle Glaswolle,Dep-,SV,0.75
+7395adfa-2a3f-43f1-be88-5d4a392968a5,ca70a7e6-0ea4-4e90-a947-d44585783626,OBD_2024_I,60,2024-Q4,Einblasdämmung Mineralwolle Rho 50 kg/m³,34,Mineralwolle Glaswolle,Dep-,SV,0.75
+,,,210,2024-Q4,Mineralwolle (Boden-Dämmung),34,Mineralwolle Glaswolle,Dep-,SV,0.75
+,,,211,2024-Q4,Mineralwolle (Fassaden-Dämmung),34,Mineralwolle Glaswolle,Dep-,SV,0.75
+,,,212,2024-Q4,Mineralwolle (Flachdach-Dämmung),34,Mineralwolle Glaswolle,Dep-,SV,0.75
+,,,213,2024-Q4,Mineralwolle (Innenausbau-Dämmung),34,Mineralwolle Glaswolle,Dep-,SV,0.75
+,,,214,2024-Q4,Mineralwolle (Schrägdach-Dämmung),34,Mineralwolle Glaswolle,Dep-,SV,0.75
+76312ca6-3ec4-4a40-a96e-fdda2765e049,22885a6e-1765-4ade-a35e-ae668bd07256,OBD_2023_I,62,2024-Q4,Epoxidharzmörtel,35,"Kleber (nicht-mineralisch: Kunstharzkleber,…)",EV-,EV-,0.0
+625ab4fe-4c34-4f60-8259-3bc8ebdd119a,ca70a7e6-0ea4-4e90-a947-d44585783626,OBD_2024_I,62,2024-Q4,Epoxidharzmörtel,35,"Kleber (nicht-mineralisch: Kunstharzkleber,…)",EV-,EV-,0.0
+bc0f8673-222f-4510-8cc5-08f0646a545b,22885a6e-1765-4ade-a35e-ae668bd07256,OBD_2023_I,82,2024-Q4,"Fliesenkleber, dispersionsbasiert",35,"Kleber (nicht-mineralisch: Kunstharzkleber,…)",EV-,EV-,0.0
+5908f568-29cd-4387-9816-d3cb1b2cc577,ca70a7e6-0ea4-4e90-a947-d44585783626,OBD_2024_I,82,2024-Q4,"Fliesenkleber, dispersionsbasiert",35,"Kleber (nicht-mineralisch: Kunstharzkleber,…)",EV-,EV-,0.0
+13f0fd9d-3ef6-4453-9d2d-21f2bf4136c5,22885a6e-1765-4ade-a35e-ae668bd07256,OBD_2023_I,250,2024-Q4,"Reaktionsharz auf Epoxidharzbasis, gefüllt",35,"Kleber (nicht-mineralisch: Kunstharzkleber,…)",EV-,EV-,0.0
+5916a356-69a8-457e-9b54-1232d6af5da9,ca70a7e6-0ea4-4e90-a947-d44585783626,OBD_2024_I,250,2024-Q4,"Reaktionsharz auf Epoxidharzbasis, gefüllt",35,"Kleber (nicht-mineralisch: Kunstharzkleber,…)",EV-,EV-,0.0
+d5b825fb-d0c8-4b7b-899e-2082343c7d9b,22885a6e-1765-4ade-a35e-ae668bd07256,OBD_2023_I,251,2024-Q4,Reaktionsharz auf Methacrylatharzbasis,35,"Kleber (nicht-mineralisch: Kunstharzkleber,…)",EV-,EV-,0.0
+374ca550-9556-4a9c-9de5-a9cb80b8b8f1,ca70a7e6-0ea4-4e90-a947-d44585783626,OBD_2024_I,251,2024-Q4,Reaktionsharz auf Methacrylatharzbasis,35,"Kleber (nicht-mineralisch: Kunstharzkleber,…)",EV-,EV-,0.0
+b35d785c-8f1b-48a1-ba19-6ddce4cb81c3,22885a6e-1765-4ade-a35e-ae668bd07256,OBD_2023_I,252,2024-Q4,"Reaktionsharz auf Polyurethan-Basis, wässrig, lösemittelfrei",35,"Kleber (nicht-mineralisch: Kunstharzkleber,…)",EV-,EV-,0.0
+e23fcf3f-c4a6-4e45-a97b-e5db88aa5fa0,ca70a7e6-0ea4-4e90-a947-d44585783626,OBD_2024_I,252,2024-Q4,"Reaktionsharz auf Polyurethan-Basis, wässrig, lösemittelfrei",35,"Kleber (nicht-mineralisch: Kunstharzkleber,…)",EV-,EV-,0.0
+,,,63,2024-Q4,EPS-Hartschaumdämmung - Sz. Creasolv,36,EPS - Sz. Creasolv,EV-,CL-,0.25
+,,,64,2024-Q4,EPS-Hartschaumdämmung - Sz. Verbrennung,37,EPS - Sz. Energet. Beseitig.,EV-,EV-,0.0
+e6b12fcd-c1fb-40d9-a9ec-d0149c3d1cd8,448d1096-2017-4901-a560-f652a83c737e,OBD_2020_II,276,2024-Q4,Schüttung aus Polystyrolschaumstoff-Partikeln (ohne Bindemittel),37,EPS - Sz. Energet. Beseitig.,EV-,EV-,0.0
+198043f5-de31-4fab-a300-53639b983dd1,22885a6e-1765-4ade-a35e-ae668bd07256,OBD_2023_I,276,2024-Q4,Schüttung aus Polystyrolschaumstoff-Partikeln (ohne Bindemittel),37,EPS - Sz. Energet. Beseitig.,EV-,EV-,0.0
+f2552bdf-c847-4ef8-9665-c37e8ef4d44d,ca70a7e6-0ea4-4e90-a947-d44585783626,OBD_2024_I,276,2024-Q4,Schüttung aus Polystyrolschaumstoff-Partikeln (ohne Bindemittel),37,EPS - Sz. Energet. Beseitig.,EV-,EV-,0.0
+0759d305-3ddd-4209-b25e-33ea9e440d90,22885a6e-1765-4ade-a35e-ae668bd07256,OBD_2023_I,65,2024-Q4,EPS-Hartschaumdämmung - Sz. RC als Schütt.,38,EPS - Sz. RC als Schütt.,EV-,SV,0.75
+121c71e8-0f4c-4529-b72e-331198d15f0f,ca70a7e6-0ea4-4e90-a947-d44585783626,OBD_2024_I,65,2024-Q4,EPS-Hartschaumdämmung - Sz. RC als Schütt.,38,EPS - Sz. RC als Schütt.,EV-,SV,0.75
+,,,275,2024-Q4,Schüttung aus Polystyrolschaumstoff-Partikeln (ohne Bindemittel),38,EPS - Sz. RC als Schütt.,EV-,SV,0.75
+b50fa992-e435-455a-8dfe-82254e9f4f48,448d1096-2017-4901-a560-f652a83c737e,OBD_2020_II,68,2024-Q4,Expandierter Kork,39,Kork,EV-,RC+,0.75
+c1d62b9b-d4bb-4220-b5b5-d078d527f457,22885a6e-1765-4ade-a35e-ae668bd07256,OBD_2023_I,68,2024-Q4,Expandierter Kork,39,Kork,EV-,RC+,0.75
+fdbe82c6-7073-4f8c-a540-c37a6bf16cd6,ca70a7e6-0ea4-4e90-a947-d44585783626,OBD_2024_I,68,2024-Q4,Expandierter Kork,39,Kork,EV-,RC+,0.75
+43e99b8c-90d8-4fcd-90ce-342fb0b7366e,448d1096-2017-4901-a560-f652a83c737e,OBD_2020_II,69,2024-Q4,XPS-Dämmstoff,40,XPS,EV-,RC+,0.25
+37f50a3e-5445-4bce-8eda-98f01dba441f,22885a6e-1765-4ade-a35e-ae668bd07256,OBD_2023_I,69,2024-Q4,XPS-Dämmstoff,40,XPS,EV-,RC+,0.25
+c4ddfdbc-ee2b-4dd5-a754-b317cf06470a,ca70a7e6-0ea4-4e90-a947-d44585783626,OBD_2024_I,69,2024-Q4,XPS-Dämmstoff,40,XPS,EV-,RC+,0.25
+0478ac14-93bf-4c84-80a3-2c1e6e128496,22885a6e-1765-4ade-a35e-ae668bd07256,OBD_2023_I,70,2024-Q4,Faserverstärkte Spachtelmasse,41,faserverstärkt,Dep-,Dep-,0.0
+c5151e24-55fa-4748-862f-855ab913470f,ca70a7e6-0ea4-4e90-a947-d44585783626,OBD_2024_I,70,2024-Q4,Faserverstärkte Spachtelmasse,41,faserverstärkt,Dep-,Dep-,0.0
+e24f9f47-8580-45c2-b16d-45145d65a813,448d1096-2017-4901-a560-f652a83c737e,OBD_2020_II,71,2024-Q4,Faserzementplatte,42,Faserzement,Dep-,Dep-,0.0
+26a2ed2d-fef5-4f8e-93db-63ad5b865f66,22885a6e-1765-4ade-a35e-ae668bd07256,OBD_2023_I,71,2024-Q4,Faserzementplatte,42,Faserzement,Dep-,Dep-,0.0
+161e1abd-fe38-45f6-8658-8bf4fa88eb7c,ca70a7e6-0ea4-4e90-a947-d44585783626,OBD_2024_I,71,2024-Q4,Faserzementplatte,42,Faserzement,Dep-,Dep-,0.0
+fcf6494c-aad2-4180-b1a2-392cc954ae52,448d1096-2017-4901-a560-f652a83c737e,OBD_2020_II,72,2024-Q4,Fassadenfarbe Dispersionsfarbe,43,"Farben, sonstige Beschichtungen (mineral. Untergrund)",Dep-,Dep-,0.0
+539f5cd0-4e0a-4aae-87eb-e018dbebea4d,22885a6e-1765-4ade-a35e-ae668bd07256,OBD_2023_I,72,2024-Q4,Fassadenfarbe Dispersionsfarbe,43,"Farben, sonstige Beschichtungen (mineral. Untergrund)",Dep-,Dep-,0.0
+8c5e949d-1b5e-4dc6-b6ae-bfc8e6c863ce,ca70a7e6-0ea4-4e90-a947-d44585783626,OBD_2024_I,72,2024-Q4,Fassadenfarbe Dispersionsfarbe,43,"Farben, sonstige Beschichtungen (mineral. Untergrund)",Dep-,Dep-,0.0
+02f2750e-eec2-492a-9f05-b9600593b6c5,448d1096-2017-4901-a560-f652a83c737e,OBD_2020_II,73,2024-Q4,Fassadenfarbe Silikat-Dispersionsfarbe,43,"Farben, sonstige Beschichtungen (mineral. Untergrund)",Dep-,Dep-,0.0
+656568b3-6a42-4a6e-917d-4ddcc3dca17b,22885a6e-1765-4ade-a35e-ae668bd07256,OBD_2023_I,73,2024-Q4,Fassadenfarbe Silikat-Dispersionsfarbe,43,"Farben, sonstige Beschichtungen (mineral. Untergrund)",Dep-,Dep-,0.0
+20043853-b153-484a-80c4-dd1bf1cb76e3,ca70a7e6-0ea4-4e90-a947-d44585783626,OBD_2024_I,73,2024-Q4,Fassadenfarbe Silikat-Dispersionsfarbe,43,"Farben, sonstige Beschichtungen (mineral. Untergrund)",Dep-,Dep-,0.0
+815fb8f6-04cc-494d-ab6b-1b6eae98bfca,448d1096-2017-4901-a560-f652a83c737e,OBD_2020_II,74,2024-Q4,Fassadenfarbe Silikonharzfarbe,43,"Farben, sonstige Beschichtungen (mineral. Untergrund)",Dep-,Dep-,0.0
+b923c64c-2da3-4f0c-ada3-5d1eeb884880,22885a6e-1765-4ade-a35e-ae668bd07256,OBD_2023_I,74,2024-Q4,Fassadenfarbe Silikonharzfarbe,43,"Farben, sonstige Beschichtungen (mineral. Untergrund)",Dep-,Dep-,0.0
+b974b2f9-967e-4356-80ae-d7feeb4f0d46,ca70a7e6-0ea4-4e90-a947-d44585783626,OBD_2024_I,74,2024-Q4,Fassadenfarbe Silikonharzfarbe,43,"Farben, sonstige Beschichtungen (mineral. Untergrund)",Dep-,Dep-,0.0
+948f8f68-f1f2-42f6-8350-6e27d6e80c7c,448d1096-2017-4901-a560-f652a83c737e,OBD_2020_II,75,2024-Q4,Fassadenfarbe Voranstrich Dispersion,43,"Farben, sonstige Beschichtungen (mineral. Untergrund)",Dep-,Dep-,0.0
+f830ac7f-04a0-46e0-a5ed-1b66a09555f5,22885a6e-1765-4ade-a35e-ae668bd07256,OBD_2023_I,75,2024-Q4,Fassadenfarbe Voranstrich Dispersion,43,"Farben, sonstige Beschichtungen (mineral. Untergrund)",Dep-,Dep-,0.0
+849af6c4-050a-4119-9bb4-9dd64a7a86fc,ca70a7e6-0ea4-4e90-a947-d44585783626,OBD_2024_I,75,2024-Q4,Fassadenfarbe Voranstrich Dispersion,43,"Farben, sonstige Beschichtungen (mineral. Untergrund)",Dep-,Dep-,0.0
+0b488798-140f-4efa-96e2-55aa46ed129a,448d1096-2017-4901-a560-f652a83c737e,OBD_2020_II,76,2024-Q4,Fassadenfarbe Voranstrich Silikat-Dispersion,43,"Farben, sonstige Beschichtungen (mineral. Untergrund)",Dep-,Dep-,0.0
+e6a19775-cdd4-40a5-a3bc-8d567c1cd4cc,22885a6e-1765-4ade-a35e-ae668bd07256,OBD_2023_I,76,2024-Q4,Fassadenfarbe Voranstrich Silikat-Dispersion,43,"Farben, sonstige Beschichtungen (mineral. Untergrund)",Dep-,Dep-,0.0
+b1964649-fd26-49d3-9aca-464fe807f2b2,ca70a7e6-0ea4-4e90-a947-d44585783626,OBD_2024_I,76,2024-Q4,Fassadenfarbe Voranstrich Silikat-Dispersion,43,"Farben, sonstige Beschichtungen (mineral. Untergrund)",Dep-,Dep-,0.0
+8d95efa8-e37d-4958-84a1-b9a920818e92,22885a6e-1765-4ade-a35e-ae668bd07256,OBD_2023_I,85,2024-Q4,Flüssigkunststoffe zur Bauwerksabdichtung auf SMP-Basis,43,"Farben, sonstige Beschichtungen (mineral. Untergrund)",Dep-,Dep-,0.0
+2676fb36-11ba-495a-90bd-fa914d6e949f,ca70a7e6-0ea4-4e90-a947-d44585783626,OBD_2024_I,85,2024-Q4,Flüssigkunststoffe zur Bauwerksabdichtung auf SMP-Basis,43,"Farben, sonstige Beschichtungen (mineral. Untergrund)",Dep-,Dep-,0.0
+35be6146-5a80-4a9e-a32d-5d05c03a8d5c,448d1096-2017-4901-a560-f652a83c737e,OBD_2020_II,132,2024-Q4,Innenfarbe Dispersionsfarbe scheuerfest,43,"Farben, sonstige Beschichtungen (mineral. Untergrund)",Dep-,Dep-,0.0
+fd7496b3-e4d0-45f6-838b-4db5bc3a66e8,22885a6e-1765-4ade-a35e-ae668bd07256,OBD_2023_I,132,2024-Q4,Innenfarbe Dispersionsfarbe scheuerfest,43,"Farben, sonstige Beschichtungen (mineral. Untergrund)",Dep-,Dep-,0.0
+b0b25f5c-0982-4f75-b75b-bb28f5807b64,ca70a7e6-0ea4-4e90-a947-d44585783626,OBD_2024_I,132,2024-Q4,Innenfarbe Dispersionsfarbe scheuerfest,43,"Farben, sonstige Beschichtungen (mineral. Untergrund)",Dep-,Dep-,0.0
+7baed44c-c80b-4340-b3af-f01d71fbbb43,448d1096-2017-4901-a560-f652a83c737e,OBD_2020_II,145,2024-Q4,Kalkfarbe,43,"Farben, sonstige Beschichtungen (mineral. Untergrund)",Dep-,Dep-,0.0
+5a4cd709-d5a4-40ba-9557-d7a546bb4ce0,22885a6e-1765-4ade-a35e-ae668bd07256,OBD_2023_I,145,2024-Q4,Kalkfarbe,43,"Farben, sonstige Beschichtungen (mineral. Untergrund)",Dep-,Dep-,0.0
+198223f3-acee-40be-93bb-0e7b365cacfc,ca70a7e6-0ea4-4e90-a947-d44585783626,OBD_2024_I,145,2024-Q4,Kalkfarbe,43,"Farben, sonstige Beschichtungen (mineral. Untergrund)",Dep-,Dep-,0.0
+85c41389-d62e-4dff-a819-896b35367cbc,448d1096-2017-4901-a560-f652a83c737e,OBD_2020_II,326,2024-Q4,Voranstrich (Silikat-Dispersion),43,"Farben, sonstige Beschichtungen (mineral. Untergrund)",Dep-,Dep-,0.0
+d6dc8844-4d8a-4abe-8ce9-db39c965f5bf,22885a6e-1765-4ade-a35e-ae668bd07256,OBD_2023_I,326,2024-Q4,Voranstrich (Silikat-Dispersion),43,"Farben, sonstige Beschichtungen (mineral. Untergrund)",Dep-,Dep-,0.0
+27370a17-b4fe-45f8-9d9d-71f265311c2e,ca70a7e6-0ea4-4e90-a947-d44585783626,OBD_2024_I,326,2024-Q4,Voranstrich (Silikat-Dispersion),43,"Farben, sonstige Beschichtungen (mineral. Untergrund)",Dep-,Dep-,0.0
+8ad88978-affe-46c4-9e69-73a886779876,22885a6e-1765-4ade-a35e-ae668bd07256,OBD_2023_I,327,2024-Q4,Voranstrich (Silikonharz),43,"Farben, sonstige Beschichtungen (mineral. Untergrund)",Dep-,Dep-,0.0
+c7db9557-2928-435f-82e2-afcdcbc69715,ca70a7e6-0ea4-4e90-a947-d44585783626,OBD_2024_I,327,2024-Q4,Voranstrich (Silikonharz),43,"Farben, sonstige Beschichtungen (mineral. Untergrund)",Dep-,Dep-,0.0
+58721f56-ae5c-453f-8074-3cefc87403c1,22885a6e-1765-4ade-a35e-ae668bd07256,OBD_2023_I,330,2024-Q4,"Wasserdichte, flexible Schutzschicht unter keramischen Belägen in Duschen u Bäden",43,"Farben, sonstige Beschichtungen (mineral. Untergrund)",Dep-,Dep-,0.0
+56251b2e-c726-476f-9eb2-4b4d8222c9cf,ca70a7e6-0ea4-4e90-a947-d44585783626,OBD_2024_I,330,2024-Q4,"Wasserdichte, flexible Schutzschicht unter keramischen Belägen in Duschen u Bäden",43,"Farben, sonstige Beschichtungen (mineral. Untergrund)",Dep-,Dep-,0.0
+d311ba82-a703-4865-b5e3-f704e5b88712,448d1096-2017-4901-a560-f652a83c737e,OBD_2020_II,77,2024-Q4,Fassadenklinker,44,Keramik - Fassade,RC+,RC+,1.0
+5dddc87c-6b72-4801-b822-4301138c99ce,22885a6e-1765-4ade-a35e-ae668bd07256,OBD_2023_I,77,2024-Q4,Fassadenklinker,44,Keramik - Fassade,RC+,RC+,1.0
+1a365e34-0b95-4c5c-973d-11a038eb7414,ca70a7e6-0ea4-4e90-a947-d44585783626,OBD_2024_I,77,2024-Q4,Fassadenklinker,44,Keramik - Fassade,RC+,RC+,1.0
+1490b480-2c36-43f2-ba8b-4ea49948f7c3,448d1096-2017-4901-a560-f652a83c737e,OBD_2020_II,78,2024-Q4,Fensterglas einfach,45,Klarglas (Bestand),RC-,RC+,0.5
+3598f7e3-1be1-4a05-9d2e-f41ad4623ced,22885a6e-1765-4ade-a35e-ae668bd07256,OBD_2023_I,78,2024-Q4,Fensterglas einfach,45,Klarglas (Bestand),RC-,RC+,0.5
+dcf38066-e336-46a7-b0a8-b2453dd2872d,ca70a7e6-0ea4-4e90-a947-d44585783626,OBD_2024_I,78,2024-Q4,Fensterglas einfach,45,Klarglas (Bestand),RC-,RC+,0.5
+50c9e674-afd9-456c-9440-6506bec6d55b,448d1096-2017-4901-a560-f652a83c737e,OBD_2020_II,79,2024-Q4,Feuerverzinktes Stahlblech,46,Stahl - Stahl(blech) verzinkt,CL-,CL-,1.0
+9812f03c-2a15-40bf-9c10-05f6924a420f,22885a6e-1765-4ade-a35e-ae668bd07256,OBD_2023_I,79,2024-Q4,Feuerverzinktes Stahlblech,46,Stahl - Stahl(blech) verzinkt,CL-,CL-,1.0
+717f4a1c-0df0-49e6-8169-528b50b01e56,ca70a7e6-0ea4-4e90-a947-d44585783626,OBD_2024_I,79,2024-Q4,Feuerverzinktes Stahlblech,46,Stahl - Stahl(blech) verzinkt,CL-,CL-,1.0
+,,,140,2024-Q4,"Innentür Metallzarge lackiert, Gewicht/lfm, d (IW)=10cm",46,Stahl - Stahl(blech) verzinkt,CL-,CL-,1.0
+,,,141,2024-Q4,"Innentür Metallzarge lackiert, Gewicht/lfm, d (IW)=20cm",46,Stahl - Stahl(blech) verzinkt,CL-,CL-,1.0
+,,,142,2024-Q4,"Innentür Metallzarge lackiert, Gewicht/Stk, d (IW)=10cm, Türlichte 0,9 x 2,0",46,Stahl - Stahl(blech) verzinkt,CL-,CL-,1.0
+,,,143,2024-Q4,"Innentür Metallzarge lackiert, Gewicht/Stk, d (IW)=20cm, Türlichte 0,9 x 2,0",46,Stahl - Stahl(blech) verzinkt,CL-,CL-,1.0
+93edef71-49e3-4e1f-ba6d-1e449e7d328d,448d1096-2017-4901-a560-f652a83c737e,OBD_2020_II,291,2024-Q4,Stahl Feinblech (20µm bandverzinkt),46,Stahl - Stahl(blech) verzinkt,CL-,CL-,1.0
+e4d32a41-ad4e-48bd-8ad9-56f50f495503,22885a6e-1765-4ade-a35e-ae668bd07256,OBD_2023_I,291,2024-Q4,Stahl Feinblech (20µm bandverzinkt),46,Stahl - Stahl(blech) verzinkt,CL-,CL-,1.0
+800dc37d-c3a2-4b12-b14b-54f7bc775f47,ca70a7e6-0ea4-4e90-a947-d44585783626,OBD_2024_I,291,2024-Q4,Stahl Feinblech (20µm bandverzinkt),46,Stahl - Stahl(blech) verzinkt,CL-,CL-,1.0
+ae5396d9-2952-4eae-b216-17d56758ece0,22885a6e-1765-4ade-a35e-ae668bd07256,OBD_2023_I,295,2024-Q4,Stahlprofil verzinkt,46,Stahl - Stahl(blech) verzinkt,CL-,CL-,1.0
+42de525f-7c48-4722-b503-6f423b39b4f4,ca70a7e6-0ea4-4e90-a947-d44585783626,OBD_2024_I,295,2024-Q4,Stahlprofil verzinkt,46,Stahl - Stahl(blech) verzinkt,CL-,CL-,1.0
+af13e5a8-0961-454a-ad3a-7093a37fc802,448d1096-2017-4901-a560-f652a83c737e,OBD_2020_II,80,2024-Q4,Flachsvlies (mit Flammschutzmittel),47,"DS Pflanzenfaser mit Zusatzstoffen (FSM, Bindemittel)",EV-,EV-,0.0
+1edb805d-08dc-461e-8195-05a9865470d0,22885a6e-1765-4ade-a35e-ae668bd07256,OBD_2023_I,80,2024-Q4,Flachsvlies (mit Flammschutzmittel),47,"DS Pflanzenfaser mit Zusatzstoffen (FSM, Bindemittel)",EV-,EV-,0.0
+b7b7c6be-122f-48d9-b1c2-9b81a6b7e95c,ca70a7e6-0ea4-4e90-a947-d44585783626,OBD_2024_I,80,2024-Q4,Flachsvlies (mit Flammschutzmittel),47,"DS Pflanzenfaser mit Zusatzstoffen (FSM, Bindemittel)",EV-,EV-,0.0
+,,,110,2024-Q4,Hanfdämmplatte (druckbelastet),47,"DS Pflanzenfaser mit Zusatzstoffen (FSM, Bindemittel)",EV-,EV-,0.0
+,,,111,2024-Q4,Hanfdämmplatte (nicht druckbelastet),47,"DS Pflanzenfaser mit Zusatzstoffen (FSM, Bindemittel)",EV-,EV-,0.0
+5ef0c519-f5b2-4d45-809d-5f417f90e90b,448d1096-2017-4901-a560-f652a83c737e,OBD_2020_II,112,2024-Q4,Hanfvlies mit Flammschutzmittel,47,"DS Pflanzenfaser mit Zusatzstoffen (FSM, Bindemittel)",EV-,EV-,0.0
+6505a4d0-df9a-4f7f-8a10-fa4ef36629ad,22885a6e-1765-4ade-a35e-ae668bd07256,OBD_2023_I,112,2024-Q4,Hanfvlies mit Flammschutzmittel,47,"DS Pflanzenfaser mit Zusatzstoffen (FSM, Bindemittel)",EV-,EV-,0.0
+9a9f76b6-54f0-421e-9f8a-6a5db3a22e1d,ca70a7e6-0ea4-4e90-a947-d44585783626,OBD_2024_I,112,2024-Q4,Hanfvlies mit Flammschutzmittel,47,"DS Pflanzenfaser mit Zusatzstoffen (FSM, Bindemittel)",EV-,EV-,0.0
+78b7cd15-d82a-4ffa-ae08-870b6e5d35d4,448d1096-2017-4901-a560-f652a83c737e,OBD_2020_II,81,2024-Q4,Fliesenkleber,48,"organ. Putz (Fliesenkleber Störstoff, Masse Einstuf. ident zu organ. Putz)",Dep-,Dep-,0.0
+b3581465-212c-4c61-ad7c-229c16975650,22885a6e-1765-4ade-a35e-ae668bd07256,OBD_2023_I,81,2024-Q4,Fliesenkleber,48,"organ. Putz (Fliesenkleber Störstoff, Masse Einstuf. ident zu organ. Putz)",Dep-,Dep-,0.0
+8a115164-6717-4aec-84b1-f79b0b1a947b,ca70a7e6-0ea4-4e90-a947-d44585783626,OBD_2024_I,81,2024-Q4,Fliesenkleber,48,"organ. Putz (Fliesenkleber Störstoff, Masse Einstuf. ident zu organ. Putz)",Dep-,Dep-,0.0
+f281ecaf-5754-4d27-8d70-cfd18780b192,448d1096-2017-4901-a560-f652a83c737e,OBD_2020_II,86,2024-Q4,Folie aus Polytetrafluorethylen PTFE,49,KSTBahn (Halog),EB,EB,0.0
+2014a394-f4e5-47dd-9e8a-ee2628bd73f3,22885a6e-1765-4ade-a35e-ae668bd07256,OBD_2023_I,86,2024-Q4,Folie aus Polytetrafluorethylen PTFE,49,KSTBahn (Halog),EB,EB,0.0
+7bb20bbf-173c-4d5b-9638-177ff4014789,ca70a7e6-0ea4-4e90-a947-d44585783626,OBD_2024_I,86,2024-Q4,Folie aus Polytetrafluorethylen PTFE,49,KSTBahn (Halog),EB,EB,0.0
+8a37ac61-585c-43a8-9773-10fce30096e4,448d1096-2017-4901-a560-f652a83c737e,OBD_2020_II,87,2024-Q4,Folie für Gründach,49,KSTBahn (Halog),EB,EB,0.0
+4c569188-c899-44da-8843-523c2c741efe,22885a6e-1765-4ade-a35e-ae668bd07256,OBD_2023_I,87,2024-Q4,Folie für Gründach,49,KSTBahn (Halog),EB,EB,0.0
+a0978051-8b63-44ea-973c-cc9340887458,ca70a7e6-0ea4-4e90-a947-d44585783626,OBD_2024_I,87,2024-Q4,Folie für Gründach,49,KSTBahn (Halog),EB,EB,0.0
+cc0a42be-7e68-4564-a09d-3c478f82af5b,22885a6e-1765-4ade-a35e-ae668bd07256,OBD_2023_I,90,2024-Q4,"Getuftete Teppichfliesen (PA 6), LC3",50,Bodenbelag textil 100 % synthetisch,EV-,EV-,0.0
+2fbd1f22-2a0d-4dfb-bfa6-52a861d320f2,ca70a7e6-0ea4-4e90-a947-d44585783626,OBD_2024_I,90,2024-Q4,"Getuftete Teppichfliesen (PA 6), LC3",50,Bodenbelag textil 100 % synthetisch,EV-,EV-,0.0
+76ab64f6-6d08-4b67-8cd7-13d26e68d95a,448d1096-2017-4901-a560-f652a83c737e,OBD_2020_II,308,2024-Q4,"Textile Fußbodenbeläge mehrschichtiges Nadelvlies (Teppichboden, 1400 g/m²)",50,Bodenbelag textil 100 % synthetisch,EV-,EV-,0.0
+de899441-c205-4d7d-81db-89366a4fa01a,22885a6e-1765-4ade-a35e-ae668bd07256,OBD_2023_I,308,2024-Q4,"Textile Fußbodenbeläge mehrschichtiges Nadelvlies (Teppichboden, 1400 g/m²)",50,Bodenbelag textil 100 % synthetisch,EV-,EV-,0.0
+2aca59c3-5947-43ca-af88-e6ae6366ce3f,ca70a7e6-0ea4-4e90-a947-d44585783626,OBD_2024_I,308,2024-Q4,"Textile Fußbodenbeläge mehrschichtiges Nadelvlies (Teppichboden, 1400 g/m²)",50,Bodenbelag textil 100 % synthetisch,EV-,EV-,0.0
+,,,91,2024-Q4,Gips-Kalk-Putz auf Massivbaustoff,51,Gipsputz (auf Gipsbaustoff),Dep+,RC-,0.25
+,,,97,2024-Q4,Gipsputz (innen),51,Gipsputz (auf Gipsbaustoff),Dep+,RC-,0.25
+,,,146,2024-Q4,Kalk-Gips-Innenputz auf Massivbaustoff,51,Gipsputz (auf Gipsbaustoff),Dep+,RC-,0.25
+0b0d0210-c31d-4fc7-b11a-9cdfe0a87ed6,448d1096-2017-4901-a560-f652a83c737e,OBD_2020_II,92,2024-Q4,Gips-Kalk-Putz auf Gipsbaustoff,52,Gipsputz (auf Massivbaustoff),Dep+,Dep+,0.0
+a3c3d772-142f-4494-ab5e-c3eb604bbe55,22885a6e-1765-4ade-a35e-ae668bd07256,OBD_2023_I,92,2024-Q4,Gips-Kalk-Putz auf Gipsbaustoff,52,Gipsputz (auf Massivbaustoff),Dep+,Dep+,0.0
+004f3f4e-5bb8-4d9e-a104-6999a9e8ad5b,ca70a7e6-0ea4-4e90-a947-d44585783626,OBD_2024_I,92,2024-Q4,Gips-Kalk-Putz auf Gipsbaustoff,52,Gipsputz (auf Massivbaustoff),Dep+,Dep+,0.0
+b7fb8ab4-e1e2-4a0b-a9c4-abd6cfa6c7f3,448d1096-2017-4901-a560-f652a83c737e,OBD_2020_II,98,2024-Q4,Gipsputz (innen),52,Gipsputz (auf Massivbaustoff),Dep+,Dep+,0.0
+f8e81ff6-1886-482e-9a78-7b1246a8c8f9,22885a6e-1765-4ade-a35e-ae668bd07256,OBD_2023_I,98,2024-Q4,Gipsputz (innen),52,Gipsputz (auf Massivbaustoff),Dep+,Dep+,0.0
+7e0c008a-009d-4357-92c1-afb2cec3bc0a,ca70a7e6-0ea4-4e90-a947-d44585783626,OBD_2024_I,98,2024-Q4,Gipsputz (innen),52,Gipsputz (auf Massivbaustoff),Dep+,Dep+,0.0
+70f6e305-e46f-4719-a94f-70267b936029,448d1096-2017-4901-a560-f652a83c737e,OBD_2020_II,147,2024-Q4,Kalk-Gips-Innenputz auf Gipsbaustoff,52,Gipsputz (auf Massivbaustoff),Dep+,Dep+,0.0
+4906fae7-6013-4d08-a765-642314c0bfd2,22885a6e-1765-4ade-a35e-ae668bd07256,OBD_2023_I,147,2024-Q4,Kalk-Gips-Innenputz auf Gipsbaustoff,52,Gipsputz (auf Massivbaustoff),Dep+,Dep+,0.0
+9a670d29-efb9-4fde-95ab-182a0b1e7280,ca70a7e6-0ea4-4e90-a947-d44585783626,OBD_2024_I,147,2024-Q4,Kalk-Gips-Innenputz auf Gipsbaustoff,52,Gipsputz (auf Massivbaustoff),Dep+,Dep+,0.0
+da72684f-471c-425b-817d-69f262323f04,448d1096-2017-4901-a560-f652a83c737e,OBD_2020_II,93,2024-Q4,Gipskartonplatte (Feuerschutz),53,Gipsplatte,Dep+,CL+,0.75
+9847cae4-4e56-40f3-a6d0-f0a153239669,22885a6e-1765-4ade-a35e-ae668bd07256,OBD_2023_I,93,2024-Q4,Gipskartonplatte (Feuerschutz),53,Gipsplatte,Dep+,CL+,0.75
+46c055f0-84a2-423b-ae82-5264886e51ad,ca70a7e6-0ea4-4e90-a947-d44585783626,OBD_2024_I,93,2024-Q4,Gipskartonplatte (Feuerschutz),53,Gipsplatte,Dep+,CL+,0.75
+07423e99-8c7c-4e93-8311-dcf7ae85c41d,448d1096-2017-4901-a560-f652a83c737e,OBD_2020_II,94,2024-Q4,Gipskartonplatte (imprägniert),53,Gipsplatte,Dep+,CL+,0.75
+21034c58-7460-469d-8715-88d1eb90936c,22885a6e-1765-4ade-a35e-ae668bd07256,OBD_2023_I,94,2024-Q4,Gipskartonplatte (imprägniert),53,Gipsplatte,Dep+,CL+,0.75
+deeb0bda-20fa-412a-b945-1a589638db21,ca70a7e6-0ea4-4e90-a947-d44585783626,OBD_2024_I,94,2024-Q4,Gipskartonplatte (imprägniert),53,Gipsplatte,Dep+,CL+,0.75
+207cde6a-73be-4ffb-972d-30d3d8619fc3,448d1096-2017-4901-a560-f652a83c737e,OBD_2020_II,95,2024-Q4,Gipskartonplatte (Lochplatte),53,Gipsplatte,Dep+,CL+,0.75
+ad411530-b146-47bb-85da-47dc47858864,22885a6e-1765-4ade-a35e-ae668bd07256,OBD_2023_I,95,2024-Q4,Gipskartonplatte (Lochplatte),53,Gipsplatte,Dep+,CL+,0.75
+edec09e1-c56e-4655-a094-c9a18e1563ac,ca70a7e6-0ea4-4e90-a947-d44585783626,OBD_2024_I,95,2024-Q4,Gipskartonplatte (Lochplatte),53,Gipsplatte,Dep+,CL+,0.75
+38a8d707-0c7f-4d91-a3db-9b5b2c9bb147,448d1096-2017-4901-a560-f652a83c737e,OBD_2020_II,99,2024-Q4,Gipswandbauplatte (100 mm),53,Gipsplatte,Dep+,CL+,0.75
+801d6e4d-4d9a-40e4-aa8f-37b722e62296,22885a6e-1765-4ade-a35e-ae668bd07256,OBD_2023_I,99,2024-Q4,Gipswandbauplatte (100 mm),53,Gipsplatte,Dep+,CL+,0.75
+7b69e7b4-68dd-49a3-b2dc-ae608b66eece,ca70a7e6-0ea4-4e90-a947-d44585783626,OBD_2024_I,99,2024-Q4,Gipswandbauplatte (100 mm),53,Gipsplatte,Dep+,CL+,0.75
+ab574186-139f-4816-b7c1-d457b1258c7d,448d1096-2017-4901-a560-f652a83c737e,OBD_2020_II,320,2024-Q4,Trockenestrich (Gipskartonplatte),53,Gipsplatte,Dep+,CL+,0.75
+93a02bbc-e268-4d2f-a8c4-7cda473b7eab,22885a6e-1765-4ade-a35e-ae668bd07256,OBD_2023_I,320,2024-Q4,Trockenestrich (Gipskartonplatte),53,Gipsplatte,Dep+,CL+,0.75
+f4ef6362-85e1-4aac-b263-d954d1acbcd1,ca70a7e6-0ea4-4e90-a947-d44585783626,OBD_2024_I,320,2024-Q4,Trockenestrich (Gipskartonplatte),53,Gipsplatte,Dep+,CL+,0.75
+6d535792-4351-4d7d-97c6-6d2c3624f3e0,448d1096-2017-4901-a560-f652a83c737e,OBD_2020_II,96,2024-Q4,Gipsfaserplatte,54,Gipsfaser,Dep+,RC-,0.25
+ff0f4b64-9735-4402-a053-dd34f2edd422,22885a6e-1765-4ade-a35e-ae668bd07256,OBD_2023_I,96,2024-Q4,Gipsfaserplatte,54,Gipsfaser,Dep+,RC-,0.25
+1b0a3488-9b02-4c98-b421-8c746d350f97,ca70a7e6-0ea4-4e90-a947-d44585783626,OBD_2024_I,96,2024-Q4,Gipsfaserplatte,54,Gipsfaser,Dep+,RC-,0.25
+a9a79b38-dc2c-4b51-a3cc-cf9fa0d299e7,448d1096-2017-4901-a560-f652a83c737e,OBD_2020_II,319,2024-Q4,Trockenestrich (Gipsfaserplatte),54,Gipsfaser,Dep+,RC-,0.25
+3ef401d0-e1fc-4ff3-bf94-a3ee6a460fdf,22885a6e-1765-4ade-a35e-ae668bd07256,OBD_2023_I,319,2024-Q4,Trockenestrich (Gipsfaserplatte),54,Gipsfaser,Dep+,RC-,0.25
+94b1c5c8-659a-4585-b0a2-4a4ffc2a64f6,ca70a7e6-0ea4-4e90-a947-d44585783626,OBD_2024_I,319,2024-Q4,Trockenestrich (Gipsfaserplatte),54,Gipsfaser,Dep+,RC-,0.25
+1f2d6e42-9ffc-421d-990d-555eee4a7529,448d1096-2017-4901-a560-f652a83c737e,OBD_2020_II,100,2024-Q4,Glasbausteine,55,Glasbaustein,Dep+,SV,0.5
+bf575960-32e9-47f6-833e-cba96c88dbd2,22885a6e-1765-4ade-a35e-ae668bd07256,OBD_2023_I,100,2024-Q4,Glasbausteine,55,Glasbaustein,Dep+,SV,0.5
+c92470df-8c3d-4586-904e-53801844edf5,ca70a7e6-0ea4-4e90-a947-d44585783626,OBD_2024_I,100,2024-Q4,Glasbausteine,55,Glasbaustein,Dep+,SV,0.5
+,,,102,2024-Q4,Glaskeramik-Tafeln (Fassade),56,Glaskeramik,RC+,RC+,1.0
+dbc94e02-b28f-43eb-8133-a161e9b83dfa,448d1096-2017-4901-a560-f652a83c737e,OBD_2020_II,104,2024-Q4,Grauguss Bauteil,57,"Stahl - Baustahl (zB Stahlträger,..)",CL+,CL+,1.0
+02beebbe-d658-461d-9f3f-a80cc3c92a83,22885a6e-1765-4ade-a35e-ae668bd07256,OBD_2023_I,104,2024-Q4,Grauguss Bauteil,57,"Stahl - Baustahl (zB Stahlträger,..)",CL+,CL+,1.0
+b8a652dc-48f0-4bc5-b60c-caec8d576fa4,ca70a7e6-0ea4-4e90-a947-d44585783626,OBD_2024_I,104,2024-Q4,Grauguss Bauteil,57,"Stahl - Baustahl (zB Stahlträger,..)",CL+,CL+,1.0
+a255934e-5461-4501-9acf-20ad1b51b044,448d1096-2017-4901-a560-f652a83c737e,OBD_2020_II,292,2024-Q4,Stahl Schmiedebauteil,57,"Stahl - Baustahl (zB Stahlträger,..)",CL+,CL+,1.0
+702a41a1-d009-4c7b-9f4f-cd999f9da7de,22885a6e-1765-4ade-a35e-ae668bd07256,OBD_2023_I,292,2024-Q4,Stahl Schmiedebauteil,57,"Stahl - Baustahl (zB Stahlträger,..)",CL+,CL+,1.0
+f848bd34-ac63-4b06-8ff6-080d310e414f,ca70a7e6-0ea4-4e90-a947-d44585783626,OBD_2024_I,292,2024-Q4,Stahl Schmiedebauteil,57,"Stahl - Baustahl (zB Stahlträger,..)",CL+,CL+,1.0
+38051c22-fbd1-4b0e-944a-ae348b8c7695,448d1096-2017-4901-a560-f652a83c737e,OBD_2020_II,294,2024-Q4,Stahlprofil,57,"Stahl - Baustahl (zB Stahlträger,..)",CL+,CL+,1.0
+8b1ac41c-10ab-453f-a761-edf1a603aea6,22885a6e-1765-4ade-a35e-ae668bd07256,OBD_2023_I,294,2024-Q4,Stahlprofil,57,"Stahl - Baustahl (zB Stahlträger,..)",CL+,CL+,1.0
+755a481d-a74b-4ba0-b417-cc26767b2d50,ca70a7e6-0ea4-4e90-a947-d44585783626,OBD_2024_I,294,2024-Q4,Stahlprofil,57,"Stahl - Baustahl (zB Stahlträger,..)",CL+,CL+,1.0
+7d8cb95b-99c2-4824-97a0-55d2fca5cedd,448d1096-2017-4901-a560-f652a83c737e,OBD_2020_II,105,2024-Q4,Gummi-Bodenbelag mit Schaumstoffbeschichtung EN 1816 (4 mm),58,Elast BB - Gummibelag,EV-,EV-,0.0
+3da2134f-da14-40fe-9861-84d4ccee9fef,22885a6e-1765-4ade-a35e-ae668bd07256,OBD_2023_I,105,2024-Q4,Gummi-Bodenbelag mit Schaumstoffbeschichtung EN 1816 (4 mm),58,Elast BB - Gummibelag,EV-,EV-,0.0
+665ebd38-a8b0-4f78-b627-b351cfaa2ae3,ca70a7e6-0ea4-4e90-a947-d44585783626,OBD_2024_I,105,2024-Q4,Gummi-Bodenbelag mit Schaumstoffbeschichtung EN 1816 (4 mm),58,Elast BB - Gummibelag,EV-,EV-,0.0
+f814e7e2-e438-4ea9-80cc-81254d01aba2,448d1096-2017-4901-a560-f652a83c737e,OBD_2020_II,106,2024-Q4,"Gummi-Bodenbelag profiliert EN 12199 (3,55 mm)",58,Elast BB - Gummibelag,EV-,EV-,0.0
+df441c17-25cb-4a50-add5-a2928933903d,22885a6e-1765-4ade-a35e-ae668bd07256,OBD_2023_I,106,2024-Q4,"Gummi-Bodenbelag profiliert EN 12199 (3,55 mm)",58,Elast BB - Gummibelag,EV-,EV-,0.0
+f5a8b0c6-0b46-4e1c-901b-643197c38ae2,ca70a7e6-0ea4-4e90-a947-d44585783626,OBD_2024_I,106,2024-Q4,"Gummi-Bodenbelag profiliert EN 12199 (3,55 mm)",58,Elast BB - Gummibelag,EV-,EV-,0.0
+5bebcf89-2e6b-46ce-b05e-3e02929c8af4,448d1096-2017-4901-a560-f652a83c737e,OBD_2020_II,108,2024-Q4,Gussasphaltestrich,59,Gussasphaltestrich,Dep+,CL+,0.75
+40ef1e7b-920d-4fe4-a8ec-3a540ef93c65,22885a6e-1765-4ade-a35e-ae668bd07256,OBD_2023_I,108,2024-Q4,Gussasphaltestrich,59,Gussasphaltestrich,Dep+,CL+,0.75
+c7381cc7-53b7-427e-9c0b-c9edc4152602,ca70a7e6-0ea4-4e90-a947-d44585783626,OBD_2024_I,108,2024-Q4,Gussasphaltestrich,59,Gussasphaltestrich,Dep+,CL+,0.75
+1e8e3c3e-aad0-44ef-977e-d040c4597df0,448d1096-2017-4901-a560-f652a83c737e,OBD_2020_II,109,2024-Q4,Gussteile aus Aluminium,60,Alu Guss,CL+,CL+,1.0
+568f2c96-2d04-43ff-bf03-8e48de9f11ff,22885a6e-1765-4ade-a35e-ae668bd07256,OBD_2023_I,109,2024-Q4,Gussteile aus Aluminium,60,Alu Guss,CL+,CL+,1.0
+d9bfad25-c581-4fe3-b5e3-171ddb59c808,ca70a7e6-0ea4-4e90-a947-d44585783626,OBD_2024_I,109,2024-Q4,Gussteile aus Aluminium,60,Alu Guss,CL+,CL+,1.0
+08bdbef6-9134-422f-8504-00eeee75d31f,448d1096-2017-4901-a560-f652a83c737e,OBD_2020_II,113,2024-Q4,Harnstoff-Formaldehydharz Ortschaum,61,"KSTDämm (Phenol, Melamin,…)",EB,EB,0.0
+1bf43844-2f42-499e-a177-e65d98cbbf68,22885a6e-1765-4ade-a35e-ae668bd07256,OBD_2023_I,113,2024-Q4,Harnstoff-Formaldehydharz Ortschaum,61,"KSTDämm (Phenol, Melamin,…)",EB,EB,0.0
+fabfbacc-f5ac-4283-8ffa-0d50765ddcfd,ca70a7e6-0ea4-4e90-a947-d44585783626,OBD_2024_I,113,2024-Q4,Harnstoff-Formaldehydharz Ortschaum,61,"KSTDämm (Phenol, Melamin,…)",EB,EB,0.0
+7082b2c3-5203-40ba-a6f8-d16edba60f5f,448d1096-2017-4901-a560-f652a83c737e,OBD_2020_II,206,2024-Q4,Melaminharz-Schaum,61,"KSTDämm (Phenol, Melamin,…)",EB,EB,0.0
+cc54d8cb-f26c-41ea-a152-8b28f7fb5b1d,22885a6e-1765-4ade-a35e-ae668bd07256,OBD_2023_I,206,2024-Q4,Melaminharz-Schaum,61,"KSTDämm (Phenol, Melamin,…)",EB,EB,0.0
+5383d573-9730-4786-9fe5-15d5fab0ec5c,ca70a7e6-0ea4-4e90-a947-d44585783626,OBD_2024_I,206,2024-Q4,Melaminharz-Schaum,61,"KSTDämm (Phenol, Melamin,…)",EB,EB,0.0
+cf6e341b-3de7-4e24-b4d2-8ac484ee7c0e,448d1096-2017-4901-a560-f652a83c737e,OBD_2020_II,232,2024-Q4,Phenolharz Hartschaum,61,"KSTDämm (Phenol, Melamin,…)",EB,EB,0.0
+310d5742-487d-4a4c-9e85-126574a2d3a8,22885a6e-1765-4ade-a35e-ae668bd07256,OBD_2023_I,232,2024-Q4,Phenolharz Hartschaum,61,"KSTDämm (Phenol, Melamin,…)",EB,EB,0.0
+4da47295-f607-4254-ab06-6925e3d5fc07,ca70a7e6-0ea4-4e90-a947-d44585783626,OBD_2024_I,232,2024-Q4,Phenolharz Hartschaum,61,"KSTDämm (Phenol, Melamin,…)",EB,EB,0.0
+,,,114,2024-Q4,Hartholzfaser-Platten,62,"Holzfaser, Hartfaser",EV+,EV+,0.5
+,,,115,2024-Q4,HDF-Platte,63,Holzfaser - HDF/MDF,EV+,RC-,0.25
+,,,204,2024-Q4,MDF-Platte,63,Holzfaser - HDF/MDF,EV+,RC-,0.25
+,,,116,2024-Q4,"Hochlochziegel (hochporosiert), ohne Mörtel / Kleb.",64,Ziegel - HLZ hochporosiert,SV,RC-,0.75
+,,,117,2024-Q4,"Hochlochziegel mineralisch gefüllt, ohne Mörtel / Kleb.",65,Ziegel mineralisch gefüllt,Dep+,RC-,0.75
+a26a956b-1520-4d1b-8cff-9e71fc119994,22885a6e-1765-4ade-a35e-ae668bd07256,OBD_2023_I,118,2024-Q4,"Hochlochziegel organisch gefüllt, ohne Mörtel / Kleb.",66,Ziegel EPS gefüllt,Dep-,RC-,0.75
+b822aa09-3cb6-49a3-98f6-a3ebf325a70b,ca70a7e6-0ea4-4e90-a947-d44585783626,OBD_2024_I,118,2024-Q4,"Hochlochziegel organisch gefüllt, ohne Mörtel / Kleb.",66,Ziegel EPS gefüllt,Dep-,RC-,0.75
+,,,120,2024-Q4,Holzdielenboden - unproblem. Beschichtet,67,Holzdielenboden,RC+,CL-,1.0
+393f494d-8738-4330-aa5e-1652bb29b574,448d1096-2017-4901-a560-f652a83c737e,OBD_2020_II,121,2024-Q4,Holzfaserdämmplatte (Nassverfahren),68,"Holzfaser, Rho<200",EV-,RC-,0.5
+eefa40b3-7156-43a9-b197-b908f204432b,22885a6e-1765-4ade-a35e-ae668bd07256,OBD_2023_I,121,2024-Q4,Holzfaserdämmplatte (Nassverfahren),68,"Holzfaser, Rho<200",EV-,RC-,0.5
+c91aa879-2826-4078-8bfa-baae349549cb,ca70a7e6-0ea4-4e90-a947-d44585783626,OBD_2024_I,121,2024-Q4,Holzfaserdämmplatte (Nassverfahren),68,"Holzfaser, Rho<200",EV-,RC-,0.5
+76d3f78a-8743-49fe-b4a1-f43b819cb930,448d1096-2017-4901-a560-f652a83c737e,OBD_2020_II,129,2024-Q4,Holzwolle-Leichtbauplatte,69,Holzzement,Dep-,SV,0.25
+bd815e7e-3b87-4a2a-b51e-fd56488de930,22885a6e-1765-4ade-a35e-ae668bd07256,OBD_2023_I,129,2024-Q4,Holzwolle-Leichtbauplatte,69,Holzzement,Dep-,SV,0.25
+ac8de42f-3cff-4ca8-b8cc-c0db6daf089b,ca70a7e6-0ea4-4e90-a947-d44585783626,OBD_2024_I,129,2024-Q4,Holzwolle-Leichtbauplatte,69,Holzzement,Dep-,SV,0.25
+93629cd1-4a44-4da5-89a8-3a12ac6c81b5,22885a6e-1765-4ade-a35e-ae668bd07256,OBD_2023_I,209,2024-Q4,Mineralisch modifizierte Trockenschüttung,69,Holzzement,Dep-,SV,0.25
+c4c0957c-0e8a-4445-8672-0fc21714751b,ca70a7e6-0ea4-4e90-a947-d44585783626,OBD_2024_I,209,2024-Q4,Mineralisch modifizierte Trockenschüttung,69,Holzzement,Dep-,SV,0.25
+a0d69f94-040e-44b1-a88b-bbaeeb0aae2a,448d1096-2017-4901-a560-f652a83c737e,OBD_2020_II,343,2024-Q4,Zementgebundene Spanplatte,69,Holzzement,Dep-,SV,0.25
+c772eb77-7b60-4b1f-8b5b-0be23e26549a,22885a6e-1765-4ade-a35e-ae668bd07256,OBD_2023_I,343,2024-Q4,Zementgebundene Spanplatte,69,Holzzement,Dep-,SV,0.25
+268829ec-c8d9-4c6e-abdd-542acc494dd1,ca70a7e6-0ea4-4e90-a947-d44585783626,OBD_2024_I,343,2024-Q4,Zementgebundene Spanplatte,69,Holzzement,Dep-,SV,0.25
+8cf90240-cbdd-4415-93a8-9c56da22f111,448d1096-2017-4901-a560-f652a83c737e,OBD_2020_II,130,2024-Q4,HPL-Platte (High pressure Laminate),70,HPL,EV+,EV+,0.0
+b2afc2f7-d973-442f-bda4-5d37a047534f,22885a6e-1765-4ade-a35e-ae668bd07256,OBD_2023_I,130,2024-Q4,HPL-Platte (High pressure Laminate),70,HPL,EV+,EV+,0.0
+f0da3c81-3912-4ea2-8e6b-bc9c789e859e,ca70a7e6-0ea4-4e90-a947-d44585783626,OBD_2024_I,130,2024-Q4,HPL-Platte (High pressure Laminate),70,HPL,EV+,EV+,0.0
+a4fceab4-71a2-46c9-ac9a-19a964d48ce5,448d1096-2017-4901-a560-f652a83c737e,OBD_2020_II,131,2024-Q4,Hüttensteine,71,Hüttenstein,RC-,RC-,1.0
+9fb201e2-741a-49bb-871d-098bfa312f8e,22885a6e-1765-4ade-a35e-ae668bd07256,OBD_2023_I,131,2024-Q4,Hüttensteine,71,Hüttenstein,RC-,RC-,1.0
+2ad3b93b-b559-404e-8b63-99c69d472896,ca70a7e6-0ea4-4e90-a947-d44585783626,OBD_2024_I,131,2024-Q4,Hüttensteine,71,Hüttenstein,RC-,RC-,1.0
+,,,133,2024-Q4,"Innentür (Pappe mit Wabenstruktur), Fl.gew.8 kg/m², laminiert oder lackiert ",72,"Innentür - Karton, Röhrenspanstreifen",EV-,EV-,0.0
+,,,134,2024-Q4,"Innentür (Röhrenspanplatte), Fl.gew.15 kg/m², laminiert oder lackiert ",72,"Innentür - Karton, Röhrenspanstreifen",EV-,EV-,0.0
+,,,135,2024-Q4,"Innentür (Röhrenspanstreifen), Fl.gew.12 kg/m², laminiert oder lackiert ",72,"Innentür - Karton, Röhrenspanstreifen",EV-,EV-,0.0
+,,,136,2024-Q4,"Innentür (Vollspanplatte), Fl.gew.23 kg/m², laminiert oder lackiert",73,Innentür - Spanplatte,EV-,RC-,0.75
+,,,137,2024-Q4,"Innentür (Vollspanplatte), Fl.gew.34 kg/m², laminiert oder lackiert",73,Innentür - Spanplatte,EV-,RC-,0.75
+,,,138,2024-Q4,"Innentür Massivholz, lackiert, Fl.gewicht 12 kg/m²",74,"Innentür - Holz massiv, beschichtet",RC+,CL-,1.0
+,,,139,2024-Q4,"Innentür Massivholz, unbehandelt oder geölt, Fl.gew. 12 kg/m²",75,"Innentür - Holz massiv, unbeschichtet",RC+,CL+,0.75
+07f3cd13-22bb-494d-803a-f0a440fbce7a,448d1096-2017-4901-a560-f652a83c737e,OBD_2020_II,148,2024-Q4,Kalk-Innenputz,76,"mineral. Putz, Mörtel, Kleber",Dep+,Dep+,0.0
+e0fdab1d-684b-44a5-8453-ef0f887addab,22885a6e-1765-4ade-a35e-ae668bd07256,OBD_2023_I,148,2024-Q4,Kalk-Innenputz,76,"mineral. Putz, Mörtel, Kleber",Dep+,Dep+,0.0
+eea7e352-bf1d-4e6d-9029-689d7936e6a7,ca70a7e6-0ea4-4e90-a947-d44585783626,OBD_2024_I,148,2024-Q4,Kalk-Innenputz,76,"mineral. Putz, Mörtel, Kleber",Dep+,Dep+,0.0
+d7f4a913-441f-4c21-aae5-42e421737e29,448d1096-2017-4901-a560-f652a83c737e,OBD_2020_II,149,2024-Q4,Kalkputzmörtel,76,"mineral. Putz, Mörtel, Kleber",Dep+,Dep+,0.0
+54e731d4-b14d-48eb-bbe5-02eb19e6a7e3,22885a6e-1765-4ade-a35e-ae668bd07256,OBD_2023_I,149,2024-Q4,Kalkputzmörtel,76,"mineral. Putz, Mörtel, Kleber",Dep+,Dep+,0.0
+ddc96ae4-086c-4033-9e45-c5589f1661ba,ca70a7e6-0ea4-4e90-a947-d44585783626,OBD_2024_I,149,2024-Q4,Kalkputzmörtel,76,"mineral. Putz, Mörtel, Kleber",Dep+,Dep+,0.0
+dea7df16-f59b-4842-a66c-cb9463a58ae3,448d1096-2017-4901-a560-f652a83c737e,OBD_2020_II,151,2024-Q4,Kalkzement Putzmörtel,76,"mineral. Putz, Mörtel, Kleber",Dep+,Dep+,0.0
+cf335713-922c-446a-ba90-f225534bfc03,22885a6e-1765-4ade-a35e-ae668bd07256,OBD_2023_I,151,2024-Q4,Kalkzement Putzmörtel,76,"mineral. Putz, Mörtel, Kleber",Dep+,Dep+,0.0
+dca9f05c-036b-40e5-ae81-c957c2420fd8,ca70a7e6-0ea4-4e90-a947-d44585783626,OBD_2024_I,151,2024-Q4,Kalkzement Putzmörtel,76,"mineral. Putz, Mörtel, Kleber",Dep+,Dep+,0.0
+50180064-236e-4e52-9a1e-f172dde80844,448d1096-2017-4901-a560-f652a83c737e,OBD_2020_II,152,2024-Q4,Kalkzementmörtel,76,"mineral. Putz, Mörtel, Kleber",Dep+,Dep+,0.0
+d225240a-821d-469b-add2-f2c5f93b9b3f,22885a6e-1765-4ade-a35e-ae668bd07256,OBD_2023_I,152,2024-Q4,Kalkzementmörtel,76,"mineral. Putz, Mörtel, Kleber",Dep+,Dep+,0.0
+af98c17b-b748-4d08-b5d5-9ff028ae7f25,ca70a7e6-0ea4-4e90-a947-d44585783626,OBD_2024_I,152,2024-Q4,Kalkzementmörtel,76,"mineral. Putz, Mörtel, Kleber",Dep+,Dep+,0.0
+43c3fd78-c67e-438b-b726-dd512df5d881,448d1096-2017-4901-a560-f652a83c737e,OBD_2020_II,156,2024-Q4,Kleber für Gipsplatten,76,"mineral. Putz, Mörtel, Kleber",Dep+,Dep+,0.0
+fc442d0a-fbc4-4304-ace8-24304756e2df,22885a6e-1765-4ade-a35e-ae668bd07256,OBD_2023_I,156,2024-Q4,Kleber für Gipsplatten,76,"mineral. Putz, Mörtel, Kleber",Dep+,Dep+,0.0
+2deb4078-5323-4785-ad2a-913eb66dcf5d,ca70a7e6-0ea4-4e90-a947-d44585783626,OBD_2024_I,156,2024-Q4,Kleber für Gipsplatten,76,"mineral. Putz, Mörtel, Kleber",Dep+,Dep+,0.0
+,,,197,2024-Q4,Leichtputz mineralisch (mineral. Untergrund),76,"mineral. Putz, Mörtel, Kleber",Dep+,Dep+,0.0
+,,,278,2024-Q4,Silikat-Dispersionsputz (mineral. Untergrund),76,"mineral. Putz, Mörtel, Kleber",Dep+,Dep+,0.0
+b2c3f5a3-7858-4644-a49a-2eb883d37c91,448d1096-2017-4901-a560-f652a83c737e,OBD_2020_II,344,2024-Q4,Zementmörtel,76,"mineral. Putz, Mörtel, Kleber",Dep+,Dep+,0.0
+9a08a2a7-b986-4b1a-b61f-ba65cc7414aa,22885a6e-1765-4ade-a35e-ae668bd07256,OBD_2023_I,344,2024-Q4,Zementmörtel,76,"mineral. Putz, Mörtel, Kleber",Dep+,Dep+,0.0
+96171066-34d9-4b33-b1e6-3af1ea11db61,ca70a7e6-0ea4-4e90-a947-d44585783626,OBD_2024_I,344,2024-Q4,Zementmörtel,76,"mineral. Putz, Mörtel, Kleber",Dep+,Dep+,0.0
+29e6c6cf-0552-4e4b-85c7-26a68a625252,448d1096-2017-4901-a560-f652a83c737e,OBD_2020_II,150,2024-Q4,Kalksandstein,77,Kalksandstein,SV,RC-,0.75
+722467a6-68cb-4676-bf9f-c6ea1d36594f,22885a6e-1765-4ade-a35e-ae668bd07256,OBD_2023_I,150,2024-Q4,Kalksandstein,77,Kalksandstein,SV,RC-,0.75
+c916ceb3-a44d-40b7-8984-861afa589956,ca70a7e6-0ea4-4e90-a947-d44585783626,OBD_2024_I,150,2024-Q4,Kalksandstein,77,Kalksandstein,SV,RC-,0.75
+3ce61a4e-4d91-4b1d-b675-276be05b9225,448d1096-2017-4901-a560-f652a83c737e,OBD_2020_II,154,2024-Q4,Kies 2/32,78,Kies / Schotter / Splitt,CL+,CL+,1.0
+ed8da770-fc78-40cd-acb1-40f062330f9c,22885a6e-1765-4ade-a35e-ae668bd07256,OBD_2023_I,154,2024-Q4,Kies 2/32,78,Kies / Schotter / Splitt,CL+,CL+,1.0
+d35a5f2a-d72c-41a3-9f64-ea1b1ec066d1,ca70a7e6-0ea4-4e90-a947-d44585783626,OBD_2024_I,154,2024-Q4,Kies 2/32,78,Kies / Schotter / Splitt,CL+,CL+,1.0
+e7b1d3c2-3494-4ae6-9f98-d4d507dcd0c2,448d1096-2017-4901-a560-f652a83c737e,OBD_2020_II,155,2024-Q4,Kies 2/32 getrocknet,78,Kies / Schotter / Splitt,CL+,CL+,1.0
+6b1052ed-f1f0-4f35-919b-3884df8da950,22885a6e-1765-4ade-a35e-ae668bd07256,OBD_2023_I,155,2024-Q4,Kies 2/32 getrocknet,78,Kies / Schotter / Splitt,CL+,CL+,1.0
+a7bad3b6-2123-483b-99b5-2ec481254be7,ca70a7e6-0ea4-4e90-a947-d44585783626,OBD_2024_I,155,2024-Q4,Kies 2/32 getrocknet,78,Kies / Schotter / Splitt,CL+,CL+,1.0
+bd6aa879-e6e6-4181-afc5-1374b2f32dd1,448d1096-2017-4901-a560-f652a83c737e,OBD_2020_II,273,2024-Q4,Schotter 16/32,78,Kies / Schotter / Splitt,CL+,CL+,1.0
+85fc79d8-ba39-4236-993e-eeb928d9ae6f,22885a6e-1765-4ade-a35e-ae668bd07256,OBD_2023_I,273,2024-Q4,Schotter 16/32,78,Kies / Schotter / Splitt,CL+,CL+,1.0
+f4461491-586a-4770-9a04-716565e58c24,ca70a7e6-0ea4-4e90-a947-d44585783626,OBD_2024_I,273,2024-Q4,Schotter 16/32,78,Kies / Schotter / Splitt,CL+,CL+,1.0
+de7fbcfc-0ee0-4e65-a1f9-af1551a20281,448d1096-2017-4901-a560-f652a83c737e,OBD_2020_II,274,2024-Q4,Schotter 16/32 (getrocknet),78,Kies / Schotter / Splitt,CL+,CL+,1.0
+2f04b410-9ca3-4984-a9f2-8475a6e9b5c1,22885a6e-1765-4ade-a35e-ae668bd07256,OBD_2023_I,274,2024-Q4,Schotter 16/32 (getrocknet),78,Kies / Schotter / Splitt,CL+,CL+,1.0
+321a3ced-7d27-4bc0-bb6e-eb1cca5e3ccb,ca70a7e6-0ea4-4e90-a947-d44585783626,OBD_2024_I,274,2024-Q4,Schotter 16/32 (getrocknet),78,Kies / Schotter / Splitt,CL+,CL+,1.0
+26ad7410-7fcb-42e8-b622-d1ba2edbf10c,448d1096-2017-4901-a560-f652a83c737e,OBD_2020_II,284,2024-Q4,Splitt 2/15,78,Kies / Schotter / Splitt,CL+,CL+,1.0
+d47c49c6-fb84-4b33-9710-bb442180823b,22885a6e-1765-4ade-a35e-ae668bd07256,OBD_2023_I,284,2024-Q4,Splitt 2/15,78,Kies / Schotter / Splitt,CL+,CL+,1.0
+f501dc99-706c-4b15-aaec-2cca2b409b41,ca70a7e6-0ea4-4e90-a947-d44585783626,OBD_2024_I,284,2024-Q4,Splitt 2/15,78,Kies / Schotter / Splitt,CL+,CL+,1.0
+7502766c-df2f-4f8d-8d45-17bb6938eac8,448d1096-2017-4901-a560-f652a83c737e,OBD_2020_II,285,2024-Q4,Splitt 2/15 (getrocknet),78,Kies / Schotter / Splitt,CL+,CL+,1.0
+6e54b3c4-5399-4579-bb31-397cc271e341,22885a6e-1765-4ade-a35e-ae668bd07256,OBD_2023_I,285,2024-Q4,Splitt 2/15 (getrocknet),78,Kies / Schotter / Splitt,CL+,CL+,1.0
+08dd6b43-d77b-48fe-8c97-c68294ed4f75,ca70a7e6-0ea4-4e90-a947-d44585783626,OBD_2024_I,285,2024-Q4,Splitt 2/15 (getrocknet),78,Kies / Schotter / Splitt,CL+,CL+,1.0
+e5f97559-bb92-4c23-a722-480da1b559ad,448d1096-2017-4901-a560-f652a83c737e,OBD_2020_II,159,2024-Q4,Korklinoleum Fußbodenbelag,79,Elast BB - Linoleumbelag,EV-,EV-,0.0
+f3a3bf90-a295-4aab-9bfc-af3fe20c921b,22885a6e-1765-4ade-a35e-ae668bd07256,OBD_2023_I,159,2024-Q4,Korklinoleum Fußbodenbelag,79,Elast BB - Linoleumbelag,EV-,EV-,0.0
+a7c7dd86-4cbe-487c-89f9-1bdd8ebdabec,ca70a7e6-0ea4-4e90-a947-d44585783626,OBD_2024_I,159,2024-Q4,Korklinoleum Fußbodenbelag,79,Elast BB - Linoleumbelag,EV-,EV-,0.0
+56e977b3-d042-4843-b40d-3a33dbb5a555,448d1096-2017-4901-a560-f652a83c737e,OBD_2020_II,199,2024-Q4,Linoleum,79,Elast BB - Linoleumbelag,EV-,EV-,0.0
+c3d7aef9-38a6-4d2a-a77f-2eee25461482,22885a6e-1765-4ade-a35e-ae668bd07256,OBD_2023_I,199,2024-Q4,Linoleum,79,Elast BB - Linoleumbelag,EV-,EV-,0.0
+ed391263-0e6d-43dd-ad3e-43607545f281,ca70a7e6-0ea4-4e90-a947-d44585783626,OBD_2024_I,199,2024-Q4,Linoleum,79,Elast BB - Linoleumbelag,EV-,EV-,0.0
+360cbe6a-bd01-4660-bd08-f7d3eb3d8b79,448d1096-2017-4901-a560-f652a83c737e,OBD_2020_II,160,2024-Q4,"Korkplatten 1m² (Dicke 0,004 m)",80,Korkplatten (Korkgranulat mit Bindemittel),EV+,EV+,0.0
+717cc09a-e2c5-48fb-913e-24b54fc5e851,22885a6e-1765-4ade-a35e-ae668bd07256,OBD_2023_I,160,2024-Q4,"Korkplatten 1m² (Dicke 0,004 m)",80,Korkplatten (Korkgranulat mit Bindemittel),EV+,EV+,0.0
+348671a9-852b-4bb0-bcc3-3847e5e4a843,ca70a7e6-0ea4-4e90-a947-d44585783626,OBD_2024_I,160,2024-Q4,"Korkplatten 1m² (Dicke 0,004 m)",80,Korkplatten (Korkgranulat mit Bindemittel),EV+,EV+,0.0
+4e2c6692-148d-4311-b0cf-f0f174002d9e,448d1096-2017-4901-a560-f652a83c737e,OBD_2020_II,161,2024-Q4,"Korkplatten 1m² (Dicke 0,008 m)",80,Korkplatten (Korkgranulat mit Bindemittel),EV+,EV+,0.0
+2d82e639-2be1-4861-92f8-944623ee385e,22885a6e-1765-4ade-a35e-ae668bd07256,OBD_2023_I,161,2024-Q4,"Korkplatten 1m² (Dicke 0,008 m)",80,Korkplatten (Korkgranulat mit Bindemittel),EV+,EV+,0.0
+dfb4dceb-e6a4-4fd8-bb42-f06b4e414e38,ca70a7e6-0ea4-4e90-a947-d44585783626,OBD_2024_I,161,2024-Q4,"Korkplatten 1m² (Dicke 0,008 m)",80,Korkplatten (Korkgranulat mit Bindemittel),EV+,EV+,0.0
+38babeb7-2b2f-42e2-9270-0daac46ebe07,448d1096-2017-4901-a560-f652a83c737e,OBD_2020_II,162,2024-Q4,"Korkplatten 1m² (Dicke 0,006 m)",80,Korkplatten (Korkgranulat mit Bindemittel),EV+,EV+,0.0
+4116031f-9ee7-4ac0-93e7-972c4b2de8a0,22885a6e-1765-4ade-a35e-ae668bd07256,OBD_2023_I,162,2024-Q4,"Korkplatten 1m² (Dicke 0,006 m)",80,Korkplatten (Korkgranulat mit Bindemittel),EV+,EV+,0.0
+b49b3145-9b55-46db-9a28-2359355f398e,ca70a7e6-0ea4-4e90-a947-d44585783626,OBD_2024_I,162,2024-Q4,"Korkplatten 1m² (Dicke 0,006 m)",80,Korkplatten (Korkgranulat mit Bindemittel),EV+,EV+,0.0
+b1ea7c10-4471-4485-95bf-7dc0a00025b6,448d1096-2017-4901-a560-f652a83c737e,OBD_2020_II,163,2024-Q4,Kraftpapier (Baupappe),81,Pappe,EV+,EV+,0.0
+03f8e9cd-16ee-4ece-93bc-b68441d34afe,22885a6e-1765-4ade-a35e-ae668bd07256,OBD_2023_I,163,2024-Q4,Kraftpapier (Baupappe),81,Pappe,EV+,EV+,0.0
+94c64884-f86e-44b1-9e55-8570cce6f43d,ca70a7e6-0ea4-4e90-a947-d44585783626,OBD_2024_I,163,2024-Q4,Kraftpapier (Baupappe),81,Pappe,EV+,EV+,0.0
+e98995e0-f945-4fea-849f-cec0aff6cb0c,448d1096-2017-4901-a560-f652a83c737e,OBD_2020_II,164,2024-Q4,Kunstharzestrich,82,Estrich SR - Kunstharzestrich,Dep-,Dep-,0.0
+8f060568-aca6-4375-86f4-340b806962c4,22885a6e-1765-4ade-a35e-ae668bd07256,OBD_2023_I,164,2024-Q4,Kunstharzestrich,82,Estrich SR - Kunstharzestrich,Dep-,Dep-,0.0
+83514986-e053-4b4b-9570-c04f37babb24,ca70a7e6-0ea4-4e90-a947-d44585783626,OBD_2024_I,164,2024-Q4,Kunstharzestrich,82,Estrich SR - Kunstharzestrich,Dep-,Dep-,0.0
+4a7c30d1-37d7-47e2-8271-dbb3bee91560,448d1096-2017-4901-a560-f652a83c737e,OBD_2020_II,165,2024-Q4,Kunstharzputz,83,organ. Putz,Dep-,Dep-,0.0
+8a29439a-9d91-44e7-b157-1432b44937f9,22885a6e-1765-4ade-a35e-ae668bd07256,OBD_2023_I,165,2024-Q4,Kunstharzputz,83,organ. Putz,Dep-,Dep-,0.0
+5541250a-f8d8-4c67-9f24-47ab54686c30,ca70a7e6-0ea4-4e90-a947-d44585783626,OBD_2024_I,165,2024-Q4,Kunstharzputz,83,organ. Putz,Dep-,Dep-,0.0
+,,,279,2024-Q4,Silikatputz,83,organ. Putz,Dep-,Dep-,0.0
+,,,281,2024-Q4,Silikonharzputz,83,organ. Putz,Dep-,Dep-,0.0
+1b84e630-6489-493e-a066-1b976684dd03,448d1096-2017-4901-a560-f652a83c737e,OBD_2020_II,337,2024-Q4,WDVS Verklebung und Beschichtung Silikonharzputz,83,organ. Putz,Dep-,Dep-,0.0
+6e95743d-cdf3-4646-a6ea-f9b2bb752821,22885a6e-1765-4ade-a35e-ae668bd07256,OBD_2023_I,337,2024-Q4,WDVS Verklebung und Beschichtung Silikonharzputz,83,organ. Putz,Dep-,Dep-,0.0
+b4cfc1a1-d1dc-413f-ab48-d6d52e498837,ca70a7e6-0ea4-4e90-a947-d44585783626,OBD_2024_I,337,2024-Q4,WDVS Verklebung und Beschichtung Silikonharzputz,83,organ. Putz,Dep-,Dep-,0.0
+ccdb5f3c-7305-46c7-ad5b-a05bb922a743,448d1096-2017-4901-a560-f652a83c737e,OBD_2020_II,166,2024-Q4,Kunststeinplatte (Epoxidharz gebunden),84,Kunststein,Dep-,Dep-,0.0
+11440edc-cfba-40af-bd2d-0db71afe444b,22885a6e-1765-4ade-a35e-ae668bd07256,OBD_2023_I,166,2024-Q4,Kunststeinplatte (Epoxidharz gebunden),84,Kunststein,Dep-,Dep-,0.0
+514d0f56-13d8-45a3-9267-01be064d6ce3,ca70a7e6-0ea4-4e90-a947-d44585783626,OBD_2024_I,166,2024-Q4,Kunststeinplatte (Epoxidharz gebunden),84,Kunststein,Dep-,Dep-,0.0
+0ba43350-3932-4e1d-a862-e88aa0ad2c7f,22885a6e-1765-4ade-a35e-ae668bd07256,OBD_2023_I,167,2024-Q4,Kunststoffmodifizierte Bitumendickbeschichtung,85,"Bitumenkaltkleber, Glasvlies, Glasfaserarmierung, Dichtmassen..",EB,EB,0.0
+85c48e5f-299c-463b-9aaf-da332a29dfe0,ca70a7e6-0ea4-4e90-a947-d44585783626,OBD_2024_I,167,2024-Q4,Kunststoffmodifizierte Bitumendickbeschichtung,85,"Bitumenkaltkleber, Glasvlies, Glasfaserarmierung, Dichtmassen..",EB,EB,0.0
+c34147d4-e691-4733-bf78-8a7ccd039006,448d1096-2017-4901-a560-f652a83c737e,OBD_2020_II,245,2024-Q4,PUR-Dichtmasse,85,"Bitumenkaltkleber, Glasvlies, Glasfaserarmierung, Dichtmassen..",EB,EB,0.0
+302acb89-846f-400c-ba6e-84640d360c1d,22885a6e-1765-4ade-a35e-ae668bd07256,OBD_2023_I,245,2024-Q4,PUR-Dichtmasse,85,"Bitumenkaltkleber, Glasvlies, Glasfaserarmierung, Dichtmassen..",EB,EB,0.0
+92ddc155-28e8-44d5-8e15-b7475f5d6872,ca70a7e6-0ea4-4e90-a947-d44585783626,OBD_2024_I,245,2024-Q4,PUR-Dichtmasse,85,"Bitumenkaltkleber, Glasvlies, Glasfaserarmierung, Dichtmassen..",EB,EB,0.0
+31a96d5c-66a3-4de1-a957-6aa4f8f4e53d,448d1096-2017-4901-a560-f652a83c737e,OBD_2020_II,169,2024-Q4,Kunststoffprofil EPDM,86,KSTProfil,EV-,EV-,0.0
+963ffb34-439a-4cab-9bfb-28c9b42533f2,22885a6e-1765-4ade-a35e-ae668bd07256,OBD_2023_I,169,2024-Q4,Kunststoffprofil EPDM,86,KSTProfil,EV-,EV-,0.0
+432e4b39-301e-4154-ac8a-ac635d6c36ad,ca70a7e6-0ea4-4e90-a947-d44585783626,OBD_2024_I,169,2024-Q4,Kunststoffprofil EPDM,86,KSTProfil,EV-,EV-,0.0
+968109bb-8aea-4c22-a7ca-ea2ef02208cf,22885a6e-1765-4ade-a35e-ae668bd07256,OBD_2023_I,170,2024-Q4,Kunststoffprofil PP mit Glasfaseranteil,86,KSTProfil,EV-,EV-,0.0
+a632df4b-08f4-4b10-95bc-73e92d7255b6,ca70a7e6-0ea4-4e90-a947-d44585783626,OBD_2024_I,170,2024-Q4,Kunststoffprofil PP mit Glasfaseranteil,86,KSTProfil,EV-,EV-,0.0
+1b69b3a2-3164-436b-a934-ed7d926f5f53,448d1096-2017-4901-a560-f652a83c737e,OBD_2020_II,171,2024-Q4,Kunststoffprofil SBR,86,KSTProfil,EV-,EV-,0.0
+4e679d88-9a0f-4ada-9210-5a6e1e020771,22885a6e-1765-4ade-a35e-ae668bd07256,OBD_2023_I,171,2024-Q4,Kunststoffprofil SBR,86,KSTProfil,EV-,EV-,0.0
+01726dcb-d5e9-44d2-b1df-f7fabc350723,ca70a7e6-0ea4-4e90-a947-d44585783626,OBD_2024_I,171,2024-Q4,Kunststoffprofil SBR,86,KSTProfil,EV-,EV-,0.0
+763abb33-ad4f-44fa-bc49-8c483e67b2b1,448d1096-2017-4901-a560-f652a83c737e,OBD_2020_II,172,2024-Q4,Kunststoffprofil Silikon,86,KSTProfil,EV-,EV-,0.0
+56674647-992d-4d42-8955-fb3617c1404e,22885a6e-1765-4ade-a35e-ae668bd07256,OBD_2023_I,172,2024-Q4,Kunststoffprofil Silikon,86,KSTProfil,EV-,EV-,0.0
+7091bebb-3c82-4b48-991d-08be78992f57,ca70a7e6-0ea4-4e90-a947-d44585783626,OBD_2024_I,172,2024-Q4,Kunststoffprofil Silikon,86,KSTProfil,EV-,EV-,0.0
+a051b8eb-5e03-486a-b9c3-bfc9d19234de,448d1096-2017-4901-a560-f652a83c737e,OBD_2020_II,173,2024-Q4,"Kunststoffteil aus laminiertem Polyesterharz (GFK, 30% Glasfaseranteil)",86,KSTProfil,EV-,EV-,0.0
+d03450fd-9438-43f7-9ee8-45faa63b1333,22885a6e-1765-4ade-a35e-ae668bd07256,OBD_2023_I,173,2024-Q4,"Kunststoffteil aus laminiertem Polyesterharz (GFK, 30% Glasfaseranteil)",86,KSTProfil,EV-,EV-,0.0
+7fc79af4-8de4-44f8-9bf7-69cd5532fca5,ca70a7e6-0ea4-4e90-a947-d44585783626,OBD_2024_I,173,2024-Q4,"Kunststoffteil aus laminiertem Polyesterharz (GFK, 30% Glasfaseranteil)",86,KSTProfil,EV-,EV-,0.0
+52ce9f28-1199-4ed5-a777-923229ee2eed,22885a6e-1765-4ade-a35e-ae668bd07256,OBD_2023_I,174,2024-Q4,Kupferbleche,87,Kupfer,CL+,CL+,1.0
+e5a4ebf9-0e5c-4fd8-bb04-1acb5497312f,ca70a7e6-0ea4-4e90-a947-d44585783626,OBD_2024_I,174,2024-Q4,Kupferbleche,87,Kupfer,CL+,CL+,1.0
+c1bc4706-9d3a-4468-8ecb-5a569226d75f,448d1096-2017-4901-a560-f652a83c737e,OBD_2020_II,175,2024-Q4,Lacksysteme Holzfassade deckend (Decklacksystem),88,Lacke (auf Holzuntergrund),EV-,EV-,0.0
+2662edec-0657-4889-bf64-4e811ac8e652,22885a6e-1765-4ade-a35e-ae668bd07256,OBD_2023_I,175,2024-Q4,Lacksysteme Holzfassade deckend (Decklacksystem),88,Lacke (auf Holzuntergrund),EV-,EV-,0.0
+10c87a16-01f1-4948-9d52-45e364d28534,ca70a7e6-0ea4-4e90-a947-d44585783626,OBD_2024_I,175,2024-Q4,Lacksysteme Holzfassade deckend (Decklacksystem),88,Lacke (auf Holzuntergrund),EV-,EV-,0.0
+1a4a4522-7297-4ae5-a430-689e89ec2159,448d1096-2017-4901-a560-f652a83c737e,OBD_2020_II,176,2024-Q4,Lacksysteme Holzfassade halb-pigmentiert (Lasursystem),88,Lacke (auf Holzuntergrund),EV-,EV-,0.0
+a7829637-2436-489c-9e94-6642817e1926,22885a6e-1765-4ade-a35e-ae668bd07256,OBD_2023_I,176,2024-Q4,Lacksysteme Holzfassade halb-pigmentiert (Lasursystem),88,Lacke (auf Holzuntergrund),EV-,EV-,0.0
+d0f21725-9c8e-41b7-9e38-83878b95930b,ca70a7e6-0ea4-4e90-a947-d44585783626,OBD_2024_I,176,2024-Q4,Lacksysteme Holzfassade halb-pigmentiert (Lasursystem),88,Lacke (auf Holzuntergrund),EV-,EV-,0.0
+2e5ca27a-fcd0-4dc1-b0ab-4a4c7eb4e030,448d1096-2017-4901-a560-f652a83c737e,OBD_2020_II,177,2024-Q4,Lacksysteme Holzfenster Decklack weiß,88,Lacke (auf Holzuntergrund),EV-,EV-,0.0
+9a0a1631-fccc-43bc-8911-817cbb79f49b,22885a6e-1765-4ade-a35e-ae668bd07256,OBD_2023_I,177,2024-Q4,Lacksysteme Holzfenster Decklack weiß,88,Lacke (auf Holzuntergrund),EV-,EV-,0.0
+b98e2a9b-fc58-44a5-af19-149f560bee8d,ca70a7e6-0ea4-4e90-a947-d44585783626,OBD_2024_I,177,2024-Q4,Lacksysteme Holzfenster Decklack weiß,88,Lacke (auf Holzuntergrund),EV-,EV-,0.0
+d5fe89f0-5fd2-4981-bb87-e74bbf13ef88,448d1096-2017-4901-a560-f652a83c737e,OBD_2020_II,178,2024-Q4,Lacksysteme Holzfenster Grundierung weiß,88,Lacke (auf Holzuntergrund),EV-,EV-,0.0
+9b8c0626-bb59-43f5-86dd-97484cc5d4c1,22885a6e-1765-4ade-a35e-ae668bd07256,OBD_2023_I,178,2024-Q4,Lacksysteme Holzfenster Grundierung weiß,88,Lacke (auf Holzuntergrund),EV-,EV-,0.0
+152ff22b-522e-400e-baee-812a9c6443d9,ca70a7e6-0ea4-4e90-a947-d44585783626,OBD_2024_I,178,2024-Q4,Lacksysteme Holzfenster Grundierung weiß,88,Lacke (auf Holzuntergrund),EV-,EV-,0.0
+08138b62-1b5f-497a-bf9a-d7f857a2e575,448d1096-2017-4901-a560-f652a83c737e,OBD_2020_II,179,2024-Q4,Lacksysteme Holzfenster Zwischenbeschichtung deckend weiß,88,Lacke (auf Holzuntergrund),EV-,EV-,0.0
+b347b33b-8a05-4d0a-83c4-1337c986a775,22885a6e-1765-4ade-a35e-ae668bd07256,OBD_2023_I,179,2024-Q4,Lacksysteme Holzfenster Zwischenbeschichtung deckend weiß,88,Lacke (auf Holzuntergrund),EV-,EV-,0.0
+b4a1a7a4-d5b2-4abe-85d8-88506b234a4d,ca70a7e6-0ea4-4e90-a947-d44585783626,OBD_2024_I,179,2024-Q4,Lacksysteme Holzfenster Zwischenbeschichtung deckend weiß,88,Lacke (auf Holzuntergrund),EV-,EV-,0.0
+95c6760d-1605-430b-8216-825f6c0ac409,448d1096-2017-4901-a560-f652a83c737e,OBD_2020_II,201,2024-Q4,Lösemittellack weiß,88,Lacke (auf Holzuntergrund),EV-,EV-,0.0
+511b2af7-f9b9-4e1f-8b9e-fd4ac548aa6c,22885a6e-1765-4ade-a35e-ae668bd07256,OBD_2023_I,201,2024-Q4,Lösemittellack weiß,88,Lacke (auf Holzuntergrund),EV-,EV-,0.0
+c307b6f8-af7a-44df-a093-1f8ba2a73fb9,ca70a7e6-0ea4-4e90-a947-d44585783626,OBD_2024_I,201,2024-Q4,Lösemittellack weiß,88,Lacke (auf Holzuntergrund),EV-,EV-,0.0
+859897ae-5ea2-4b55-9508-49297dd6ba6c,448d1096-2017-4901-a560-f652a83c737e,OBD_2020_II,221,2024-Q4,"Parkettlack (Grundierung Holz, wasserverdünnt)",88,Lacke (auf Holzuntergrund),EV-,EV-,0.0
+b97c7ace-c925-4c13-be59-d338fcc77f6b,22885a6e-1765-4ade-a35e-ae668bd07256,OBD_2023_I,221,2024-Q4,"Parkettlack (Grundierung Holz, wasserverdünnt)",88,Lacke (auf Holzuntergrund),EV-,EV-,0.0
+76331b58-1ec3-4dd2-a87c-3736e774ca07,ca70a7e6-0ea4-4e90-a947-d44585783626,OBD_2024_I,221,2024-Q4,"Parkettlack (Grundierung Holz, wasserverdünnt)",88,Lacke (auf Holzuntergrund),EV-,EV-,0.0
+c1328d7d-8ad6-4e74-a701-ffab0c542534,448d1096-2017-4901-a560-f652a83c737e,OBD_2020_II,222,2024-Q4,Parkettlack transparent,88,Lacke (auf Holzuntergrund),EV-,EV-,0.0
+f2e87b9c-45a7-4b6c-bd81-1abb81e061e1,22885a6e-1765-4ade-a35e-ae668bd07256,OBD_2023_I,222,2024-Q4,Parkettlack transparent,88,Lacke (auf Holzuntergrund),EV-,EV-,0.0
+43d72a8a-3f3c-49ab-91fc-b4b9b409d987,ca70a7e6-0ea4-4e90-a947-d44585783626,OBD_2024_I,222,2024-Q4,Parkettlack transparent,88,Lacke (auf Holzuntergrund),EV-,EV-,0.0
+0f072f06-faa5-466e-970c-a7215685f5a2,448d1096-2017-4901-a560-f652a83c737e,OBD_2020_II,331,2024-Q4,Wasserlack weiß,88,Lacke (auf Holzuntergrund),EV-,EV-,0.0
+3ec35876-5628-4749-a50c-f96e02a7e09e,22885a6e-1765-4ade-a35e-ae668bd07256,OBD_2023_I,331,2024-Q4,Wasserlack weiß,88,Lacke (auf Holzuntergrund),EV-,EV-,0.0
+37bca81b-c287-4685-a6ba-7b224e7cef02,ca70a7e6-0ea4-4e90-a947-d44585783626,OBD_2024_I,331,2024-Q4,Wasserlack weiß,88,Lacke (auf Holzuntergrund),EV-,EV-,0.0
+7c411026-6771-4fb6-85bf-85b248486409,22885a6e-1765-4ade-a35e-ae668bd07256,OBD_2023_I,180,2024-Q4,Laminatboden,89,Laminat,EV-,EV-,0.0
+14286caa-6bc1-4aa0-93d6-22d0f5b21195,ca70a7e6-0ea4-4e90-a947-d44585783626,OBD_2024_I,180,2024-Q4,Laminatboden,89,Laminat,EV-,EV-,0.0
+,,,182,2024-Q4,Lehmbauplatte,90,Lehmbauplatte,SV,CL+,0.75
+6aff7a60-d7cd-430e-8b15-02556b6f62ff,448d1096-2017-4901-a560-f652a83c737e,OBD_2020_II,183,2024-Q4,Lehmbauplatte mit CL-Nachweis,91,Lehmbauplatte mit CL-Nachweis,CL+,CL+,1.0
+eb255e58-7955-4d25-a333-4db0340b2864,22885a6e-1765-4ade-a35e-ae668bd07256,OBD_2023_I,183,2024-Q4,Lehmbauplatte mit CL-Nachweis,91,Lehmbauplatte mit CL-Nachweis,CL+,CL+,1.0
+c0915390-0e80-4253-9345-71fd83ef3c99,ca70a7e6-0ea4-4e90-a947-d44585783626,OBD_2024_I,183,2024-Q4,Lehmbauplatte mit CL-Nachweis,91,Lehmbauplatte mit CL-Nachweis,CL+,CL+,1.0
+,,,184,2024-Q4,Lehmfarbe,92,"Lehmfarbe, auf Lehmplatte",Dep+,CL+,0.75
+,,,185,2024-Q4,Lehm-Klebe- und Haftmörtel,93,Lehmputz,SV,CL+,0.75
+,,,186,2024-Q4,Lehmputz,93,Lehmputz,SV,CL+,0.75
+,,,187,2024-Q4,Lehmputz mit CL-Nachweis,94,Lehmputz mit CL-Nachweis,CL+,CL+,1.0
+9eae2fed-dba0-4641-b1cc-fd2cc65f2016,22885a6e-1765-4ade-a35e-ae668bd07256,OBD_2023_I,188,2024-Q4,"Lehmputz, kunststofffaserarmiert",95,"Lehmputz, kunststofffaserarmiert",Dep+,CL+,0.75
+422b2446-8a3f-457d-b47b-4728b2869d86,ca70a7e6-0ea4-4e90-a947-d44585783626,OBD_2024_I,188,2024-Q4,"Lehmputz, kunststofffaserarmiert",95,"Lehmputz, kunststofffaserarmiert",Dep+,CL+,0.75
+8be785fa-5548-4ea5-a2d7-b962675b9eff,448d1096-2017-4901-a560-f652a83c737e,OBD_2020_II,188,2024-Q4,"Lehmputz, kunststofffaserarmiert",95,"Lehmputz, kunststofffaserarmiert",Dep+,CL+,0.75
+,,,189,2024-Q4,Lehmschüttung granuliert,96,Lehm,SV,CL+,0.75
+,,,191,2024-Q4,Lehmstein,96,Lehm,SV,CL+,0.75
+,,,296,2024-Q4,Stampflehmwand,96,Lehm,SV,CL+,0.75
+,,,190,2024-Q4,Lehmschüttung granuliert mit CL-Nachweis ,97,Lehm mit CL-Nachweis,CL+,CL+,1.0
+606d978a-c44a-4b3e-8387-b1291b12e522,448d1096-2017-4901-a560-f652a83c737e,OBD_2020_II,192,2024-Q4,Lehmstein mit CL-Nachweis,98,Lehm - Störstoffkl. S4 (Neueinstuf.),Dep+,Dep+,0.75
+f25983c6-104a-4d19-8d2a-c0dccafa2f3b,22885a6e-1765-4ade-a35e-ae668bd07256,OBD_2023_I,192,2024-Q4,Lehmstein mit CL-Nachweis,98,Lehm - Störstoffkl. S4 (Neueinstuf.),Dep+,Dep+,0.75
+4c009f04-44e1-42e3-a32e-4929294debab,ca70a7e6-0ea4-4e90-a947-d44585783626,OBD_2024_I,192,2024-Q4,Lehmstein mit CL-Nachweis,98,Lehm - Störstoffkl. S4 (Neueinstuf.),Dep+,Dep+,0.75
+59622fc0-d719-43bf-a16b-ae924ae0d276,448d1096-2017-4901-a560-f652a83c737e,OBD_2020_II,297,2024-Q4,Stampflehmwand mit CL-Nachweis,98,Lehm - Störstoffkl. S4 (Neueinstuf.),Dep+,Dep+,0.75
+3f9ebd47-f93e-4fee-859a-13700134ee3c,22885a6e-1765-4ade-a35e-ae668bd07256,OBD_2023_I,297,2024-Q4,Stampflehmwand mit CL-Nachweis,98,Lehm - Störstoffkl. S4 (Neueinstuf.),Dep+,Dep+,0.75
+4b42a944-ff7e-4540-a46b-c21074255143,ca70a7e6-0ea4-4e90-a947-d44585783626,OBD_2024_I,297,2024-Q4,Stampflehmwand mit CL-Nachweis,98,Lehm - Störstoffkl. S4 (Neueinstuf.),Dep+,Dep+,0.75
+02a3f312-ea5e-45e5-b358-d50cb94c4fd5,22885a6e-1765-4ade-a35e-ae668bd07256,OBD_2023_I,193,2024-Q4,"Spanplatte, melaminbeschichtet",99,Melaminbeschichtet,EV-,EV-,0.0
+bfa45a2b-0f25-4dea-b550-50f3d49a548f,ca70a7e6-0ea4-4e90-a947-d44585783626,OBD_2024_I,193,2024-Q4,"Spanplatte, melaminbeschichtet",99,Melaminbeschichtet,EV-,EV-,0.0
+,,,195,2024-Q4,Leichtlehm (Stroh-Lehm-Gemisch),100,Leichtlehm (organ./mineral.),SV,RC-,0.75
+,,,196,2024-Q4,Leichtlehmputz,100,Leichtlehm (organ./mineral.),SV,RC-,0.75
+,,,198,2024-Q4,"Lichtkuppel Aufsatzkranz, PP Schürze 30cm [kg/lfm]",101,KSTProfil ,EV-,EV-,0.0
+31a631f0-1acf-4ec4-885b-d97de6d9f4ea,22885a6e-1765-4ade-a35e-ae668bd07256,OBD_2023_I,200,2024-Q4,Lose Hobelspandämmung,102,Hobelspäne unbehandelt,EV-,CL+,0.75
+33c70403-553e-442c-ac5b-0ee86cceffd6,ca70a7e6-0ea4-4e90-a947-d44585783626,OBD_2024_I,200,2024-Q4,Lose Hobelspandämmung,102,Hobelspäne unbehandelt,EV-,CL+,0.75
+,,,202,2024-Q4,Magnesiaestrich / Steinholzestrich,103,Magnesiaestrich / Steinholzestrich,Dep-,Dep-,0.0
+e9be7506-62ce-45b8-853f-c45c3f82401f,448d1096-2017-4901-a560-f652a83c737e,OBD_2020_II,203,2024-Q4,Marmorplatte ,104,Steinboden (unproblem. imprägniert / beschichtet),RC+,RC+,1.0
+02ec5054-ace1-4ffc-a46b-92be3bedb416,22885a6e-1765-4ade-a35e-ae668bd07256,OBD_2023_I,203,2024-Q4,Marmorplatte ,104,Steinboden (unproblem. imprägniert / beschichtet),RC+,RC+,1.0
+03ed395a-bc7b-4287-9013-8ba3ac1a2900,ca70a7e6-0ea4-4e90-a947-d44585783626,OBD_2024_I,203,2024-Q4,Marmorplatte ,104,Steinboden (unproblem. imprägniert / beschichtet),RC+,RC+,1.0
+3b66b7be-bc1e-4dd4-8779-453d4f81825f,448d1096-2017-4901-a560-f652a83c737e,OBD_2020_II,205,2024-Q4,Mehrschichtparkett  (unproblem. beschichtet),105,Parkett,RC-,RC-,1.0
+ed739600-fbd0-4b3e-b577-453778a5270e,22885a6e-1765-4ade-a35e-ae668bd07256,OBD_2023_I,205,2024-Q4,Mehrschichtparkett  (unproblem. beschichtet),105,Parkett,RC-,RC-,1.0
+19c8f194-c3ab-4797-9b1a-8f1788bf12d8,ca70a7e6-0ea4-4e90-a947-d44585783626,OBD_2024_I,205,2024-Q4,Mehrschichtparkett  (unproblem. beschichtet),105,Parkett,RC-,RC-,1.0
+d9ee3a94-83a2-4615-b071-9afa3aaeff42,448d1096-2017-4901-a560-f652a83c737e,OBD_2020_II,207,2024-Q4,Messing-Bauteil,106,Messing,CL+,CL+,1.0
+3d5b565c-187b-4413-ab45-3eaa89ede35d,22885a6e-1765-4ade-a35e-ae668bd07256,OBD_2023_I,207,2024-Q4,Messing-Bauteil,106,Messing,CL+,CL+,1.0
+fd3a4016-3f8c-4d8e-8bba-73b349781002,ca70a7e6-0ea4-4e90-a947-d44585783626,OBD_2024_I,207,2024-Q4,Messing-Bauteil,106,Messing,CL+,CL+,1.0
+def9e058-ac16-489e-9457-db7645404194,448d1096-2017-4901-a560-f652a83c737e,OBD_2020_II,208,2024-Q4,"Mineralfaser Deckenplatten (Dicke 0,015 m)",107,Mineralwolle Steinwolle,Dep-,RC-,0.5
+3175cb36-065b-4bc7-9c7e-dd256bba5e8f,22885a6e-1765-4ade-a35e-ae668bd07256,OBD_2023_I,208,2024-Q4,"Mineralfaser Deckenplatten (Dicke 0,015 m)",107,Mineralwolle Steinwolle,Dep-,RC-,0.5
+4160dc95-17a6-49c0-9a56-66d062c5c632,ca70a7e6-0ea4-4e90-a947-d44585783626,OBD_2024_I,208,2024-Q4,"Mineralfaser Deckenplatten (Dicke 0,015 m)",107,Mineralwolle Steinwolle,Dep-,RC-,0.5
+58b1ba79-459b-4d58-bc39-91a8f98e71ba,22885a6e-1765-4ade-a35e-ae668bd07256,OBD_2023_I,298,2024-Q4,Mineralwolle (Boden-Dämmung),107,Mineralwolle Steinwolle,Dep-,RC-,0.5
+ac779922-219f-4730-9aef-a7da84d334c1,ca70a7e6-0ea4-4e90-a947-d44585783626,OBD_2024_I,298,2024-Q4,Mineralwolle (Boden-Dämmung),107,Mineralwolle Steinwolle,Dep-,RC-,0.5
+2691d6e4-a41e-40d7-92ca-680f8785fc1d,448d1096-2017-4901-a560-f652a83c737e,OBD_2020_II,298,2024-Q4,Mineralwolle (Boden-Dämmung),107,Mineralwolle Steinwolle,Dep-,RC-,0.5
+f8afef87-5de3-4996-838c-1f2af9ef81df,448d1096-2017-4901-a560-f652a83c737e,OBD_2020_II,299,2024-Q4,Mineralwolle (Fassaden-Dämmung),107,Mineralwolle Steinwolle,Dep-,RC-,0.5
+4fa62445-e59f-4874-99e5-49cec91967e0,22885a6e-1765-4ade-a35e-ae668bd07256,OBD_2023_I,299,2024-Q4,Mineralwolle (Fassaden-Dämmung),107,Mineralwolle Steinwolle,Dep-,RC-,0.5
+50d421e2-3a7b-4659-92a4-f20d6a52fcf0,ca70a7e6-0ea4-4e90-a947-d44585783626,OBD_2024_I,299,2024-Q4,Mineralwolle (Fassaden-Dämmung),107,Mineralwolle Steinwolle,Dep-,RC-,0.5
+4477c6ca-b728-41fb-a231-366e159a73df,448d1096-2017-4901-a560-f652a83c737e,OBD_2020_II,300,2024-Q4,Mineralwolle (Flachdach-Dämmung),107,Mineralwolle Steinwolle,Dep-,RC-,0.5
+6ef00a53-1ddc-4c60-8840-e57a860ce18b,22885a6e-1765-4ade-a35e-ae668bd07256,OBD_2023_I,300,2024-Q4,Mineralwolle (Flachdach-Dämmung),107,Mineralwolle Steinwolle,Dep-,RC-,0.5
+60311c13-53d4-4cee-8777-1f9c9889b770,ca70a7e6-0ea4-4e90-a947-d44585783626,OBD_2024_I,300,2024-Q4,Mineralwolle (Flachdach-Dämmung),107,Mineralwolle Steinwolle,Dep-,RC-,0.5
+fafd5743-0b42-4614-8e3d-5c4eacdfba98,448d1096-2017-4901-a560-f652a83c737e,OBD_2020_II,301,2024-Q4,Mineralwolle (Innenausbau-Dämmung),107,Mineralwolle Steinwolle,Dep-,RC-,0.5
+8808dd39-82fb-49bb-8ad3-6cb0894292ae,22885a6e-1765-4ade-a35e-ae668bd07256,OBD_2023_I,301,2024-Q4,Mineralwolle (Innenausbau-Dämmung),107,Mineralwolle Steinwolle,Dep-,RC-,0.5
+a5b22bbe-175d-4aef-bb19-4954e699eb8c,ca70a7e6-0ea4-4e90-a947-d44585783626,OBD_2024_I,301,2024-Q4,Mineralwolle (Innenausbau-Dämmung),107,Mineralwolle Steinwolle,Dep-,RC-,0.5
+86380db6-3062-4d40-826d-732c24ed3cad,448d1096-2017-4901-a560-f652a83c737e,OBD_2020_II,302,2024-Q4,Mineralwolle (Schrägdach-Dämmung),107,Mineralwolle Steinwolle,Dep-,RC-,0.5
+cb0c2e5b-be08-47bd-badb-77ac39ae026d,22885a6e-1765-4ade-a35e-ae668bd07256,OBD_2023_I,302,2024-Q4,Mineralwolle (Schrägdach-Dämmung),107,Mineralwolle Steinwolle,Dep-,RC-,0.5
+d3661bd8-0107-4081-987b-4bdd5cfcb68d,ca70a7e6-0ea4-4e90-a947-d44585783626,OBD_2024_I,302,2024-Q4,Mineralwolle (Schrägdach-Dämmung),107,Mineralwolle Steinwolle,Dep-,RC-,0.5
+be9b6d26-6284-4fe2-ae46-bf84e0f60043,22885a6e-1765-4ade-a35e-ae668bd07256,OBD_2023_I,303,2024-Q4,Steinwolle Flachdämmplatte,107,Mineralwolle Steinwolle,Dep-,RC-,0.5
+5ad90c89-55b4-495f-9879-9b19356a2d1a,ca70a7e6-0ea4-4e90-a947-d44585783626,OBD_2024_I,303,2024-Q4,Steinwolle Flachdämmplatte,107,Mineralwolle Steinwolle,Dep-,RC-,0.5
+026057da-e1ae-4259-8f0b-91c917c63456,22885a6e-1765-4ade-a35e-ae668bd07256,OBD_2023_I,304,2024-Q4,Steinwolle Heizungsrohrschale,107,Mineralwolle Steinwolle,Dep-,RC-,0.5
+daba3305-6fa0-4035-bcd7-0e3534a01586,ca70a7e6-0ea4-4e90-a947-d44585783626,OBD_2024_I,304,2024-Q4,Steinwolle Heizungsrohrschale,107,Mineralwolle Steinwolle,Dep-,RC-,0.5
+da4b704a-c901-414f-943f-8e1ff0f4566c,448d1096-2017-4901-a560-f652a83c737e,OBD_2020_II,215,2024-Q4,"Natursteinplatte, hart, Außenbereich (Dicke 0,08 m)",108,Stein unbehandelt,CL+,CL+,1.0
+72d8921b-8ac0-471b-943a-47871bd8d76a,22885a6e-1765-4ade-a35e-ae668bd07256,OBD_2023_I,215,2024-Q4,"Natursteinplatte, hart, Außenbereich (Dicke 0,08 m)",108,Stein unbehandelt,CL+,CL+,1.0
+f82e3ab8-d7bb-4765-a60c-bfe78ede1565,ca70a7e6-0ea4-4e90-a947-d44585783626,OBD_2024_I,215,2024-Q4,"Natursteinplatte, hart, Außenbereich (Dicke 0,08 m)",108,Stein unbehandelt,CL+,CL+,1.0
+cb3f4a56-460c-4a3e-ae43-3e0a9dcb4319,448d1096-2017-4901-a560-f652a83c737e,OBD_2020_II,216,2024-Q4,"Natursteinplatte, hart, Fassade (Dicke 0,030 m)",108,Stein unbehandelt,CL+,CL+,1.0
+ffadb112-7271-460a-aaec-60135df38fba,22885a6e-1765-4ade-a35e-ae668bd07256,OBD_2023_I,216,2024-Q4,"Natursteinplatte, hart, Fassade (Dicke 0,030 m)",108,Stein unbehandelt,CL+,CL+,1.0
+e2e9d29e-c775-4eef-af57-de8194db7524,ca70a7e6-0ea4-4e90-a947-d44585783626,OBD_2024_I,216,2024-Q4,"Natursteinplatte, hart, Fassade (Dicke 0,030 m)",108,Stein unbehandelt,CL+,CL+,1.0
+e8db532f-ee15-42a4-89c3-5ef789e1fb8f,448d1096-2017-4901-a560-f652a83c737e,OBD_2020_II,217,2024-Q4,"Natursteinplatte, hart, Innenboden (Dicke 0,02 m)",108,Stein unbehandelt,CL+,CL+,1.0
+1e8f900e-eda3-43d9-b2cc-746dc1798a40,22885a6e-1765-4ade-a35e-ae668bd07256,OBD_2023_I,217,2024-Q4,"Natursteinplatte, hart, Innenboden (Dicke 0,02 m)",108,Stein unbehandelt,CL+,CL+,1.0
+c241605d-34f1-44db-bf07-78610e849edb,ca70a7e6-0ea4-4e90-a947-d44585783626,OBD_2024_I,217,2024-Q4,"Natursteinplatte, hart, Innenboden (Dicke 0,02 m)",108,Stein unbehandelt,CL+,CL+,1.0
+79075297-4dc0-42c6-bc90-e3bf9fa0fb4c,448d1096-2017-4901-a560-f652a83c737e,OBD_2020_II,218,2024-Q4,"Natursteinplatte, weich, Fassade",108,Stein unbehandelt,CL+,CL+,1.0
+ed73e591-97c9-4348-b3b0-5c88a6f4e1dc,22885a6e-1765-4ade-a35e-ae668bd07256,OBD_2023_I,218,2024-Q4,"Natursteinplatte, weich, Fassade",108,Stein unbehandelt,CL+,CL+,1.0
+b3e4257b-bdb7-4da2-9c33-990243dd4aa8,ca70a7e6-0ea4-4e90-a947-d44585783626,OBD_2024_I,218,2024-Q4,"Natursteinplatte, weich, Fassade",108,Stein unbehandelt,CL+,CL+,1.0
+ef0d9cbc-4e89-4e78-8cb2-68f02a49b87d,448d1096-2017-4901-a560-f652a83c737e,OBD_2020_II,219,2024-Q4,"Natursteinplatte, weich, Innenboden (Dicke 0,020 m)",108,Stein unbehandelt,CL+,CL+,1.0
+98c9f1b8-ff8c-4089-bd94-ec58b3fa1bf5,22885a6e-1765-4ade-a35e-ae668bd07256,OBD_2023_I,219,2024-Q4,"Natursteinplatte, weich, Innenboden (Dicke 0,020 m)",108,Stein unbehandelt,CL+,CL+,1.0
+37a63555-2ac1-45e8-b802-6d947f30b99a,ca70a7e6-0ea4-4e90-a947-d44585783626,OBD_2024_I,219,2024-Q4,"Natursteinplatte, weich, Innenboden (Dicke 0,020 m)",108,Stein unbehandelt,CL+,CL+,1.0
+9049a94f-a527-4d87-a4b9-5a3a56f5ea19,448d1096-2017-4901-a560-f652a83c737e,OBD_2020_II,264,2024-Q4,"Schiefer, unhandelt",108,Stein unbehandelt,CL+,CL+,1.0
+8847396e-ce82-433d-9f65-8bc144a2a7a4,22885a6e-1765-4ade-a35e-ae668bd07256,OBD_2023_I,264,2024-Q4,"Schiefer, unhandelt",108,Stein unbehandelt,CL+,CL+,1.0
+909a1f8a-00d8-436f-86f9-77e0ee840a88,ca70a7e6-0ea4-4e90-a947-d44585783626,OBD_2024_I,264,2024-Q4,"Schiefer, unhandelt",108,Stein unbehandelt,CL+,CL+,1.0
+,,,223,2024-Q4,PE Weichschaum,109,KSTDämm (PE),EV-,EV-,0.0
+,,,225,2024-Q4,PE-Drainageplatten,109,KSTDämm (PE),EV-,EV-,0.0
+65af52ac-382b-4069-aafe-b044b3960356,448d1096-2017-4901-a560-f652a83c737e,OBD_2020_II,236,2024-Q4,Polyethylen-Schaum,109,KSTDämm (PE),EV-,EV-,0.0
+fa802cb7-a64d-48b3-b928-0f9976420d37,22885a6e-1765-4ade-a35e-ae668bd07256,OBD_2023_I,236,2024-Q4,Polyethylen-Schaum,109,KSTDämm (PE),EV-,EV-,0.0
+52ac8701-d612-4cc9-8037-b2dc2a293a8c,ca70a7e6-0ea4-4e90-a947-d44585783626,OBD_2024_I,236,2024-Q4,Polyethylen-Schaum,109,KSTDämm (PE),EV-,EV-,0.0
+03329c6a-b5f2-47c8-a8db-1bd3b003857c,22885a6e-1765-4ade-a35e-ae668bd07256,OBD_2023_I,230,2024-Q4,Pfosten/Riegel aus Aluminium,110,Alu-Pfosten-Riegel-Konstr. ungedämmt,RC+,RC+,1.0
+f18ac191-cfcc-4068-a6c5-38ba25442d9b,ca70a7e6-0ea4-4e90-a947-d44585783626,OBD_2024_I,230,2024-Q4,Pfosten/Riegel aus Aluminium,110,Alu-Pfosten-Riegel-Konstr. ungedämmt,RC+,RC+,1.0
+1121bd10-6918-441c-b18b-8264a277c919,22885a6e-1765-4ade-a35e-ae668bd07256,OBD_2023_I,231,2024-Q4,Pfosten/Riegelsystem aus Stahl,110,Alu-Pfosten-Riegel-Konstr. ungedämmt,RC+,RC+,1.0
+1e56bbe7-38f8-40a5-817b-8fa10c56a66e,ca70a7e6-0ea4-4e90-a947-d44585783626,OBD_2024_I,231,2024-Q4,Pfosten/Riegelsystem aus Stahl,110,Alu-Pfosten-Riegel-Konstr. ungedämmt,RC+,RC+,1.0
+2c076ee7-3853-4f69-9bf5-8ec265fa43e0,448d1096-2017-4901-a560-f652a83c737e,OBD_2020_II,234,2024-Q4,PIR Hartschaum (250 kg/m³),111,"KSTDämm (PUR, PIR)",EB,SV,0.25
+c2ba651c-00bf-4f69-a0dc-a6a5fe680652,22885a6e-1765-4ade-a35e-ae668bd07256,OBD_2023_I,234,2024-Q4,PIR Hartschaum (250 kg/m³),111,"KSTDämm (PUR, PIR)",EB,SV,0.25
+355dbd58-78dc-45cc-be8a-43d66d117e15,ca70a7e6-0ea4-4e90-a947-d44585783626,OBD_2024_I,234,2024-Q4,PIR Hartschaum (250 kg/m³),111,"KSTDämm (PUR, PIR)",EB,SV,0.25
+fb68a5d1-82eb-4e36-b5bd-8db0f3ee7a6d,22885a6e-1765-4ade-a35e-ae668bd07256,OBD_2023_I,244,2024-Q4,PUR/PIR Dämmstoff (32 kg/m³),111,"KSTDämm (PUR, PIR)",EB,SV,0.25
+b960f95d-466b-4014-9565-64e51407a364,ca70a7e6-0ea4-4e90-a947-d44585783626,OBD_2024_I,244,2024-Q4,PUR/PIR Dämmstoff (32 kg/m³),111,"KSTDämm (PUR, PIR)",EB,SV,0.25
+6fc1267a-1f4d-4244-a65e-df8a0a3ccc50,448d1096-2017-4901-a560-f652a83c737e,OBD_2020_II,235,2024-Q4,Polycarbonatplatte,112,KSTPlatte (zB transparente Platten),EV-,EV-,0.0
+3f617412-e411-4b33-b81f-27e1ec0a6545,22885a6e-1765-4ade-a35e-ae668bd07256,OBD_2023_I,235,2024-Q4,Polycarbonatplatte,112,KSTPlatte (zB transparente Platten),EV-,EV-,0.0
+dcfd896b-9b7d-42a5-b47b-3643a8870e6a,ca70a7e6-0ea4-4e90-a947-d44585783626,OBD_2024_I,235,2024-Q4,Polycarbonatplatte,112,KSTPlatte (zB transparente Platten),EV-,EV-,0.0
+222023f8-36c2-4345-a863-b49828a41e96,448d1096-2017-4901-a560-f652a83c737e,OBD_2020_II,311,2024-Q4,Transparente Platten PC,112,KSTPlatte (zB transparente Platten),EV-,EV-,0.0
+690ebc5b-80ad-47c3-8d26-8db3504c7d81,22885a6e-1765-4ade-a35e-ae668bd07256,OBD_2023_I,311,2024-Q4,Transparente Platten PC,112,KSTPlatte (zB transparente Platten),EV-,EV-,0.0
+b2ba83d3-0427-404c-8c27-f551d0a26bd3,ca70a7e6-0ea4-4e90-a947-d44585783626,OBD_2024_I,311,2024-Q4,Transparente Platten PC,112,KSTPlatte (zB transparente Platten),EV-,EV-,0.0
+41b8a86d-5d44-49fb-a9b8-de2a9041f1fd,448d1096-2017-4901-a560-f652a83c737e,OBD_2020_II,312,2024-Q4,"Transparente Platten PMMA, extrudiert",112,KSTPlatte (zB transparente Platten),EV-,EV-,0.0
+eda737e1-1012-4324-aff5-d070800468ab,22885a6e-1765-4ade-a35e-ae668bd07256,OBD_2023_I,312,2024-Q4,"Transparente Platten PMMA, extrudiert",112,KSTPlatte (zB transparente Platten),EV-,EV-,0.0
+7a265769-b70e-4cbb-a9ac-f6af4e55f8a6,ca70a7e6-0ea4-4e90-a947-d44585783626,OBD_2024_I,312,2024-Q4,"Transparente Platten PMMA, extrudiert",112,KSTPlatte (zB transparente Platten),EV-,EV-,0.0
+795ab193-fc50-463d-a5f8-e37d5336ee78,448d1096-2017-4901-a560-f652a83c737e,OBD_2020_II,313,2024-Q4,"Transparente Platten PMMA, gegossen",112,KSTPlatte (zB transparente Platten),EV-,EV-,0.0
+73f1bfa7-c79e-4129-bf1a-eee28cc3c85f,22885a6e-1765-4ade-a35e-ae668bd07256,OBD_2023_I,313,2024-Q4,"Transparente Platten PMMA, gegossen",112,KSTPlatte (zB transparente Platten),EV-,EV-,0.0
+f7646e58-4d38-4bc0-b908-e4207c9f2a89,ca70a7e6-0ea4-4e90-a947-d44585783626,OBD_2024_I,313,2024-Q4,"Transparente Platten PMMA, gegossen",112,KSTPlatte (zB transparente Platten),EV-,EV-,0.0
+907545ae-8eac-47a7-9b1b-47a474a16749,22885a6e-1765-4ade-a35e-ae668bd07256,OBD_2023_I,238,2024-Q4,Porenbeton Granulat,113,Porenbeton-Granulat,Dep+,RC+,0.75
+01f45a03-460d-4e55-b5c9-72d3e8eda18e,ca70a7e6-0ea4-4e90-a947-d44585783626,OBD_2024_I,238,2024-Q4,Porenbeton Granulat,113,Porenbeton-Granulat,Dep+,RC+,0.75
+906b4864-0511-480f-a8bc-7b8302efbf0b,448d1096-2017-4901-a560-f652a83c737e,OBD_2020_II,240,2024-Q4,"Porenbeton P2 04 unbewehrt, Rho 380 kg/m³",114,Porenbeton - unbewehrt,Dep+,RC-,0.75
+dfac45db-fd07-4dcb-9359-2b8b4e882d62,22885a6e-1765-4ade-a35e-ae668bd07256,OBD_2023_I,240,2024-Q4,"Porenbeton P2 04 unbewehrt, Rho 380 kg/m³",114,Porenbeton - unbewehrt,Dep+,RC-,0.75
+c5310f2b-23a1-4059-ba25-80d9b3e933f5,ca70a7e6-0ea4-4e90-a947-d44585783626,OBD_2024_I,240,2024-Q4,"Porenbeton P2 04 unbewehrt, Rho 380 kg/m³",114,Porenbeton - unbewehrt,Dep+,RC-,0.75
+1a43ae76-2dc9-4a3a-9926-47e7137e773d,448d1096-2017-4901-a560-f652a83c737e,OBD_2020_II,242,2024-Q4,"Porenbeton P4 05 unbewehrt, Rho 472 kg/m³",114,Porenbeton - unbewehrt,Dep+,RC-,0.75
+3c6051d0-2062-4a92-9f4c-0d48c911978d,22885a6e-1765-4ade-a35e-ae668bd07256,OBD_2023_I,242,2024-Q4,"Porenbeton P4 05 unbewehrt, Rho 472 kg/m³",114,Porenbeton - unbewehrt,Dep+,RC-,0.75
+f1e6c40e-3f2e-4435-9fd8-abc2dd96c38c,ca70a7e6-0ea4-4e90-a947-d44585783626,OBD_2024_I,242,2024-Q4,"Porenbeton P4 05 unbewehrt, Rho 472 kg/m³",114,Porenbeton - unbewehrt,Dep+,RC-,0.75
+d3b59cac-3b4e-4d18-8c3a-780b553c9591,448d1096-2017-4901-a560-f652a83c737e,OBD_2020_II,241,2024-Q4,Porenbeton P4 05 bewehrt,115,Porenbeton - bewehrt,Dep+,RC-,0.75
+34aa0d55-ab02-41f0-84e1-f8a28cc6280e,22885a6e-1765-4ade-a35e-ae668bd07256,OBD_2023_I,241,2024-Q4,Porenbeton P4 05 bewehrt,115,Porenbeton - bewehrt,Dep+,RC-,0.75
+45e2894f-09e7-4152-a4bd-8a13f6d5b0c3,ca70a7e6-0ea4-4e90-a947-d44585783626,OBD_2024_I,241,2024-Q4,Porenbeton P4 05 bewehrt,115,Porenbeton - bewehrt,Dep+,RC-,0.75
+39da14a3-8f39-4af9-955c-6a70f091acb8,448d1096-2017-4901-a560-f652a83c737e,OBD_2020_II,246,2024-Q4,PVC Fußbodenbelag,116,PVC-Belag,EB,SV,0.75
+788de5d9-a671-4cd6-9e86-760bb5203ec1,22885a6e-1765-4ade-a35e-ae668bd07256,OBD_2023_I,246,2024-Q4,PVC Fußbodenbelag,116,PVC-Belag,EB,SV,0.75
+fde18fdc-ca6b-41d3-9918-aab96177fc24,ca70a7e6-0ea4-4e90-a947-d44585783626,OBD_2024_I,246,2024-Q4,PVC Fußbodenbelag,116,PVC-Belag,EB,SV,0.75
+,,,248,2024-Q4,PVC-Dachbahnen,117,PVC-Folie,EB,SV,0.5
+4f4e989b-bd5e-4d85-9a50-53f3c61eea70,448d1096-2017-4901-a560-f652a83c737e,OBD_2020_II,249,2024-Q4,PVC-Dachbahnen - nicht rückbaubar (Neueinstuf.),118,PVC-Folie - verklebt oder nicht rückbaubar,EB,EB,0.0
+57bb6738-f9d8-4c59-b00a-00a217e9feba,22885a6e-1765-4ade-a35e-ae668bd07256,OBD_2023_I,249,2024-Q4,PVC-Dachbahnen - nicht rückbaubar (Neueinstuf.),118,PVC-Folie - verklebt oder nicht rückbaubar,EB,EB,0.0
+ab14e105-1768-4cd7-bcd2-3436c16fad16,ca70a7e6-0ea4-4e90-a947-d44585783626,OBD_2024_I,249,2024-Q4,PVC-Dachbahnen - nicht rückbaubar (Neueinstuf.),118,PVC-Folie - verklebt oder nicht rückbaubar,EB,EB,0.0
+,,,259,2024-Q4,Schafwolle (mit Flammschutzmittel),119,Schafwolle mit Flammschutzmittel,EV-,EV-,0.75
+,,,260,2024-Q4,Schafwolle (ohne Zusatzstoffe),120,Schafwolle,EV-,RC+,0.75
+,,,262,2024-Q4,Schaumglasgranulat Schüttung,121,Mineralische Dämmschüttung,SV,CL-,0.75
+387dcaea-adf2-4f84-a1b0-b81520126a1c,22885a6e-1765-4ade-a35e-ae668bd07256,OBD_2023_I,263,2024-Q4,Schaumglasplatten,122,Schaumglas,Dep+,SV,0.75
+7091503e-34e5-44cd-9acb-7c2f16f6097f,ca70a7e6-0ea4-4e90-a947-d44585783626,OBD_2024_I,263,2024-Q4,Schaumglasplatten,122,Schaumglas,Dep+,SV,0.75
+,,,265,2024-Q4,Schilfrohrdämmmatte,123,Schilfrohr,SV,RC+,0.5
+,,,266,2024-Q4,Schilfrohrmatte (Putzträger),123,Schilfrohr,SV,RC+,0.5
+704177f4-78cd-47a3-b71c-07899df86615,448d1096-2017-4901-a560-f652a83c737e,OBD_2020_II,277,2024-Q4,Schüttung aus Polystyrolschaumstoff-Partikeln (zementgebunden),124,Schüttung organ./min. gebunden,Dep-,Dep-,0.0
+84e317e1-9d87-4246-bd95-0777aaf2dc3f,22885a6e-1765-4ade-a35e-ae668bd07256,OBD_2023_I,277,2024-Q4,Schüttung aus Polystyrolschaumstoff-Partikeln (zementgebunden),124,Schüttung organ./min. gebunden,Dep-,Dep-,0.0
+8f6daa87-b2ee-4eb0-95e0-737ac8c6a59f,ca70a7e6-0ea4-4e90-a947-d44585783626,OBD_2024_I,277,2024-Q4,Schüttung aus Polystyrolschaumstoff-Partikeln (zementgebunden),124,Schüttung organ./min. gebunden,Dep-,Dep-,0.0
+,,,286,2024-Q4,"Splitt 2/8, dauerelastisch gebunden (Latex, sonstige Polymere)",124,Schüttung organ./min. gebunden,Dep-,Dep-,0.0
+,22885a6e-1765-4ade-a35e-ae668bd07256,OBD_2023_I,288,2024-Q4,Splittschüttung mineral. geb.,125,Schüttung min./min. gebunden,RC-,RC-,1.0
+,ca70a7e6-0ea4-4e90-a947-d44585783626,OBD_2024_I,288,2024-Q4,Splittschüttung mineral. geb.,125,Schüttung min./min. gebunden,RC-,RC-,1.0
+,448d1096-2017-4901-a560-f652a83c737e,OBD_2020_II,288,2024-Q4,Splittschüttung mineral. geb.,125,Schüttung min./min. gebunden,RC-,RC-,1.0
+88619ce6-c0aa-43bd-9ac6-477b5d6ce442,448d1096-2017-4901-a560-f652a83c737e,OBD_2020_II,289,2024-Q4,Stabparkett,126,Holzwerkstoffboden,RC-,RC-,1.0
+96a73457-ae7d-49ff-906a-d10e6b11d82c,22885a6e-1765-4ade-a35e-ae668bd07256,OBD_2023_I,289,2024-Q4,Stabparkett,126,Holzwerkstoffboden,RC-,RC-,1.0
+2b389c60-468e-4f3e-abfa-f279262ecd5d,ca70a7e6-0ea4-4e90-a947-d44585783626,OBD_2024_I,289,2024-Q4,Stabparkett,126,Holzwerkstoffboden,RC-,RC-,1.0
+9cbdbafe-8377-46ca-a640-8e3c8fc518c0,448d1096-2017-4901-a560-f652a83c737e,OBD_2020_II,290,2024-Q4,"Stahl Feinblech (0,3-3,0mm), unverzinkt",127,Stahl - Stahlblech,CL+,CL+,1.0
+bca0565e-ee92-4b32-939e-60c67e503390,22885a6e-1765-4ade-a35e-ae668bd07256,OBD_2023_I,290,2024-Q4,"Stahl Feinblech (0,3-3,0mm), unverzinkt",127,Stahl - Stahlblech,CL+,CL+,1.0
+89318772-3a50-4f56-9839-d0a8c702e396,ca70a7e6-0ea4-4e90-a947-d44585783626,OBD_2024_I,290,2024-Q4,"Stahl Feinblech (0,3-3,0mm), unverzinkt",127,Stahl - Stahlblech,CL+,CL+,1.0
+531ab34f-6750-41a8-aedc-35cf4df3c8b1,448d1096-2017-4901-a560-f652a83c737e,OBD_2020_II,293,2024-Q4,Stahl warmgewalzte Bleche (2-20mm),127,Stahl - Stahlblech,CL+,CL+,1.0
+467aee4d-03e3-4bf5-a916-8d279d5a5f29,22885a6e-1765-4ade-a35e-ae668bd07256,OBD_2023_I,293,2024-Q4,Stahl warmgewalzte Bleche (2-20mm),127,Stahl - Stahlblech,CL+,CL+,1.0
+fb5aca98-636a-4dcb-b0dd-9ed09117486e,ca70a7e6-0ea4-4e90-a947-d44585783626,OBD_2024_I,293,2024-Q4,Stahl warmgewalzte Bleche (2-20mm),127,Stahl - Stahlblech,CL+,CL+,1.0
+b4a0e610-e038-47d3-b86e-cef013cd7c83,448d1096-2017-4901-a560-f652a83c737e,OBD_2020_II,305,2024-Q4,Steinzeugfliesen glasiert,128,Keramik - Boden,RC-,RC-,1.0
+422b43de-406b-46fa-8a87-c5d446fba399,22885a6e-1765-4ade-a35e-ae668bd07256,OBD_2023_I,305,2024-Q4,Steinzeugfliesen glasiert,128,Keramik - Boden,RC-,RC-,1.0
+5618689c-57a8-4860-85d3-7403ad5ba201,ca70a7e6-0ea4-4e90-a947-d44585783626,OBD_2024_I,305,2024-Q4,Steinzeugfliesen glasiert,128,Keramik - Boden,RC-,RC-,1.0
+bc2f9dde-f2a6-4630-bf7c-0ad3870012ef,448d1096-2017-4901-a560-f652a83c737e,OBD_2020_II,306,2024-Q4,Steinzeugfliesen unglasiert,128,Keramik - Boden,RC-,RC-,1.0
+3830f872-628b-4e3f-8370-b7c6efcfcc70,22885a6e-1765-4ade-a35e-ae668bd07256,OBD_2023_I,306,2024-Q4,Steinzeugfliesen unglasiert,128,Keramik - Boden,RC-,RC-,1.0
+91935678-1a09-43e0-8a84-294522407ac3,ca70a7e6-0ea4-4e90-a947-d44585783626,OBD_2024_I,306,2024-Q4,Steinzeugfliesen unglasiert,128,Keramik - Boden,RC-,RC-,1.0
+89ffc2cd-fb84-41df-9ebe-cda946ebf2bd,22885a6e-1765-4ade-a35e-ae668bd07256,OBD_2023_I,307,2024-Q4,Strohdämmung,129,Strohballen,SV,SV,0.0
+e45e2b55-a8c4-4037-bc7d-e3718c4e28f3,ca70a7e6-0ea4-4e90-a947-d44585783626,OBD_2024_I,307,2024-Q4,Strohdämmung,129,Strohballen,SV,SV,0.0
+1d2b97ed-0f6f-4a6a-acd5-ea13ff23d893,22885a6e-1765-4ade-a35e-ae668bd07256,OBD_2023_I,309,2024-Q4,Thermisch behandeltes Holz,130,Holz - therm. Behandelt,EV+,EV+,0.0
+ee8691c4-00f9-4724-bb79-8043c62ce41e,ca70a7e6-0ea4-4e90-a947-d44585783626,OBD_2024_I,309,2024-Q4,Thermisch behandeltes Holz,130,Holz - therm. Behandelt,EV+,EV+,0.0
+1a6a306b-6c9f-4953-9bdf-2617a11e4d37,22885a6e-1765-4ade-a35e-ae668bd07256,OBD_2023_I,324,2024-Q4,"Vakuum-Isolations-Paneel (VIP), unkaschiert",131,VIP,Dep+,Dep+,1.0
+852b71e6-404e-4056-b87f-34686f292adc,ca70a7e6-0ea4-4e90-a947-d44585783626,OBD_2024_I,324,2024-Q4,"Vakuum-Isolations-Paneel (VIP), unkaschiert",131,VIP,Dep+,Dep+,1.0
+5cc8769c-da1b-4967-bb4d-c8fe7b4c359d,448d1096-2017-4901-a560-f652a83c737e,OBD_2020_II,325,2024-Q4,Vegetationssubstrat,132,Substrat,CL+,CL+,1.0
+4673fe2d-2d7b-40f6-906b-269fd056236e,22885a6e-1765-4ade-a35e-ae668bd07256,OBD_2023_I,325,2024-Q4,Vegetationssubstrat,132,Substrat,CL+,CL+,1.0
+8bdc6332-4d94-44c1-9975-a236ff7a3349,ca70a7e6-0ea4-4e90-a947-d44585783626,OBD_2024_I,325,2024-Q4,Vegetationssubstrat,132,Substrat,CL+,CL+,1.0
+f74a19da-df9a-4462-a632-3b3dc83377b1,448d1096-2017-4901-a560-f652a83c737e,OBD_2020_II,328,2024-Q4,Vormauerziegel (ohne Mörtel),133,"Ziegel - Vormauer, Vollziegel",RC+,RC+,1.0
+34303fdd-b939-450a-9ca5-269773fc9d4d,22885a6e-1765-4ade-a35e-ae668bd07256,OBD_2023_I,328,2024-Q4,Vormauerziegel (ohne Mörtel),133,"Ziegel - Vormauer, Vollziegel",RC+,RC+,1.0
+1401638f-b9d7-4b33-9444-b072e2756f49,ca70a7e6-0ea4-4e90-a947-d44585783626,OBD_2024_I,328,2024-Q4,Vormauerziegel (ohne Mörtel),133,"Ziegel - Vormauer, Vollziegel",RC+,RC+,1.0
+,,,338,2024-Q4,Wood-Plastic-Composites,134,WPC,EB,EB,0.0
+4a6ffbb6-e7bc-4861-82ba-ee6a6704250f,22885a6e-1765-4ade-a35e-ae668bd07256,OBD_2023_I,339,2024-Q4,Wood-Plastic-Composites (halogenfrei),135,WPC - Nachweis halogenfrei,EV-,EV-,0.0
+591b693f-8cfe-41fc-877d-68c730d9c31d,ca70a7e6-0ea4-4e90-a947-d44585783626,OBD_2024_I,339,2024-Q4,Wood-Plastic-Composites (halogenfrei),135,WPC - Nachweis halogenfrei,EV-,EV-,0.0
+c355d75b-9026-4899-a41c-e5d221c424f2,448d1096-2017-4901-a560-f652a83c737e,OBD_2020_II,340,2024-Q4,Zellulosefaser Einblas-Dämmstoff,136,Zellulosefaserflocken,EV-,RC+,0.75
+e08642c5-4c81-4170-9130-d7fa8fb6509f,22885a6e-1765-4ade-a35e-ae668bd07256,OBD_2023_I,340,2024-Q4,Zellulosefaser Einblas-Dämmstoff,136,Zellulosefaserflocken,EV-,RC+,0.75
+5fac6347-55b0-47be-9118-d8229d7e62c4,ca70a7e6-0ea4-4e90-a947-d44585783626,OBD_2024_I,340,2024-Q4,Zellulosefaser Einblas-Dämmstoff,136,Zellulosefaserflocken,EV-,RC+,0.75
+cf963fcb-0e03-48c0-b501-ad0d1e3c22c0,448d1096-2017-4901-a560-f652a83c737e,OBD_2020_II,341,2024-Q4,Zellulosefaserplatten,137,Zellulosefaserplatten,EV-,EV-,0.0
+acf6b988-2458-4ddc-aef8-9a6cd3a78485,22885a6e-1765-4ade-a35e-ae668bd07256,OBD_2023_I,341,2024-Q4,Zellulosefaserplatten,137,Zellulosefaserplatten,EV-,EV-,0.0
+3f764d2e-320b-4996-8c28-0f38e8971044,ca70a7e6-0ea4-4e90-a947-d44585783626,OBD_2024_I,341,2024-Q4,Zellulosefaserplatten,137,Zellulosefaserplatten,EV-,EV-,0.0
+0973f221-2284-4892-ae3d-1b8c2986b6dd,448d1096-2017-4901-a560-f652a83c737e,OBD_2020_II,342,2024-Q4,Zementestrich,138,Estrich CT - Zementestrich,Dep+,RC-,0.25
+abc6d78d-f274-4400-8f31-fe8d4c2949c9,22885a6e-1765-4ade-a35e-ae668bd07256,OBD_2023_I,342,2024-Q4,Zementestrich,138,Estrich CT - Zementestrich,Dep+,RC-,0.25
+86d919ee-8f30-4ca4-9b7e-717aecba6ac0,ca70a7e6-0ea4-4e90-a947-d44585783626,OBD_2024_I,342,2024-Q4,Zementestrich,138,Estrich CT - Zementestrich,Dep+,RC-,0.25
+c0e75107-cbcc-42ac-9b33-760efa5f90bf,22885a6e-1765-4ade-a35e-ae668bd07256,OBD_2023_I,345,2024-Q4,Zinkbleche,139,Zink,CL+,CL+,1.0
+26353b00-6cd3-426d-903b-9fc5b1670398,ca70a7e6-0ea4-4e90-a947-d44585783626,OBD_2024_I,345,2024-Q4,Zinkbleche,139,Zink,CL+,CL+,1.0
