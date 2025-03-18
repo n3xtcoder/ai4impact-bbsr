@@ -138,7 +138,7 @@ To work with this project locally, follow these steps to set up your Python envi
 ```bash
 # Clone the repository (if you haven't already)
 git clone <repository-url>
-cd challenge
+cd ai4impact-bbsr
 
 # Create a virtual environment
 python3 -m venv env
@@ -154,7 +154,7 @@ pip install -r requirements.txt
 ```bash
 # Clone the repository (if you haven't already)
 git clone <repository-url>
-cd challenge
+cd ai4impact-bbsr
 
 # Create a virtual environment
 python -m venv env
@@ -171,7 +171,7 @@ pip install -r requirements.txt
 ```bash
 # Clone the repository (if you haven't already)
 git clone <repository-url>
-cd challenge
+cd ai4impact-bbsr
 
 # Create a conda environment
 conda create -n bbsr-challenge python=3.8
