@@ -1,0 +1,148 @@
+Baumaterial ohne Fremd-/Störstoffe,Fremd-/Störstoffbeschreibung,Störstoffklasse
+Gussasphaltestrich,ohne Fremd-/Störstoffe,S0
+Gussasphaltestrich,"Klebstoff-, Bodenbelagsreste, Trennfolien",S2
+Gussasphaltestrich,Heizungsverteilrohre,S3
+Beton,ohne Fremd-/Störstoffe,S0
+Beton,Stahlbewehrung,S2
+Beton,"feinkörn. Material (Putze, Mörtel); org. Verbind., Bitumenreste, Gips in geringen Mengen (z.B. Feuchteabdichtungen, Spachteln, Anstriche)",S2
+Beton,"org. Verbind., Bitumen, Gips, Leichtanteile in größeren Mengen (z.B. Gipsputz, Bitumendickschicht, Folien, Flüssigabdichtungen, Dämmstoffreste); Epoxidharz in geringen Mengen (Fugenmassen bei WU Beton)",S3
+Beton,Reaktionsharzbeschichtung (z.B. Kunstharzbelag),S4
+Beton mit Carbonfasern,ohne Fremd-/Störstoffe,S0
+Beton mit Carbonfasern,"feinkörn. Material (Putze, Mörtel); org. Verbind., Bitumenreste, Gips in geringen Mengen (z.B. Feuchteabdichtungen, Spachteln, Anstriche)",S2
+Beton mit Carbonfasern,"org. V., Bitumen, Gips, Leichtanteile in größeren Mengen (z.B. Gipsputz, Bitumendickschicht, Folien, Flüssigabdichtungen, Dämmstoffreste); Epoxidharz in geringen Mengen (Fugenmassen bei WU Beton, Feuchteabdichtung)",S3
+Beton mit Carbonfasern,Reaktionsharzbeschichtung (z.B. Kunstharzbelag),S4
+Leichtbeton,ohne Fremd-/Störstoffe,S0
+Leichtbeton,"feinkörn. Material (Putze, Mörtel); org. Verbind., Bitumenreste, Gips in geringen Mengen (z.B. Spachteln, Anstriche)",S2
+Leichtbeton,"org. V., Bitumen, Gips (z.B. Gipsputz, Bitumendickschicht, Folien, Dämmstoffreste)",S3
+Tondachziegel,ohne Fremd-/Störstoffe,S0
+Ziegel - HLZ,ohne Fremd-/Störstoffe,S0
+Ziegel - HLZ,"feinkörn. Material (Putze, Mörtel); org. Verbind., Bitumenreste, Gips in geringen Mengen  (z.B. Spachteln, Anstriche)",S2
+Ziegel - HLZ,"org. V., Bitumen, Gips, Leichtanteile in größeren Mengen (z.B. Gipsputz, Bitumendickschicht, Folien, Dämmstoffreste)",S3
+Ziegel mineralisch gefüllt,ohne Fremd-/Störstoffe,S0
+Ziegel mineralisch gefüllt,"feinkörn. Material, org. Verbind., Bitumenreste, Gips in geringen Mengen (z.B. Spachteln, Anstriche)",S2
+Ziegel mineralisch gefüllt,"org. Verbind., Bitumen, Gips, Leichtanteile in größeren Mengen (z.B. Gipsputz, Bitumendickschicht, Folien, Dämmstoffreste)",S3
+Ziegel EPS gefüllt,ohne Fremd-/Störstoffe,S0
+Ziegel EPS gefüllt,"feinkörn. Material, org. Verbind., Bitumenreste, Gips in geringen Mengen (z.B. Spachteln, Anstriche)",S2
+Ziegel EPS gefüllt,"org. Verbind., Bitumen, Gips, Leichtanteile in größeren Mengen (z.B. Gipsputz, Bitumendickschicht, Folien, Dämmstoffreste)",S3
+Porenbeton,ohne Fremd-/Störstoffe,S0
+Porenbeton,"feinkörn. Material, org. Verbind., Bitumenreste, Gips in geringen Mengen (z.B. Spachteln, Anstriche)",S2
+Porenbeton,"org. Verbind., Bitumen, Gips, Leichtanteile in größeren Mengen (z.B. Gipsputz, Bitumendickschicht, Folien, Dämmstoffreste)",S3
+Lehm (z.B. Stampflehm),"Lehmputz, Lehmfarbe",S1
+Lehm (z.B. Stampflehm),Verunreinigungen mit natürl. Materialien  (Naturfarbe),S2
+Lehm (z.B. Stampflehm),"Konvent. Wandfarbe; Zement, Kalk, Gips, Kunststoffe",S3
+Lehm (z.B. Stampflehm),"problematische Beschichtung (Schwermetalle, Halogene, Biozide)",S4
+Lehmbauplatte,"Lehmputz, Lehmfarbe",S1
+Lehmbauplatte,Verunreinigungen mit natürl. Materialien  (Naturfarbe),S2
+Lehmbauplatte,"Konvent. Wandfarbe; Zement, Kalk, Gips, Kunststoffe",S3
+Lehmbauplatte,"problematische Beschichtung (Schwermetalle, Halogene, Biozide)",S4
+Lehmputz,ohne Fremd-/Störstoffe ,S0
+Lehmputz,Lehmfarbe,S1
+Lehmputz,"Verunreinigungen mit natürl. Materialien (Naturfarbe, Kalkmörtel, Armierungsgewebe)",S2
+Lehmputz,"Konvent. Wandfarbe, problematische Beschichtung  (Schwermetalle, Halogene, Biozide)",S4
+Putz mineral,ohne Fremd-/Störstoffe,S0
+Gipsfaser,Gipsspachtel,S1
+Gipsfaser,"Wandfarbe, geringf. Klebstoff-, Belagsreste",S2
+Gipsfaser,"Verunr.mit Kunststoffen, Dämmstoffen, Metallkasch, Massivbaustoffen",S3
+Gipsplatte,Gipsspachtel,S1
+Gipsplatte,"Wandfarbe, geringf. Klebstoff-, Belagsreste",S2
+Gipsplatte,"Verunr.mit Kunststoffen, Dämmstoffen, Metallkasch, Massivbaustoffen",S3
+Kies/Schotter/Splitt,ohne Fremd-/Störstoffe,S0
+Schüttung geb mineral/mineral,ohne Fremd-/Störstoffe,S0
+Schüttung geb mineral/mineral,"Kunststoff-, Bitumenbahnen",S3
+Schüttung geb organ/mineral,ohne Fremd-/Störstoffe,S0
+Schüttung geb organ/mineral,"Kunststoff-, Bitumenbahnen",S3
+Anhydritestrich,ohne Fremd-/Störstoffe,S0
+Anhydritestrich,"geringfügig verunreinigt (Klebstoffreste, Belagsreste, Trennlagen)",S2
+Anhydritestrich,"Heizungsverteilrohre; verunreinigt mit Dämmstoff, Kunststoff/Bitumen (Bahnen, Beschichtungen, Flüssigfolie/-abdichtung)",S3
+Zementestrich,ohne Fremd-/Störstoffe,S0
+Zementestrich,"geringfügig verunreinigt (Klebstoffreste, Belagsreste, Trennlagen)",S2
+Zementestrich,"Heizungsverteilrohre; verunreinigt mit Dämmstoff, Kunststoff/Bitumen (Bahnen, Beschichtungen, Flüssigfolie/-abdichtung)",S3
+Holz - Balken etc. ins Rec,"ohne Fremd-/Störstoffe (nicht beschichtet, nicht behandelt)",S0
+Holz - Balken etc. ins Rec,"Naturfarbe (Öl, Wachs, Lasur)",S1
+Holz - Balken etc. ins Rec,"geringfügig verunreinigt (konv. Besch, Klebstoffreste, Belagsreste, Bitumenreste)",S2
+Holz - Balken etc. ins Rec,"problematische Beschichtung (Schwermetalle, Halogene, Biozide)",S4
+"Holz, Holzwerkstoff - behandelt od. stark verunreinigt",Dampfdruckausgleichsschicht (Bitumenbahnen mit Metalleinlage),S2
+"Holz, Holzwerkstoff - behandelt od. stark verunreinigt","verunreinigt mit Dämmstoff, Kunststoff/Bitumen (Bahnen, Beschichtungen)",S3
+Holz - kein oder wenig Leim,"ohne Fremd-/Störstoffe (nicht beschichtet, nicht behandelt)",S0
+Holz - kein oder wenig Leim,"Naturfarbe (Öl, Wachs, Lasur)",S1
+Holz - kein oder wenig Leim,"geringfügig verunreinigt (konv. Besch, Klebstoffreste, Belagsreste, Bitumenreste)",S2
+Holz - kein oder wenig Leim,"problematische Beschichtung (Schwermetalle, Halogene, Biozide)",S4
+Spanplatte mit Rec.pot.,ohne Fremd-/Störstoffe,S0
+Spanplatte mit Rec.pot.,Metallteile,S1
+Spanplatte mit Rec.pot.,"geringfügig verunreinigt (konv. Besch, Klebstoffreste, Belagsreste)",S2
+Spanplatte mit Rec.pot.,"problematische Beschichtung (Schwermetalle, Halogene, Biozide)",S4
+OSB-Platte,ohne Fremd-/Störstoffe,S0
+OSB-Platte,Metallteile,S1
+OSB-Platte,"geringfügig verunreinigt (konv. Besch, Klebstoffreste, Belagsreste)",S2
+OSB-Platte,"problematische Beschichtung (Schwermetalle, Halogene, Biozide)",S4
+Holzzement,ohne Fremd-/Störstoffe,S0
+Holzzement,"Dämmstoffe, Putze, Mörtel",S3
+WPC (Wood Plastic Composites),Metallteile,S1
+WPC mit PVC,Metallteile,S1
+Holzfaserdämmplatte,ohne Fremd-/Störstoffe,S0
+Holzfaserdämmplatte,"Putz, Klebespachtel, Klebstoff",S3
+Pflanzenfaser ohne ZS,ohne Fremd-/Störstoffe,S0
+Pflanzenfaser ohne ZS,"Putz, Klebespachtel, Klebstoff",S3
+"Pflanzenfaser mit ZS (FSM, Bindemittel)",ohne Fremd-/Störstoffe,S0
+"Pflanzenfaser mit ZS (FSM, Bindemittel)","Putz, Klebespachtel, Klebstoff",S3
+Expandierter Kork ,ohne Fremd-/Störstoffe,S0
+Expandierter Kork,"Putz, Klebespachtel, Klebstoff",S3
+EPS ,ohne Fremd-/Störstoffe,S0
+EPS ,"Putze, Klebespachtel (WDVS), Alukaschierung, Gipskarton",S3
+XPS,ohne Fremd-/Störstoffe,S0
+XPS,"verunreinigt mit Bitumen, Putze, Klebespachtel, Klebstoffe",S3
+KSDämm (PE-Schaum),ohne Fremd-/Störstoffe,S0
+KSDämm (PE-Schaum),"verunreinigt mit Bitumen, Putze, Klebespachtel, Klebstoffe",S3
+"PUR-, PIR-, Phenolharz, Melamin-Dämmstoffe",ohne Fremd-/Störstoffe,S0
+"PUR-, PIR-, Phenolharz, Melamin-Dämmstoffe","Alukaschierung, Putze, Klebespachtel (WDVS), Gipskarton, verunreinigt mit Bitumen, Klebespachtel, Klebstoffe",S3
+Glaswolle,ohne Fremd-/Störstoffe,S0
+Glaswolle,"Kaschierung, Gipskarton, Putze, Klebespachtel",S3
+Steinwolle,ohne Fremd-/Störstoffe,S0
+Steinwolle,"Kaschierung, Gipskarton, Putze, Klebespachtel",S3
+Mineralschaumplatte,ohne Fremd-/Störstoffe,S0
+Mineralschaumplatte,"Putze, Klebespachtel (WDVS)",S2
+Schafwolle (keine Zusatzstoffe),ohne Fremd-/Störstoffe,S0
+Strohballen (keine Zusatzstoffe),ohne Fremd-/Störstoffe,S0
+Strohballen (keine Zusatzstoffe),Putz,S3
+"Zellulosefaserplatte (FSM, Bindemittel)",ohne Fremd-/Störstoffe,S0
+Zellulosefaserflocken (FSM),ohne Fremd-/Störstoffe,S0
+KSTBahn,ohne Fremd-/Störstoffe,S0
+KSTBahn,Klebereste,S3
+PVC-Folie,ohne Fremd-/Störstoffe,S0
+"PVC-Folie Neueinstufung, wenn verklebt",Klebereste,S4
+Fensterstock (Rahmenmaterial),"PUR-, PIR-Reste",S2
+Alu (Ist-Szenario Knet zu Guss) - für Baustoffliste,ohne Fremd-/Störstoffe (unbeschichtet oder eloxiert),S0
+Alu (Ist-Szenario Knet zu Guss) - für Baustoffliste,beschichtet,S2
+Alu Gussteile (Ist-Guss zu Guss),ohne Fremd-/Störstoffe (unbeschichtet oder eloxiert),S0
+Alu Gussteile (Ist-Guss zu Guss),beschichtet,S2
+Alu Recyclingnw Knetleg,ohne Fremd-/Störstoffe (unbeschichtet oder eloxiert),S0
+Alu Recyclingnw Knetleg,beschichtet,S2
+Stahl - Bewehrung,Beton (Stahlbeton) ,S2
+"Stahl - Baustahl (Stahlträger, etc.)",ohne Fremd-/Störstoffe,S0
+"Stahl - Baustahl (Stahlträger, etc.)",beschichtet,S2
+Stahl - Stahlblech,ohne Fremd-/Störstoffe,S0
+Stahl - Stahlblech,beschichtet,S2
+"Elast BB - Linoleumbelag, Gummibelagt",ohne Fremd-/Störstoffe,S0
+"Elast BB - Linoleumbelag, Gummibelag",Klebstoffreste,S2
+PVC-Belag,ohne Fremd-/Störstoffe,S0
+PVC-Belag ,Klebstoffreste,S2
+Korkbelag,ohne Fremd-/Störstoffe,S0
+Korkbelag,"Beschichtung, Klebstoffreste",S2
+Korkbelag,"problematische Beschichtung (Schwermetalle, Halogene, Biozide)",S4
+Textilbelag,ohne Fremd-/Störstoffe,S0
+Textilbelag,Klebstoffreste,S2
+"Mehrschichtparkett, Stabperkett, Laminat",ohne Fremd-/Störstoffe,S0
+"Mehrschichtparkett, Stabperkett, Laminat",Klebstoffreste,S2
+Massivholzboden,ohne Fremd-/Störstoffe,S0
+"Parkett, Massivholzboden",Nägel,S1
+Massivholzboden,Klebstoffreste,S2
+"Parkett, Massivholzboden","problematische Beschichtung (Schwermetalle, Halogene, Biozide)",S4
+"Naturstein, Kunststein",ohne Fremd-/Störstoffe,S0
+"Naturstein, Kunststein",Kalkmörtel (leicht trennbar),S1
+"Naturstein, Kunststein","Kalkzementmörtel, Imprägnierung",S2
+"Keramik-, Klinkerplatten, -böden",ohne Fremd-/Störstoffe,S0
+"Keramik-, Klinkerplatten, -böden",Kalkmörtel (leicht trennbar),S1
+"Keramik-, Klinkerplatten, -böden","Kalkzementmörtel, Imprägnierung",S2
+Glasbaustein,ohne Fremd-/Störstoffe,S0
+Glasbaustein,Mörtel; Bewehrungsstahl im Mörtel,S2
+Glasbaustein,"Klebstoffreste, Kunststoffleisten-Reste",S3

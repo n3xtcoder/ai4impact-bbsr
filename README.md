@@ -62,17 +62,27 @@ The [ÖKOBAUDAT](https://www.oekobaudat.de/en.html) contains life cycle assessme
 
 For detailed column descriptions, see [OBD_column_description.md](data/OBD/OBD_column_description.md).
 
+**Notes on ÖKOBAUDAT Data**:
+- Each dataset contains environmental impact indicators organized by lifecycle phases
+- Material entries include detailed technical specifications and reference quantities
+- Data follows standardized categories based on international norms (EN 15804)
+- UUID identifiers ensure consistent referencing across different datasets
+
 ### tBaustoff Dataset
 
 The tBaustoff dataset provides material mapping information with 10 columns. It connects to the ÖKOBAUDAT dataset through process UUIDs and contains end-of-life scenario information for various materials.
 
 For detailed column descriptions, see [tBaustoff_column_description.md](data/tBaustoff/tBaustoff_column_description.md).
 
-**Notes on ÖKOBAUDAT Data**:
-- Each dataset contains environmental impact indicators organized by lifecycle phases
-- Material entries include detailed technical specifications and reference quantities
-- Data follows standardized categories based on international norms (EN 15804)
-- UUID identifiers ensure consistent referencing across different datasets
+### Pollutant Combinations Dataset
+
+The [pollutant_combinations.csv](data/tBaustoff/pollutant_combinations.csv) dataset provides valuable information for Goal 1 (Material Connection & Disturbance Classification). It contains:
+
+- **Building Materials**: Various construction materials (concrete, wood, insulation, etc.)
+- **Disturbing Substances**: Descriptions of potential contaminants or foreign materials
+- **Disturbance Classes**: Classification from S0 (no disturbance) to S4 (highly problematic)
+
+This dataset helps assess how different material combinations affect recycling potential and environmental impact, which is crucial for circular construction practices.
 
 ### Dataset Structure
 
@@ -87,7 +97,8 @@ data/
 │   └── OBD_column_description.md
 ├── tBaustoff/
 │   ├── tBaustoff.csv
-│   └── tBaustoff_column_description.md
+│   ├── tBaustoff_column_description.md
+│   └── pollutant_combinations.csv
 └── supplements/
     └── [Additional PDF documents]
 ```
