@@ -120,9 +120,6 @@ When working with these datasets, consider these key circularity concepts:
 
 3. **Environmental Indicators**: Key metrics to consider include
    - Global Warming Potential (GWP)
-   - Primary Energy Demand (PED)
-   - Acidification Potential (AP)
-   - Resource depletion indicators
 
 ## Getting Started
 
